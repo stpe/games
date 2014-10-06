@@ -1,0 +1,7 @@
+{% assign games = site.data.games | where: "platform", page.platform %}
+
+<ul>
+{% for game in games | sort:"weight" %}
+    <li>{{ game.title }}</li>
+{% endfor %}
+</ul>
