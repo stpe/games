@@ -19,7 +19,9 @@ module.exports = function(grunt) {
             var rowdata = {};
             Object.keys(row).forEach(function(col) {
               var key = header[col] ? header[col].toLowerCase().replace(/[^a-z]/g, "") : col;
-              rowdata[key] = row[col];
+              if (["title", "platform", "code"].indexOf(key) != -1) {
+                rowdata[key] = String(row[col]);
+              }
             });
             return rowdata;
           }
