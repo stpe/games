@@ -49,6 +49,10 @@
     "platform": "A2600"
   },
   {
+    "title": "Base Attack",
+    "platform": "A2600"
+  },
+  {
     "title": "Baseball",
     "platform": "A2600",
     "code": "99819"
@@ -76,6 +80,11 @@
   {
     "title": "Billiard",
     "platform": "A2600"
+  },
+  {
+    "title": "Blue Print",
+    "platform": "A2600",
+    "code": "4L2482"
   },
   {
     "title": "Bobby geht nach hause",
@@ -125,6 +134,11 @@
     "title": "Circus Atari",
     "platform": "A2600",
     "code": "CX2630"
+  },
+  {
+    "title": "Combat",
+    "platform": "A2600",
+    "code": "CX2601"
   },
   {
     "title": "Combat",
@@ -222,6 +236,10 @@
     "code": "CX2625"
   },
   {
+    "title": "Frogger",
+    "platform": "A2600"
+  },
+  {
     "title": "Frogs and Flies",
     "platform": "A2600"
   },
@@ -236,6 +254,11 @@
     "code": "CX2634P"
   },
   {
+    "title": "Gopher",
+    "platform": "A2600",
+    "code": "USC2001"
+  },
+  {
     "title": "Haunted House",
     "platform": "A2600",
     "code": "CX2654"
@@ -243,6 +266,16 @@
   {
     "title": "Hot Wave",
     "platform": "A2600"
+  },
+  {
+    "title": "Human Cannonball",
+    "platform": "A2600",
+    "code": "CX2627P"
+  },
+  {
+    "title": "Ice Hockey",
+    "platform": "A2600",
+    "code": "EAX-012"
   },
   {
     "title": "Indy 500",
@@ -289,6 +322,16 @@
     "platform": "A2600"
   },
   {
+    "title": "Laser Blast",
+    "platform": "A2600",
+    "code": "AG-008"
+  },
+  {
+    "title": "Master Builder",
+    "platform": "A2600",
+    "code": "SA-210"
+  },
+  {
     "title": "Math Gran Prix",
     "platform": "A2600",
     "code": "CX2658"
@@ -333,6 +376,10 @@
   },
   {
     "title": "Motocross",
+    "platform": "A2600"
+  },
+  {
+    "title": "My Golf",
     "platform": "A2600"
   },
   {
@@ -466,6 +513,15 @@
     "platform": "A2600"
   },
   {
+    "title": "Sea Master",
+    "platform": "A2600"
+  },
+  {
+    "title": "Skate Boardin",
+    "platform": "A2600",
+    "code": "AG-042-02"
+  },
+  {
     "title": "Skiing",
     "platform": "A2600",
     "code": "EAG-005"
@@ -494,6 +550,11 @@
     "title": "Solaris",
     "platform": "A2600",
     "code": "CX26136"
+  },
+  {
+    "title": "Sorcerer&apos;s Apprentice",
+    "platform": "A2600",
+    "code": "CX26109"
   },
   {
     "title": "Space Attack",
@@ -528,6 +589,11 @@
     "platform": "A2600"
   },
   {
+    "title": "Sprint Master",
+    "platform": "A2600",
+    "code": "CX26155P"
+  },
+  {
     "title": "Star Raiders",
     "platform": "A2600",
     "code": "CX2660"
@@ -536,6 +602,14 @@
     "title": "Star Raiders",
     "platform": "A2600",
     "code": "CX2660"
+  },
+  {
+    "title": "Star Voyager",
+    "platform": "A2600"
+  },
+  {
+    "title": "Star Wars Jedi Arena",
+    "platform": "A2600"
   },
   {
     "title": "Star Wars The Empire Strikes Back",
@@ -562,8 +636,18 @@
     "code": "CX2608"
   },
   {
+    "title": "Super Football",
+    "platform": "A2600",
+    "code": "CX2615P"
+  },
+  {
     "title": "Super-Ferrari",
     "platform": "A2600"
+  },
+  {
+    "title": "Tank-Plus",
+    "platform": "A2600",
+    "code": "75124"
   },
   {
     "title": "Target Fun",
@@ -606,6 +690,11 @@
   {
     "title": "Winter Games",
     "platform": "A2600"
+  },
+  {
+    "title": "Wizard of Wor",
+    "platform": "A2600",
+    "code": "4L2276 / PA800025"
   },
   {
     "title": "World End",
@@ -785,6 +874,11 @@
     "code": "DMG-WA-EUR"
   },
   {
+    "title": "WWF Superstars 2",
+    "platform": "GB",
+    "code": "DMG-WX-USA"
+  },
+  {
     "title": "Zelda: Link&apos;s Awakening",
     "platform": "GB",
     "code": "DMG-ZL-EUR"
@@ -798,6 +892,11 @@
     "title": "Ready 2 Rumble Boxing round 2",
     "platform": "GBA",
     "code": "AGB-AR2P-EUR"
+  },
+  {
+    "title": "102 Dalmatians",
+    "platform": "GBC",
+    "code": "CGB-B99P-UKV"
   },
   {
     "title": "Harry Potter The Philosopher&apos;s Stone",
@@ -826,6 +925,11 @@
   {
     "title": "Todd&apos;s Adventure in Slime World",
     "platform": "LYNX"
+  },
+  {
+    "title": "Pokemon Platinum",
+    "platform": "NDS",
+    "code": "NTR-CPUP-EUR"
   },
   {
     "title": "Bionic Commando",
@@ -878,6 +982,16 @@
     "code": "NES-IW-EEC"
   },
   {
+    "title": "Marble Madness",
+    "platform": "NES",
+    "code": "NES-MV-NOE"
+  },
+  {
+    "title": "Pinball",
+    "platform": "NES",
+    "code": "NES-PN-NOE"
+  },
+  {
     "title": "R.C. Pro-Am",
     "platform": "NES",
     "code": "NES-PM-FRA"
@@ -886,6 +1000,11 @@
     "title": "Rad Racer",
     "platform": "NES",
     "code": "NES-RC-NOE"
+  },
+  {
+    "title": "Rush&apos;n Attack",
+    "platform": "NES",
+    "code": "NES-RA-EEC"
   },
   {
     "title": "Snake Rattle N Roll",
@@ -1095,6 +1214,11 @@
     "code": "SNSP-FS-NOE"
   },
   {
+    "title": "Alien Invaders-Plus!",
+    "platform": "VIDEOPAC",
+    "code": "ODYSSEY2/AA9428"
+  },
+  {
     "title": "Cosmic Conflict",
     "platform": "VIDEOPAC",
     "code": "11"
@@ -1105,14 +1229,9 @@
     "code": "10"
   },
   {
-    "title": "Race / Spin-out / Cryptogram",
+    "title": "K.C. Munchkin!",
     "platform": "VIDEOPAC",
-    "code": "1"
-  },
-  {
-    "title": "Rush&apos;n Attack",
-    "platform": "NES",
-    "code": "NES-RA-EEC"
+    "code": "ODYSSEY2/AC9435"
   },
   {
     "title": "Pick Axe Pete!",
@@ -1120,14 +1239,9 @@
     "code": "ODYSSEY2/AC9437"
   },
   {
-    "title": "Alien Invaders-Plus!",
+    "title": "Race / Spin-out / Cryptogram",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AA9428"
-  },
-  {
-    "title": "K.C. Munchkin!",
-    "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AC9435"
+    "code": "1"
   },
   {
     "title": "Speedway / Spin-out / Crypto-logic!",
@@ -1138,96 +1252,5 @@
     "title": "UFO!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AB9430"
-  },
-  {
-    "title": "Marble Madness",
-    "platform": "NES",
-    "code": "NES-MV-NOE"
-  },
-  {
-    "title": "Pinball",
-    "platform": "NES",
-    "code": "NES-PN-NOE"
-  },
-  {
-    "title": "102 Dalmatians",
-    "platform": "GBC",
-    "code": "CGB-B99P-UKV"
-  },
-  {
-    "title": "Master Builder",
-    "platform": "A2600"
-  },
-  {
-    "title": "Ice Hockey",
-    "platform": "A2600"
-  },
-  {
-    "title": "Star Wars Jedi Arena",
-    "platform": "A2600"
-  },
-  {
-    "title": "Combat",
-    "platform": "A2600"
-  },
-  {
-    "title": "Blue Print",
-    "platform": "A2600"
-  },
-  {
-    "title": "Sea Master",
-    "platform": "A2600"
-  },
-  {
-    "title": "Human Cannonball",
-    "platform": "A2600"
-  },
-  {
-    "title": "Frogger",
-    "platform": "A2600"
-  },
-  {
-    "title": "Super Football",
-    "platform": "A2600"
-  },
-  {
-    "title": "Base Attack",
-    "platform": "A2600"
-  },
-  {
-    "title": "Star Voyager",
-    "platform": "A2600"
-  },
-  {
-    "title": "Laser Blast",
-    "platform": "A2600"
-  },
-  {
-    "title": "Tank-Plus",
-    "platform": "A2600"
-  },
-  {
-    "title": "Sprint Master",
-    "platform": "A2600"
-  },
-  {
-    "title": "Wizard of Wor",
-    "platform": "A2600"
-  },
-  {
-    "title": "Sorcerer&apos;s Apprentice",
-    "platform": "A2600"
-  },
-  {
-    "title": "My Golf",
-    "platform": "A2600"
-  },
-  {
-    "title": "Skate Boardin",
-    "platform": "A2600"
-  },
-  {
-    "title": "Gopher",
-    "platform": "A2600"
   }
 ]
