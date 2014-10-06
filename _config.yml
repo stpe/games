@@ -1,0 +1,23 @@
+# Site settings
+title: stpe games
+email: stefpet@gmail.com
+description: >
+  Personal website to keep track of my collection of games.
+  Want one to? Fork it from <a href="https://github.com/stpe/games">Githuaab</a>.
+baseurl: "/games" # the subpath of your site, e.g. /blog/
+url: "https://stpe.github.com" # the base hostname & protocol for your site
+twitter_username: stpe
+github_username:  stpe
+
+# Build settings
+markdown: kramdown
+
+safe: true
+lsi: false
+
+exclude:
+ - Gruntfile.js
+ - grunt-gss.json
+ - package.json
+ - README.md
+ - gss-key.pem
