@@ -1,0 +1,38 @@
+.maingrid {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    $grid-padding: 10px;
+
+    > li {
+
+        a {
+            margin: 5px;
+            padding: $grid-padding;
+            text-align: center;
+            background-color: rgba(0,0,0,0.05);
+            float: left;
+            line-height: $main-grid-square-size;
+            height: $main-grid-square-size;
+
+            img {
+                width: $main-grid-square-size - 2 * $grid-padding;
+
+                -webkit-filter: grayscale(100%);
+                -moz-filter: grayscale(100%);
+                filter: grayscale(100%);
+
+                &:hover {
+                    -webkit-filter: grayscale(0%);
+                    -moz-filter: grayscale(0%);
+                    filter: grayscale(0%);
+                }
+            }
+
+            &:hover {
+                background-color: rgba(0,0,0,0.25);
+            }
+        }
+    }
+}
