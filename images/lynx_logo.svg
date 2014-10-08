@@ -20,10 +20,7 @@
        transform="scale(0.1,0.1)"
        id="g12"><path
          id="path14"
-         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 5,5 7920,0 0,6120 L 5,6125 5,5 Z" /><path
-         id="path16"
-         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill-opacity:0;fill-rule:nonzero;stroke:none"
          d="m 5,5 7920,0 0,6120 L 5,6125 5,5 Z" /><path
          id="path18"
          style="fill:#eb222c;fill-opacity:1;fill-rule:nonzero;stroke:none"
