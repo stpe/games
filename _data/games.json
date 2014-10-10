@@ -843,6 +843,11 @@
     "code": "DMG-MQ-SCN"
   },
   {
+    "title": "Super Mario Land 3: Wario Land",
+    "platform": "GB",
+    "code": "DMG-WJ-SCN"
+  },
+  {
     "title": "Teenage Mutant Hero Turtles II",
     "platform": "GB",
     "code": "DMG-TT-SCN"
@@ -881,11 +886,6 @@
     "title": "Titus Fox",
     "platform": "GB",
     "code": "DMG-FO-FAH"
-  },
-  {
-    "title": "Wario Land: Super Mario Land 3",
-    "platform": "GB",
-    "code": "DMG-WJ-SCN"
   },
   {
     "title": "Wave Race",
@@ -1069,14 +1069,14 @@
     "code": "NES-ZZ-NOE"
   },
   {
+    "title": "Super Mario Bros 2",
+    "platform": "NES",
+    "code": "NES-MW-NOE"
+  },
+  {
     "title": "Super Mario Bros 3",
     "platform": "NES",
     "code": "NES-UM-SCN"
-  },
-  {
-    "title": "Super Mario Bros. 2",
-    "platform": "NES",
-    "code": "NES-MW-NOE"
   },
   {
     "title": "Teenage Mutant Hero Turtles",
