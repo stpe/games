@@ -3,6 +3,12 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     gss: grunt.file.readJSON('grunt-gss.json'),
 
+    shell: {
+      jekyllServe: {
+        command: 'jekyll serve --watch'
+      }
+    },
+
     gss_to_json: {
       dev: {
         options: {
@@ -26,14 +32,15 @@ module.exports = function(grunt) {
             return rowdata;
           }
         },
-        dest: "_data/games.json"
+        dest: '_data/games.json'
       }
     }
-
   });
 
+  grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-gss-to-json');
 
-  grunt.registerTask('default', ['gss_to_json']);
+  grunt.registerTask('update', ['gss_to_json']);
+  grunt.registerTask('default', ['shell:jekyllServe']);
 };
 
