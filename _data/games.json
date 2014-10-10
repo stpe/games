@@ -8,6 +8,10 @@
     "platform": "A2600"
   },
   {
+    "title": "Acid Drop",
+    "platform": "A2600"
+  },
+  {
     "title": "Air Sea Battle",
     "platform": "A2600",
     "code": "CX2602"
@@ -109,6 +113,11 @@
     "title": "Breakout",
     "platform": "A2600",
     "code": "CX2622P"
+  },
+  {
+    "title": "Carnival",
+    "platform": "A2600",
+    "code": "4L2277 / PA244525"
   },
   {
     "title": "Centipede",
@@ -379,6 +388,11 @@
     "platform": "A2600"
   },
   {
+    "title": "Mouse Trap",
+    "platform": "A2600",
+    "code": "4L1819"
+  },
+  {
     "title": "My Golf",
     "platform": "A2600"
   },
@@ -401,6 +415,11 @@
     "title": "Othello",
     "platform": "A2600",
     "code": "CX2639P"
+  },
+  {
+    "title": "Pac Man",
+    "platform": "A2600",
+    "code": "CX2646"
   },
   {
     "title": "Pac Man",
@@ -927,6 +946,26 @@
     "platform": "LYNX"
   },
   {
+    "title": "Zelda: Majora&apos;s Mask",
+    "platform": "N64",
+    "code": "NUS-NZSP-EUR"
+  },
+  {
+    "title": "Zelda: Ocarina of Time",
+    "platform": "N64",
+    "code": "NUS-NZLP-EUR"
+  },
+  {
+    "title": "Zelda: Ocarina of Time",
+    "platform": "N64",
+    "code": "NUS-NZLP-EUR"
+  },
+  {
+    "title": "Zelda: Ocarina of Time",
+    "platform": "N64",
+    "code": "NUS-NZLP-EUR"
+  },
+  {
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
@@ -1212,6 +1251,11 @@
     "title": "Super Soccer",
     "platform": "SNES",
     "code": "SNSP-FS-NOE"
+  },
+  {
+    "title": "Zelda: A Link to the Past",
+    "platform": "SNES",
+    "code": "SNSP-ZL-SCN"
   },
   {
     "title": "Alien Invaders-Plus!",
