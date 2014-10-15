@@ -72,6 +72,16 @@
     "code": "CX2624P"
   },
   {
+    "title": "Battlezone",
+    "platform": "A2600",
+    "code": "CX2681"
+  },
+  {
+    "title": "Beamrider",
+    "platform": "A2600",
+    "code": "EAZ-037-04I"
+  },
+  {
     "title": "Berzerk",
     "platform": "A2600",
     "code": "CX2650"
@@ -145,6 +155,11 @@
     "code": "CX2630"
   },
   {
+    "title": "Circus Atari",
+    "platform": "A2600",
+    "code": "C2630P"
+  },
+  {
     "title": "Combat",
     "platform": "A2600",
     "code": "CX2601"
@@ -172,6 +187,11 @@
     "title": "Cosmic Creeps",
     "platform": "A2600",
     "code": "1002"
+  },
+  {
+    "title": "Cross Force",
+    "platform": "A2600",
+    "code": "SA-203"
   },
   {
     "title": "Cross Force",
@@ -256,6 +276,11 @@
     "title": "Galaxian",
     "platform": "A2600",
     "code": "CX2684"
+  },
+  {
+    "title": "Gas Hog",
+    "platform": "A2600",
+    "code": "SA-217"
   },
   {
     "title": "Golf",
@@ -375,6 +400,10 @@
     "platform": "A2600"
   },
   {
+    "title": "Mission 3000",
+    "platform": "A2600"
+  },
+  {
     "title": "MoonPatrol",
     "platform": "A2600",
     "code": "CX2692"
@@ -440,6 +469,10 @@
     "title": "Peter Penguin",
     "platform": "A2600",
     "code": "554-37338"
+  },
+  {
+    "title": "Phantom-Panzer",
+    "platform": "A2600"
   },
   {
     "title": "Pitfall",
@@ -571,6 +604,11 @@
     "code": "CX26136"
   },
   {
+    "title": "Solaris",
+    "platform": "A2600",
+    "code": "CX26136"
+  },
+  {
     "title": "Sorcerer&apos;s Apprentice",
     "platform": "A2600",
     "code": "CX26109"
@@ -655,6 +693,11 @@
     "code": "CX2608"
   },
   {
+    "title": "Super Breakout",
+    "platform": "A2600",
+    "code": "CX2608"
+  },
+  {
     "title": "Super Football",
     "platform": "A2600",
     "code": "CX2615P"
@@ -672,6 +715,11 @@
     "title": "Target Fun",
     "platform": "A2600",
     "code": "99802"
+  },
+  {
+    "title": "Tennis",
+    "platform": "A2600",
+    "code": "CX2680"
   },
   {
     "title": "Threshold",
@@ -793,9 +841,19 @@
     "code": "DMG-AF5P-EUR"
   },
   {
+    "title": "Kwirk",
+    "platform": "GB",
+    "code": "DMG-AP-NOE"
+  },
+  {
     "title": "Ninja Ryukenden",
     "platform": "GB",
     "code": "DMG-NGJ"
+  },
+  {
+    "title": "Olympic Summer Games",
+    "platform": "GB",
+    "code": "DMG-AO9P-EUR"
   },
   {
     "title": "Pokemon Gold",
@@ -823,6 +881,11 @@
     "code": "DMG-SK-NOE-1"
   },
   {
+    "title": "SolarStriker",
+    "platform": "GB",
+    "code": "DMG-SS-NOE"
+  },
+  {
     "title": "Super Mario Land",
     "platform": "GB",
     "code": "DMG-ML-EUR"
@@ -848,6 +911,11 @@
     "code": "DMG-WJ-SCN"
   },
   {
+    "title": "Super R.C. Pro-Am",
+    "platform": "GB",
+    "code": "DMG-RC-NOE"
+  },
+  {
     "title": "Teenage Mutant Hero Turtles II",
     "platform": "GB",
     "code": "DMG-TT-SCN"
@@ -856,6 +924,16 @@
     "title": "Tennis",
     "platform": "GB",
     "code": "DMG-TN-SCN"
+  },
+  {
+    "title": "Tennis",
+    "platform": "GB",
+    "code": "DMG-TN-NOE"
+  },
+  {
+    "title": "Tennis",
+    "platform": "GB",
+    "code": "DMG-TN-NOE"
   },
   {
     "title": "Tetris",
@@ -908,9 +986,44 @@
     "code": "AGB-AC8P-EUR"
   },
   {
+    "title": "Ice Age",
+    "platform": "GBA",
+    "code": "AGB-AIAE-USA"
+  },
+  {
+    "title": "Noddy A day in Toyland",
+    "platform": "GBA",
+    "code": "AGB-BNKP-EUR"
+  },
+  {
+    "title": "Pinobee Wings of Adventure",
+    "platform": "GBA",
+    "code": "AGB-APBP-EUR"
+  },
+  {
+    "title": "Rayman 3",
+    "platform": "GBA",
+    "code": "AGB-AYZP-EUR"
+  },
+  {
     "title": "Ready 2 Rumble Boxing round 2",
     "platform": "GBA",
     "code": "AGB-AR2P-EUR"
+  },
+  {
+    "title": "Santa Claus Jr",
+    "platform": "GBA",
+    "code": "AGB-AXXP-EUR"
+  },
+  {
+    "title": "Super Duper Sumos",
+    "platform": "GBA",
+    "code": "AGB-ASDE-USA"
+  },
+  {
+    "title": "The Wild",
+    "platform": "GBA",
+    "code": "AGB-BWLP-EUR"
   },
   {
     "title": "102 Dalmatians",
@@ -946,6 +1059,76 @@
     "platform": "LYNX"
   },
   {
+    "title": "Banjo-Kazooie",
+    "platform": "N64",
+    "code": "NUS-NBKP-EUR"
+  },
+  {
+    "title": "Carmageddon 64",
+    "platform": "N64",
+    "code": "NUS-NCDX-EUU"
+  },
+  {
+    "title": "Excitebike 64",
+    "platform": "N64",
+    "code": "NUS-NMXP-EUR"
+  },
+  {
+    "title": "Excitebike 64",
+    "platform": "N64",
+    "code": "NUS-NMXP-EUR"
+  },
+  {
+    "title": "Excitebike 64",
+    "platform": "N64",
+    "code": "NUS-NMXP-EUR"
+  },
+  {
+    "title": "F-1 World Grand Prix II",
+    "platform": "N64",
+    "code": "NUS-NF2P-EUR"
+  },
+  {
+    "title": "Glover",
+    "platform": "N64",
+    "code": "NUS-NGVP-EUR-1"
+  },
+  {
+    "title": "Lego Racers",
+    "platform": "N64",
+    "code": "NUS-NLGP-EUR"
+  },
+  {
+    "title": "Multi-Racing Championship",
+    "platform": "N64",
+    "code": "NUS-NMRP-NOE"
+  },
+  {
+    "title": "Rayman 2",
+    "platform": "N64",
+    "code": "NUS-NY2P-EUR"
+  },
+  {
+    "title": "Rayman 2 The Great Escape",
+    "platform": "N64",
+    "code": "NUS-NY2P-EUR"
+  },
+  {
+    "title": "Star Wars Shadows of the Empire",
+    "platform": "N64",
+    "code": "NUS-NSWP-EUR"
+  },
+  {
+    "title": "Super Mario 64",
+    "platform": "N64",
+    "code": "NUS-NSMP-EUR"
+  },
+  {
+    "title": "Tonic Trouble",
+    "platform": "N64",
+    "code": "NUS-NTTP-EUR"
+  },
+  {
     "title": "Zelda: Majora&apos;s Mask",
     "platform": "N64",
     "code": "NUS-NZSP-EUR"
@@ -966,9 +1149,59 @@
     "code": "NUS-NZLP-EUR"
   },
   {
+    "title": "Zelda: Ocarina of Time",
+    "platform": "N64",
+    "code": "NUS-NZLP-EUR"
+  },
+  {
+    "title": "Astrology DS Horoscope",
+    "platform": "NDS",
+    "code": "NTR-CXPP-EUR"
+  },
+  {
+    "title": "Fifa 11",
+    "platform": "NDS",
+    "code": "TWL-VELV-EUR"
+  },
+  {
+    "title": "Hello Kitty Big City Dreams",
+    "platform": "NDS",
+    "code": "NTR-YUKX-SCN"
+  },
+  {
+    "title": "Imagine Fashion Designer",
+    "platform": "NDS",
+    "code": "NTR-YFHP-EUR"
+  },
+  {
+    "title": "Littlest Pet Shop 3",
+    "platform": "NDS",
+    "code": "NTR-BE7P-EUR"
+  },
+  {
+    "title": "Mario Kart DS",
+    "platform": "NDS",
+    "code": "NTR-AMCP-EUR"
+  },
+  {
+    "title": "Narnia Prince Caspian",
+    "platform": "NDS",
+    "code": "NTR-YQNX-EUR"
+  },
+  {
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
+  },
+  {
+    "title": "Tomodachi Collection",
+    "platform": "NDS",
+    "code": "NTR-CCUJ-JPN"
+  },
+  {
+    "title": "World Snooker Championship 2007-08",
+    "platform": "NDS",
+    "code": "NTR-YSNP-UKV"
   },
   {
     "title": "Bionic Commando",
@@ -1054,7 +1287,7 @@
     "platform": "NES"
   },
   {
-    "title": "Suoer Mario Bros",
+    "title": "Super Mario Bros",
     "platform": "NES",
     "code": "NES-SM-EEC"
   },
@@ -1079,6 +1312,11 @@
     "code": "NES-UM-SCN"
   },
   {
+    "title": "Super Off Road",
+    "platform": "NES",
+    "code": "NES-WU-EEC"
+  },
+  {
     "title": "Teenage Mutant Hero Turtles",
     "platform": "NES",
     "code": "NES-88-EEC"
@@ -1098,9 +1336,24 @@
     "code": "NES-F2-EEC"
   },
   {
+    "title": "Yoshi&apos;s Cookie",
+    "platform": "NES",
+    "code": "NES-CH-FRA"
+  },
+  {
     "title": "Zelda II: The Adventure of Link",
     "platform": "NES",
     "code": "NES-AL-EEC"
+  },
+  {
+    "title": "Zelda: The Legend of Zelda",
+    "platform": "NES",
+    "code": "NES-ZL-EEC"
+  },
+  {
+    "title": "Zelda: The Legend of Zelda",
+    "platform": "NES",
+    "code": "NES-ZL-EEC"
   },
   {
     "title": "Donkey Kong Country",
@@ -1171,6 +1424,11 @@
     "title": "Ms. Pac-Man",
     "platform": "SNES",
     "code": "SNSP-AN8P-EUR"
+  },
+  {
+    "title": "Pac-Attack",
+    "platform": "SNES",
+    "code": "SNSP-P9-NOE"
   },
   {
     "title": "Pilotwings",
