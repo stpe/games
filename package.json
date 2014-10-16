@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-gss-to-json": "^0.1.0",
+    "grunt-gss-to-json": "^0.1.1",
     "grunt-shell": "^1.1.1"
   }
 }
