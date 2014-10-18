@@ -8,6 +8,11 @@
     "platform": "A2600"
   },
   {
+    "title": "32 in 1",
+    "platform": "A2600",
+    "code": "CX26163P"
+  },
+  {
     "title": "Acid Drop",
     "platform": "A2600"
   },
@@ -180,6 +185,11 @@
     "code": "CX2601"
   },
   {
+    "title": "Combat",
+    "platform": "A2600",
+    "code": "CX2601"
+  },
+  {
     "title": "Cosmic Ark",
     "platform": "A2600"
   },
@@ -252,6 +262,10 @@
     "code": "CX26159"
   },
   {
+    "title": "Eddy Langfinger, der Museumsdieb",
+    "platform": "A2600"
+  },
+  {
     "title": "Enduro",
     "platform": "A2600"
   },
@@ -322,7 +336,12 @@
     "code": "CX2691"
   },
   {
-    "title": "Jr Pac Man",
+    "title": "Jr. Pac-Man",
+    "platform": "A2600",
+    "code": "CX26123"
+  },
+  {
+    "title": "Jr. Pac-Man",
     "platform": "A2600",
     "code": "CX26123"
   },
@@ -352,6 +371,11 @@
     "code": "EAX-039-04I"
   },
   {
+    "title": "Kung-Fu Master",
+    "platform": "A2600",
+    "code": "EAX-039-04I"
+  },
+  {
     "title": "Labyrinth",
     "platform": "A2600"
   },
@@ -359,6 +383,10 @@
     "title": "Laser Blast",
     "platform": "A2600",
     "code": "AG-008"
+  },
+  {
+    "title": "Marspatrouille",
+    "platform": "A2600"
   },
   {
     "title": "Master Builder",
@@ -402,6 +430,11 @@
   {
     "title": "Mission 3000",
     "platform": "A2600"
+  },
+  {
+    "title": "Moon Patrol",
+    "platform": "A2600",
+    "code": "CX2692P"
   },
   {
     "title": "MoonPatrol",
@@ -461,6 +494,11 @@
     "code": "CX2646"
   },
   {
+    "title": "Pac-Man",
+    "platform": "A2600",
+    "code": "CX2646"
+  },
+  {
     "title": "Pele&apos;s Soccer",
     "platform": "A2600",
     "code": "CX2616"
@@ -500,6 +538,10 @@
     "code": "CX2694"
   },
   {
+    "title": "Pro Wrestling",
+    "platform": "A2600"
+  },
+  {
     "title": "Q-Bert",
     "platform": "A2600"
   },
@@ -536,6 +578,11 @@
     "title": "RealSports Tennis",
     "platform": "A2600",
     "code": "CX2680"
+  },
+  {
+    "title": "RealSports Tennis",
+    "platform": "A2600",
+    "code": "CX2680P"
   },
   {
     "title": "RealSports Volleyball",
@@ -688,6 +735,10 @@
     "code": "CX2612"
   },
   {
+    "title": "Summer Games",
+    "platform": "A2600"
+  },
+  {
     "title": "Super Breakout",
     "platform": "A2600",
     "code": "CX2608"
@@ -736,6 +787,11 @@
     "code": "CX2669"
   },
   {
+    "title": "Vanguard",
+    "platform": "A2600",
+    "code": "CX2669"
+  },
+  {
     "title": "Venture",
     "platform": "A2600",
     "code": "4L2278 / PA241725"
@@ -765,6 +821,10 @@
   },
   {
     "title": "World End",
+    "platform": "A2600"
+  },
+  {
+    "title": "Wüstenschlact",
     "platform": "A2600"
   },
   {
