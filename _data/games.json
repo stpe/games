@@ -1214,9 +1214,29 @@
     "code": "NUS-NZLP-EUR"
   },
   {
+    "title": "42 All-Time Classics",
+    "platform": "NDS",
+    "code": "NTR-ATDP-EUR"
+  },
+  {
+    "title": "Advance Wars: Dual Strike",
+    "platform": "NDS",
+    "code": "NTR-AWRP-EUR"
+  },
+  {
     "title": "Astrology DS Horoscope",
     "platform": "NDS",
     "code": "NTR-CXPP-EUR"
+  },
+  {
+    "title": "Brain Training",
+    "platform": "NDS",
+    "code": "NTR-ANDP-EUR"
+  },
+  {
+    "title": "Chrono Trigger",
+    "platform": "NDS",
+    "code": "NTR-YQUE-USA"
   },
   {
     "title": "Fifa 11",
@@ -1244,14 +1264,59 @@
     "code": "NTR-AMCP-EUR"
   },
   {
+    "title": "Meteos",
+    "platform": "NDS",
+    "code": "NTR-AMTP-EUR"
+  },
+  {
+    "title": "Meteos: Disney Magic",
+    "platform": "NDS",
+    "code": "NTR-ADZE-USA"
+  },
+  {
+    "title": "Nanostray",
+    "platform": "NDS",
+    "code": "NTR-ANSE-USA"
+  },
+  {
     "title": "Narnia Prince Caspian",
     "platform": "NDS",
     "code": "NTR-YQNX-EUR"
   },
   {
+    "title": "New Super Mario Bros.",
+    "platform": "NDS",
+    "code": "NTR-A2DP-EUR"
+  },
+  {
+    "title": "Nintendo TouchGolf Birde Challenge",
+    "platform": "NDS",
+    "code": "NTR-AGFP-EUR"
+  },
+  {
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
+  },
+  {
+    "title": "Puzzle Quest",
+    "platform": "NDS",
+    "code": "NTR-AQWE-USA"
+  },
+  {
+    "title": "StarFox Command",
+    "platform": "NDS",
+    "code": "NTR-ASFE-USA"
+  },
+  {
+    "title": "Tetris DS",
+    "platform": "NDS",
+    "code": "NTR-ATRE-USA"
+  },
+  {
+    "title": "Tiger Woods PGA Tour",
+    "platform": "NDS",
+    "code": "NTR-ATWE-EUR"
   },
   {
     "title": "Tomodachi Collection",
@@ -1614,5 +1679,34 @@
     "title": "UFO!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AB9430"
+  },
+  {
+    "title": "Just Dance 4",
+    "platform": "WIIU",
+    "code": "WUP-P-AJDP-EUR-0"
+  },
+  {
+    "title": "Mario Kart 8",
+    "platform": "WIIU"
+  },
+  {
+    "title": "New Super Mario Bros. U",
+    "platform": "WIIU",
+    "code": "WUP-P-ARPP-EUR-0"
+  },
+  {
+    "title": "NintendoLand",
+    "platform": "WIIU",
+    "code": "WUP-P-ALCP-EUR-0"
+  },
+  {
+    "title": "Wii Fit U",
+    "platform": "WIIU",
+    "code": "WUP-P-ASTP-EUR-0"
+  },
+  {
+    "title": "ZombiU",
+    "platform": "WIIU",
+    "code": "WUP-P-AZUP-EUR-0"
   }
 ]
