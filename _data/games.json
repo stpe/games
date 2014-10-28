@@ -160,6 +160,11 @@
     "code": "C2630P"
   },
   {
+    "title": "Codebreaker",
+    "platform": "A2600",
+    "code": "CX2643"
+  },
+  {
     "title": "Combat",
     "platform": "A2600",
     "code": "CX2601"
@@ -233,6 +238,11 @@
     "platform": "A2600"
   },
   {
+    "title": "Demons to Diamonds",
+    "platform": "A2600",
+    "code": "CX2615"
+  },
+  {
     "title": "Dig Dug",
     "platform": "A2600",
     "code": "CX2677"
@@ -297,6 +307,11 @@
     "code": "USC2001"
   },
   {
+    "title": "Hangman",
+    "platform": "A2600",
+    "code": "CX2662"
+  },
+  {
     "title": "Haunted House",
     "platform": "A2600",
     "code": "CX2654"
@@ -309,6 +324,11 @@
     "title": "Human Cannonball",
     "platform": "A2600",
     "code": "CX2627P"
+  },
+  {
+    "title": "Hunt&amp;Score",
+    "platform": "A2600",
+    "code": "CX2642"
   },
   {
     "title": "Ice Hockey",
@@ -394,6 +414,11 @@
     "code": "CX2635P"
   },
   {
+    "title": "Megamania",
+    "platform": "A2600",
+    "code": "EAX-017"
+  },
+  {
     "title": "Midnight Magic",
     "platform": "A2600",
     "code": "CX26129"
@@ -402,6 +427,11 @@
     "title": "Millipede",
     "platform": "A2600",
     "code": "CX26118"
+  },
+  {
+    "title": "Miniature Golf",
+    "platform": "A2600",
+    "code": "CX2626"
   },
   {
     "title": "Missile Command",
@@ -528,6 +558,10 @@
   },
   {
     "title": "Q-Bert",
+    "platform": "A2600"
+  },
+  {
+    "title": "Quest for Quintana Roo",
     "platform": "A2600"
   },
   {
@@ -678,6 +712,11 @@
     "code": "CX26155P"
   },
   {
+    "title": "Stampede",
+    "platform": "A2600",
+    "code": "AG-011"
+  },
+  {
     "title": "Star Raiders",
     "platform": "A2600",
     "code": "CX2660"
@@ -729,6 +768,10 @@
     "code": "CX2608"
   },
   {
+    "title": "Super Cobra",
+    "platform": "A2600"
+  },
+  {
     "title": "Super Football",
     "platform": "A2600",
     "code": "CX2615P"
@@ -736,6 +779,16 @@
   {
     "title": "Super-Ferrari",
     "platform": "A2600"
+  },
+  {
+    "title": "Surround",
+    "platform": "A2600",
+    "code": "CX2641"
+  },
+  {
+    "title": "Swordquest EarthWorld",
+    "platform": "A2600",
+    "code": "CX2656"
   },
   {
     "title": "Tank-Plus",
@@ -1086,6 +1139,31 @@
     "code": "CGB-AHYE-USA-1"
   },
   {
+    "title": "Mario Golf: Toadstool Tour",
+    "platform": "GC",
+    "code": "DOL-GFTP-UKV"
+  },
+  {
+    "title": "Metroid Prime",
+    "platform": "GC",
+    "code": "DOL-GM8P-UKV"
+  },
+  {
+    "title": "Super Mario Sunshine",
+    "platform": "GC",
+    "code": "DOL-GMSP-UKV"
+  },
+  {
+    "title": "Super Monkey Ball 2",
+    "platform": "GC",
+    "code": "DOL-GM2P-UKV"
+  },
+  {
+    "title": "Zelda: The Wind Waker",
+    "platform": "GC",
+    "code": "DOL-GZLP-UKV"
+  },
+  {
     "title": "Chip&apos;s Challenge",
     "platform": "LYNX"
   },
@@ -1152,6 +1230,11 @@
     "title": "Multi-Racing Championship",
     "platform": "N64",
     "code": "NUS-NMRP-NOE"
+  },
+  {
+    "title": "Pokemon Stadium",
+    "platform": "N64",
+    "code": "NUS-NPOP-EUR"
   },
   {
     "title": "Rayman 2",
@@ -1536,6 +1619,11 @@
     "code": "SNSP-EH-SCN"
   },
   {
+    "title": "Exhaust Heat",
+    "platform": "SNES",
+    "code": "SNSP-EH-SCN"
+  },
+  {
     "title": "F-Zero",
     "platform": "SNES",
     "code": "SNSP-FZ-UKV"
@@ -1571,6 +1659,11 @@
     "code": "SNSP-PQ-NOE"
   },
   {
+    "title": "Krusty&apos;s Super Fun House",
+    "platform": "SNES",
+    "code": "SNSP-FH-SCN"
+  },
+  {
     "title": "Mario Paint",
     "platform": "SNES",
     "code": "SNSP-MP-NOE"
@@ -1589,6 +1682,11 @@
     "title": "Mega-lo-mania",
     "platform": "SNES",
     "code": "SNSP-MZ-NOE"
+  },
+  {
+    "title": "Micro Machines",
+    "platform": "SNES",
+    "code": "SNSP-AH3P-EUR"
   },
   {
     "title": "Midway Arcade&apos;s Greatest Hits",
@@ -1706,9 +1804,19 @@
     "code": "SNSP-FS-NOE"
   },
   {
+    "title": "Super WrestleMania",
+    "platform": "SNES",
+    "code": "SNSP-WF-SCN"
+  },
+  {
     "title": "Zelda: A Link to the Past",
     "platform": "SNES",
     "code": "SNSP-ZL-SCN"
+  },
+  {
+    "title": "Air-Sea War",
+    "platform": "VIDEOPAC",
+    "code": "4"
   },
   {
     "title": "Alien Invaders-Plus!",
@@ -1716,9 +1824,19 @@
     "code": "ODYSSEY2/AA9428"
   },
   {
+    "title": "American Football",
+    "platform": "VIDEOPAC",
+    "code": "3"
+  },
+  {
     "title": "Cosmic Conflict",
     "platform": "VIDEOPAC",
     "code": "11"
+  },
+  {
+    "title": "Flipper Game",
+    "platform": "VIDEOPAC",
+    "code": "24"
   },
   {
     "title": "Golf",
@@ -1729,6 +1847,16 @@
     "title": "K.C. Munchkin!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AC9435"
+  },
+  {
+    "title": "Laser War",
+    "platform": "VIDEOPAC",
+    "code": "18"
+  },
+  {
+    "title": "Pairs / Space Rendezvous / Logic",
+    "platform": "VIDEOPAC",
+    "code": "2"
   },
   {
     "title": "Pick Axe Pete!",
@@ -1751,7 +1879,62 @@
     "code": "ODYSSEY2/AB9430"
   },
   {
-    "title": "Zelda Skyward Sword",
+    "title": "Just Dance 3",
+    "platform": "WII",
+    "code": "RVL-SJDP-SCN"
+  },
+  {
+    "title": "Mario Kart Wii",
+    "platform": "WII",
+    "code": "RVL-RMCP-EUR"
+  },
+  {
+    "title": "Super Mario Galaxy",
+    "platform": "WII",
+    "code": "RVL-RMGP-SWD"
+  },
+  {
+    "title": "Super Mario Galaxy 2",
+    "platform": "WII",
+    "code": "RVL-SB4P-SWF"
+  },
+  {
+    "title": "Super Monkey Ball: Banana Blitz",
+    "platform": "WII",
+    "code": "RVL-RSMP-UKV"
+  },
+  {
+    "title": "Tiger Woods PGA Tour 11",
+    "platform": "WII",
+    "code": "RVL-STWP-SCN"
+  },
+  {
+    "title": "WarioWare Smooth Moves",
+    "platform": "WII",
+    "code": "RVL-RODP-UKV"
+  },
+  {
+    "title": "Wii Fit",
+    "platform": "WII",
+    "code": "RVL-RFNP-SWD"
+  },
+  {
+    "title": "Wii Fit Plus",
+    "platform": "WII",
+    "code": "RVL-RFPP-SWD"
+  },
+  {
+    "title": "Wii Sports",
+    "platform": "WII",
+    "code": "RVL-A-PC5-SWD"
+  },
+  {
+    "title": "Wii Sports Resort",
+    "platform": "WII",
+    "code": "RVL-RZTP-EUR-B0"
+  },
+  {
+    "title": "Zelda: Skyward Sword",
     "platform": "WII"
   },
   {

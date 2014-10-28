@@ -2,8 +2,7 @@
 title: stpe games
 email: stefpet@gmail.com
 description: >
-  Personal website to keep track of my collection of games.
-  Want one to? Fork it from <a href="https://github.com/stpe/games">Github</a>.
+    Fork me on <a href="https://github.com/stpe/games">Github</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://stpe.github.com" # the base hostname & protocol for your site
 twitter_username: stpe
