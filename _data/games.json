@@ -145,11 +145,6 @@
     "code": "CX2676"
   },
   {
-    "title": "Centipede",
-    "platform": "A2600",
-    "code": "CX2676"
-  },
-  {
     "title": "Chopper Command",
     "platform": "A2600",
     "code": "EAX-015"
@@ -163,11 +158,6 @@
     "title": "Circus Atari",
     "platform": "A2600",
     "code": "C2630P"
-  },
-  {
-    "title": "Combat",
-    "platform": "A2600",
-    "code": "CX2601"
   },
   {
     "title": "Combat",
@@ -489,11 +479,6 @@
     "code": "CX2646"
   },
   {
-    "title": "Pac Man",
-    "platform": "A2600",
-    "code": "CX2646"
-  },
-  {
     "title": "Pac-Man",
     "platform": "A2600",
     "code": "CX2646"
@@ -544,11 +529,6 @@
   {
     "title": "Q-Bert",
     "platform": "A2600"
-  },
-  {
-    "title": "Raiders of the Lost Ark",
-    "platform": "A2600",
-    "code": "CX2659"
   },
   {
     "title": "Raiders of the Lost Ark",
@@ -775,11 +755,6 @@
   {
     "title": "Threshold",
     "platform": "A2600"
-  },
-  {
-    "title": "Vanguard",
-    "platform": "A2600",
-    "code": "CX2669"
   },
   {
     "title": "Vanguard",
@@ -1124,6 +1099,11 @@
     "code": "NUS-NBKP-EUR"
   },
   {
+    "title": "Bomberman 64",
+    "platform": "N64",
+    "code": "NUS-NBMP-EUR"
+  },
+  {
     "title": "Carmageddon 64",
     "platform": "N64",
     "code": "NUS-NCDX-EUU"
@@ -1154,9 +1134,19 @@
     "code": "NUS-NGVP-EUR-1"
   },
   {
+    "title": "Golden Eye 007",
+    "platform": "N64",
+    "code": "NUS-NGEP-EUR"
+  },
+  {
     "title": "Lego Racers",
     "platform": "N64",
     "code": "NUS-NLGP-EUR"
+  },
+  {
+    "title": "Micro Machines 64 Turbo",
+    "platform": "N64",
+    "code": "NUS-NV3P-EUR"
   },
   {
     "title": "Multi-Racing Championship",
@@ -1187,6 +1177,11 @@
     "title": "Tonic Trouble",
     "platform": "N64",
     "code": "NUS-NTTP-EUR"
+  },
+  {
+    "title": "Wipeout 64",
+    "platform": "N64",
+    "code": "NUS-NWPP-EUR"
   },
   {
     "title": "Zelda: Majora&apos;s Mask",
@@ -1329,9 +1324,19 @@
     "code": "NTR-YSNP-UKV"
   },
   {
+    "title": "Zelda: Phantom Hourglass",
+    "platform": "NDS",
+    "code": "NTR-AZEP-EUR"
+  },
+  {
     "title": "Bionic Commando",
     "platform": "NES",
     "code": "NES-CM-EEC"
+  },
+  {
+    "title": "Castlevania",
+    "platform": "NES",
+    "code": "NES-CV-EEC"
   },
   {
     "title": "Chip&apos;n Dale Rescue Rangers",
@@ -1347,11 +1352,6 @@
     "title": "Dr. Mario",
     "platform": "NES",
     "code": "NES-VU-FRA"
-  },
-  {
-    "title": "DuckTales",
-    "platform": "NES",
-    "code": "NES-UK-NOE"
   },
   {
     "title": "DuckTales",
@@ -1379,14 +1379,39 @@
     "code": "NES-IW-EEC"
   },
   {
+    "title": "Kick Off",
+    "platform": "NES",
+    "code": "NES-54-SCN"
+  },
+  {
+    "title": "Kung Fu",
+    "platform": "NES",
+    "code": "NES-SX-EEC"
+  },
+  {
     "title": "Marble Madness",
     "platform": "NES",
     "code": "NES-MV-NOE"
   },
   {
+    "title": "Mega Man 2",
+    "platform": "NES",
+    "code": "NES-XR-EEC"
+  },
+  {
+    "title": "Metroid",
+    "platform": "NES",
+    "code": "NES-MT-EEC"
+  },
+  {
     "title": "Pinball",
     "platform": "NES",
     "code": "NES-PN-NOE"
+  },
+  {
+    "title": "Punch-Out",
+    "platform": "NES",
+    "code": "NES-QP-FRA"
   },
   {
     "title": "R.C. Pro-Am",
@@ -1412,27 +1437,32 @@
     "platform": "NES"
   },
   {
-    "title": "Super Mario Bros",
+    "title": "Super Mario Bros.",
     "platform": "NES",
     "code": "NES-SM-EEC"
   },
   {
-    "title": "Super Mario Bros",
+    "title": "Super Mario Bros.",
     "platform": "NES",
     "code": "NES-SM-EEC"
   },
   {
-    "title": "Super Mario Bros / Tetris / Nintendo World Cup",
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "code": "NES-SM-EEC"
+  },
+  {
+    "title": "Super Mario Bros. / Tetris / Nintendo World Cup",
     "platform": "NES",
     "code": "NES-ZZ-NOE"
   },
   {
-    "title": "Super Mario Bros 2",
+    "title": "Super Mario Bros. 2",
     "platform": "NES",
     "code": "NES-MW-NOE"
   },
   {
-    "title": "Super Mario Bros 3",
+    "title": "Super Mario Bros. 3",
     "platform": "NES",
     "code": "NES-UM-SCN"
   },
@@ -1481,6 +1511,11 @@
     "code": "NES-ZL-EEC"
   },
   {
+    "title": "Disney&apos;s Jungle Book",
+    "platform": "SNES",
+    "code": "SNSP-7K-SCN"
+  },
+  {
     "title": "Donkey Kong Country",
     "platform": "SNES",
     "code": "SNSP-8X-SCN"
@@ -1506,6 +1541,11 @@
     "code": "SNSP-FZ-UKV"
   },
   {
+    "title": "F-Zero",
+    "platform": "SNES",
+    "code": "SNSP-FZ-SCN"
+  },
+  {
     "title": "Flintstones",
     "platform": "SNES",
     "code": "SNSP-AFNP-NOE"
@@ -1514,6 +1554,11 @@
     "title": "Gods",
     "platform": "SNES",
     "code": "SNSP-GZ-NOE"
+  },
+  {
+    "title": "Hole in One Golf",
+    "platform": "SNES",
+    "code": "SNSP-JO-SCN"
   },
   {
     "title": "Kirby&apos;s Dream Course",
@@ -1534,6 +1579,11 @@
     "title": "Mario Paint",
     "platform": "SNES",
     "code": "SNSP-MP-NOE"
+  },
+  {
+    "title": "Mario Paint",
+    "platform": "SNES",
+    "code": "SNSP-MP-SCN"
   },
   {
     "title": "Mega-lo-mania",
@@ -1561,6 +1611,11 @@
     "code": "SNSP-PW-SCN"
   },
   {
+    "title": "Pilotwings",
+    "platform": "SNES",
+    "code": "SNSP-PW-SCN"
+  },
+  {
     "title": "Pinball Dreams",
     "platform": "SNES",
     "code": "SNSP-7D-UKV"
@@ -1574,6 +1629,11 @@
     "title": "Power Drive",
     "platform": "SNES",
     "code": "SNSP-APWP-EUR"
+  },
+  {
+    "title": "Prince of Persia",
+    "platform": "SNES",
+    "code": "SNSP-PR-SCN"
   },
   {
     "title": "Schtroumpfs",
@@ -1611,9 +1671,19 @@
     "code": "SNSP-MW-NOE"
   },
   {
+    "title": "Super Mario World",
+    "platform": "SNES",
+    "code": "SNSP-MW-SCN"
+  },
+  {
     "title": "Super Mario World 2: Yoshi&apos;s Island",
     "platform": "SNES",
     "code": "SNSP-YI-SCN"
+  },
+  {
+    "title": "Super Off Road",
+    "platform": "SNES",
+    "code": "SNSP-OR-SCN"
   },
   {
     "title": "Super Pinball - Behind the Mask",
@@ -1681,13 +1751,18 @@
     "code": "ODYSSEY2/AB9430"
   },
   {
+    "title": "Zelda Skyward Sword",
+    "platform": "WII"
+  },
+  {
     "title": "Just Dance 4",
     "platform": "WIIU",
     "code": "WUP-P-AJDP-EUR-0"
   },
   {
     "title": "Mario Kart 8",
-    "platform": "WIIU"
+    "platform": "WIIU",
+    "code": "WUP-P-AMKP-EUR-0"
   },
   {
     "title": "New Super Mario Bros. U",
