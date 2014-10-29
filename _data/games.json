@@ -1079,6 +1079,11 @@
     "code": "AGB-AIAE-USA"
   },
   {
+    "title": "Kuru Kuru Kururin",
+    "platform": "GBA",
+    "code": "AGB-AKRP-EUR"
+  },
+  {
     "title": "Noddy A day in Toyland",
     "platform": "GBA",
     "code": "AGB-BNKP-EUR"
@@ -1415,6 +1420,11 @@
     "title": "Bionic Commando",
     "platform": "NES",
     "code": "NES-CM-EEC"
+  },
+  {
+    "title": "Bubble Bobble",
+    "platform": "NES",
+    "code": "NES-B2-EEC"
   },
   {
     "title": "Castlevania",
@@ -1935,7 +1945,8 @@
   },
   {
     "title": "Zelda: Skyward Sword",
-    "platform": "WII"
+    "platform": "WII",
+    "code": "RVL-SOUP-EUR"
   },
   {
     "title": "Just Dance 4",
