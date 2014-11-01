@@ -1977,5 +1977,65 @@
     "title": "ZombiU",
     "platform": "WIIU",
     "code": "WUP-P-AZUP-EUR-0"
+  },
+  {
+    "title": "Burnout 3: Takedown",
+    "platform": "XBOX",
+    "code": "EAX07404422D1"
+  },
+  {
+    "title": "SSX 3",
+    "platform": "XBOX",
+    "code": "EAX07404084D"
+  },
+  {
+    "title": "Dead or Alive 3",
+    "platform": "XBOX",
+    "code": "X08-61678 XZ"
+  },
+  {
+    "title": "Project Gotham Racing 2",
+    "platform": "XBOX",
+    "code": "X09-85435 XK"
+  },
+  {
+    "title": "Ninja Gaiden",
+    "platform": "XBOX",
+    "code": "X09-46048 XK"
+  },
+  {
+    "title": "Grand Theft Auto III",
+    "platform": "XBOX",
+    "code": "GTADBL/SC/XBOX/E"
+  },
+  {
+    "title": "Grand Theft Auto: Vice City",
+    "platform": "XBOX",
+    "code": "GTADBL/SC/XBOX/E"
+  },
+  {
+    "title": "RalliSport Challenge 2",
+    "platform": "XBOX",
+    "code": "X10-47087 XK"
+  },
+  {
+    "title": "Halo 2",
+    "platform": "XBOX",
+    "code": "X10-71886 XK"
+  },
+  {
+    "title": "Splinter Cell: Pandora Tomorrow",
+    "platform": "XBOX",
+    "code": "5003101"
+  },
+  {
+    "title": "Just Cause",
+    "platform": "XBOX360",
+    "code": "PJUSTTEN07"
+  },
+  {
+    "title": "Just Cause 2",
+    "platform": "XBOX360",
+    "code": "PJUS2TEX08"
   }
 ]
