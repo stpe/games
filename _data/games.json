@@ -1949,6 +1949,11 @@
     "code": "RVL-SOUP-EUR"
   },
   {
+    "title": "Zelda: Twilight Princess",
+    "platform": "WII",
+    "code": "RVL-RZDP-AUS"
+  },
+  {
     "title": "Just Dance 4",
     "platform": "WIIU",
     "code": "WUP-P-AJDP-EUR-0"
@@ -1984,24 +1989,9 @@
     "code": "EAX07404422D1"
   },
   {
-    "title": "SSX 3",
-    "platform": "XBOX",
-    "code": "EAX07404084D"
-  },
-  {
     "title": "Dead or Alive 3",
     "platform": "XBOX",
     "code": "X08-61678 XZ"
-  },
-  {
-    "title": "Project Gotham Racing 2",
-    "platform": "XBOX",
-    "code": "X09-85435 XK"
-  },
-  {
-    "title": "Ninja Gaiden",
-    "platform": "XBOX",
-    "code": "X09-46048 XK"
   },
   {
     "title": "Grand Theft Auto III",
@@ -2014,19 +2004,34 @@
     "code": "GTADBL/SC/XBOX/E"
   },
   {
-    "title": "RalliSport Challenge 2",
-    "platform": "XBOX",
-    "code": "X10-47087 XK"
-  },
-  {
     "title": "Halo 2",
     "platform": "XBOX",
     "code": "X10-71886 XK"
   },
   {
+    "title": "Ninja Gaiden",
+    "platform": "XBOX",
+    "code": "X09-46048 XK"
+  },
+  {
+    "title": "Project Gotham Racing 2",
+    "platform": "XBOX",
+    "code": "X09-85435 XK"
+  },
+  {
+    "title": "RalliSport Challenge 2",
+    "platform": "XBOX",
+    "code": "X10-47087 XK"
+  },
+  {
     "title": "Splinter Cell: Pandora Tomorrow",
     "platform": "XBOX",
     "code": "5003101"
+  },
+  {
+    "title": "SSX 3",
+    "platform": "XBOX",
+    "code": "EAX07404084D"
   },
   {
     "title": "Just Cause",
