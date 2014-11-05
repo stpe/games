@@ -110,6 +110,10 @@
     "platform": "A2600"
   },
   {
+    "title": "Boom Bang",
+    "platform": "A2600"
+  },
+  {
     "title": "Bowling",
     "platform": "A2600",
     "code": "CX2628"
@@ -128,6 +132,10 @@
     "title": "Breakout",
     "platform": "A2600",
     "code": "CX2622P"
+  },
+  {
+    "title": "California Games",
+    "platform": "A2600"
   },
   {
     "title": "Carnival",
@@ -279,6 +287,10 @@
     "code": "CX2625"
   },
   {
+    "title": "Fox&amp;Goat",
+    "platform": "A2600"
+  },
+  {
     "title": "Frogger",
     "platform": "A2600"
   },
@@ -384,6 +396,10 @@
     "title": "Kung-Fu Master",
     "platform": "A2600",
     "code": "EAX-039-04I"
+  },
+  {
+    "title": "Labyrinth",
+    "platform": "A2600"
   },
   {
     "title": "Labyrinth",
@@ -514,6 +530,16 @@
     "code": "CX2646"
   },
   {
+    "title": "Pac-Man",
+    "platform": "A2600",
+    "code": "CX2646"
+  },
+  {
+    "title": "Pac-Man",
+    "platform": "A2600",
+    "code": "CX2646"
+  },
+  {
     "title": "Pele&apos;s Soccer",
     "platform": "A2600",
     "code": "CX2616"
@@ -554,6 +580,10 @@
   },
   {
     "title": "Pro Wrestling",
+    "platform": "A2600"
+  },
+  {
+    "title": "Pygmy",
     "platform": "A2600"
   },
   {
@@ -599,6 +629,11 @@
     "code": "CX2680P"
   },
   {
+    "title": "RealSports Tennis",
+    "platform": "A2600",
+    "code": "CX2680"
+  },
+  {
     "title": "RealSports Volleyball",
     "platform": "A2600",
     "code": "CX2666"
@@ -626,7 +661,15 @@
     "platform": "A2600"
   },
   {
+    "title": "Scorpion",
+    "platform": "A2600"
+  },
+  {
     "title": "Sea Master",
+    "platform": "A2600"
+  },
+  {
+    "title": "See Saw",
     "platform": "A2600"
   },
   {
@@ -687,6 +730,10 @@
     "title": "Space Invaders",
     "platform": "A2600",
     "code": "CX2632P"
+  },
+  {
+    "title": "Space Robot",
+    "platform": "A2600"
   },
   {
     "title": "Space Robot",
@@ -754,6 +801,11 @@
     "code": "CX2612"
   },
   {
+    "title": "Street Racer",
+    "platform": "A2600",
+    "code": "CX2612"
+  },
+  {
     "title": "Summer Games",
     "platform": "A2600"
   },
@@ -769,6 +821,10 @@
   },
   {
     "title": "Super Cobra",
+    "platform": "A2600"
+  },
+  {
+    "title": "Super Ferrari",
     "platform": "A2600"
   },
   {
@@ -806,7 +862,16 @@
     "code": "CX2680"
   },
   {
+    "title": "Tennis",
+    "platform": "A2600",
+    "code": "PAG-007"
+  },
+  {
     "title": "Threshold",
+    "platform": "A2600"
+  },
+  {
+    "title": "Top Gun",
     "platform": "A2600"
   },
   {
@@ -1180,6 +1245,11 @@
   {
     "title": "Todd&apos;s Adventure in Slime World",
     "platform": "LYNX"
+  },
+  {
+    "title": "Banjo-Kazooie",
+    "platform": "N64",
+    "code": "NUS-NBKP-EUR"
   },
   {
     "title": "Banjo-Kazooie",
