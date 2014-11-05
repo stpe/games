@@ -1114,14 +1114,14 @@
     "code": "AGB-ASDE-USA"
   },
   {
-    "title": "Zelda: A Link to the Past&amp;Four Swords",
-    "platform": "GBA",
-    "code": "AGB-AZLP-EUR"
-  },
-  {
     "title": "The Wild",
     "platform": "GBA",
     "code": "AGB-BWLP-EUR"
+  },
+  {
+    "title": "Zelda: A Link to the Past&amp;Four Swords",
+    "platform": "GBA",
+    "code": "AGB-AZLP-EUR"
   },
   {
     "title": "102 Dalmatians",
@@ -1609,6 +1609,21 @@
     "code": "NES-ZL-EEC"
   },
   {
+    "title": "Arkanoid",
+    "platform": "SNES",
+    "code": "SNSP-A6-EUR"
+  },
+  {
+    "title": "Dennis",
+    "platform": "SNES",
+    "code": "SNSP-4D-NOE"
+  },
+  {
+    "title": "Dino Dini&apos;s Soccer",
+    "platform": "SNES",
+    "code": "SNSP-ADSP-EUR"
+  },
+  {
     "title": "Disney&apos;s Jungle Book",
     "platform": "SNES",
     "code": "SNSP-7K-SCN"
@@ -1627,6 +1642,11 @@
     "title": "Eek! The Cat",
     "platform": "SNES",
     "code": "SNSP-E7-UKV"
+  },
+  {
+    "title": "Equinox",
+    "platform": "SNES",
+    "code": "SNSP-EX-UKV"
   },
   {
     "title": "Exhaust Heat",
@@ -1657,6 +1677,11 @@
     "title": "Gods",
     "platform": "SNES",
     "code": "SNSP-GZ-NOE"
+  },
+  {
+    "title": "Gods",
+    "platform": "SNES",
+    "code": "SNSP-GZ-SCN"
   },
   {
     "title": "Hole in One Golf",
@@ -1759,6 +1784,16 @@
     "code": "SNSP-CQ-SCN"
   },
   {
+    "title": "Stunt Race",
+    "platform": "SNES",
+    "code": "SNSP-CQ-SCN"
+  },
+  {
+    "title": "Super Battletank 2",
+    "platform": "SNES",
+    "code": "SNSP-2X-UKV"
+  },
+  {
     "title": "Super Game Boy",
     "platform": "SNES",
     "code": "SNSP-027"
@@ -1822,6 +1857,21 @@
     "title": "Super WrestleMania",
     "platform": "SNES",
     "code": "SNSP-WF-SCN"
+  },
+  {
+    "title": "Super WrestleMania",
+    "platform": "SNES",
+    "code": "SNSP-WF-SCN"
+  },
+  {
+    "title": "Tetris&amp;Dr. Mario",
+    "platform": "SNES",
+    "code": "SNSP-ATFP-SCN"
+  },
+  {
+    "title": "Urban Strike",
+    "platform": "SNES",
+    "code": "SNSP-AUSP-EUR"
   },
   {
     "title": "Zelda: A Link to the Past",
