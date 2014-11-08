@@ -1247,6 +1247,26 @@
     "platform": "LYNX"
   },
   {
+    "title": "Paper Mario Sticker Star",
+    "platform": "N3DS",
+    "code": "TSA-CTR-AG5P-SWD"
+  },
+  {
+    "title": "Super Street Fighter IV 3D Edition",
+    "platform": "N3DS",
+    "code": "TSA-CTR-ASSP-SWD"
+  },
+  {
+    "title": "Tekken 3D Prime Edition",
+    "platform": "N3DS",
+    "code": "TSA-CTR-ATKP-ENG"
+  },
+  {
+    "title": "Zelda: Ocarina of Time 3D",
+    "platform": "N3DS",
+    "code": "TSA-CTR-AQEP-UKV"
+  },
+  {
     "title": "Banjo-Kazooie",
     "platform": "N64",
     "code": "NUS-NBKP-EUR"
