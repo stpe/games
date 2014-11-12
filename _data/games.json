@@ -1164,6 +1164,11 @@
     "code": "AGB-APBP-EUR"
   },
   {
+    "title": "Pokemon LeafGreen Version",
+    "platform": "GBA",
+    "code": "AGB-BPGP-EUR"
+  },
+  {
     "title": "Rayman 3",
     "platform": "GBA",
     "code": "AGB-AYZP-EUR"
@@ -1262,6 +1267,11 @@
     "platform": "LYNX"
   },
   {
+    "title": "New Super Mario Bros. 2",
+    "platform": "N3DS",
+    "code": "TSA-CTR-ABEP-UKV"
+  },
+  {
     "title": "Paper Mario Sticker Star",
     "platform": "N3DS",
     "code": "TSA-CTR-AG5P-SWD"
@@ -1275,6 +1285,11 @@
     "title": "Tekken 3D Prime Edition",
     "platform": "N3DS",
     "code": "TSA-CTR-ATKP-ENG"
+  },
+  {
+    "title": "Zelda: A Link Between Worlds",
+    "platform": "N3DS",
+    "code": "TSA-CTR-BZLP-UKV"
   },
   {
     "title": "Zelda: Ocarina of Time 3D",
@@ -1799,6 +1814,11 @@
     "code": "SNSP-JO-SCN"
   },
   {
+    "title": "Kirby The Crystal Shards",
+    "platform": "SNES",
+    "code": "NUS-NK4P-EUR"
+  },
+  {
     "title": "Kirby&apos;s Dream Course",
     "platform": "SNES",
     "code": "SNSP-CG-NOE"
@@ -2054,6 +2074,11 @@
     "code": "ODYSSEY2/AB9430"
   },
   {
+    "title": "Dragon Ball Z Budokai 3",
+    "platform": "WII",
+    "code": "RVL-RDSP-GER"
+  },
+  {
     "title": "Just Dance 3",
     "platform": "WII",
     "code": "RVL-SJDP-SCN"
@@ -2129,9 +2154,19 @@
     "code": "WUP-P-AJDP-EUR-0"
   },
   {
+    "title": "Mario&amp;Sonic Olympic Winter Games Sochi 2014",
+    "platform": "WIIU",
+    "code": "TSA-WUP-AURP-UKV"
+  },
+  {
     "title": "Mario Kart 8",
     "platform": "WIIU",
     "code": "WUP-P-AMKP-EUR-0"
+  },
+  {
+    "title": "New Super Luigi U",
+    "platform": "WIIU",
+    "code": "TSA-WUP-ARSP-SWD"
   },
   {
     "title": "New Super Mario Bros. U",
@@ -2142,6 +2177,16 @@
     "title": "NintendoLand",
     "platform": "WIIU",
     "code": "WUP-P-ALCP-EUR-0"
+  },
+  {
+    "title": "Pikmin 3",
+    "platform": "WIIU",
+    "code": "TSA-WUP-AC3P-UKV"
+  },
+  {
+    "title": "Sports Connection",
+    "platform": "WIIU",
+    "code": "TSA-WUP-ASPP-SCN"
   },
   {
     "title": "Wii Fit U",
@@ -2204,6 +2249,21 @@
     "code": "EAX07404084D"
   },
   {
+    "title": "Dirt 2",
+    "platform": "XBOX360",
+    "code": "PRL08X3UK03"
+  },
+  {
+    "title": "Dirt 3",
+    "platform": "XBOX360",
+    "code": "PDIR3X3UK03"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "platform": "XBOX360",
+    "code": "5258050/IN"
+  },
+  {
     "title": "Just Cause",
     "platform": "XBOX360",
     "code": "PJUSTTEN07"
@@ -2212,5 +2272,20 @@
     "title": "Just Cause 2",
     "platform": "XBOX360",
     "code": "PJUS2TEX08"
+  },
+  {
+    "title": "Kinect Adventures",
+    "platform": "XBOX360",
+    "code": "X16-96423-01"
+  },
+  {
+    "title": "Kinect Training",
+    "platform": "XBOX360",
+    "code": "X18-46212-01"
+  },
+  {
+    "title": "Lips",
+    "platform": "XBOX360",
+    "code": "X15-88233-01"
   }
 ]
