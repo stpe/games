@@ -5,12 +5,12 @@
   },
   {
     "title": "32 in 1",
-    "platform": "A2600"
+    "platform": "A2600",
+    "code": "CX26163P"
   },
   {
     "title": "32 in 1",
-    "platform": "A2600",
-    "code": "CX26163P"
+    "platform": "A2600"
   },
   {
     "title": "Acid Drop",
@@ -160,12 +160,12 @@
   {
     "title": "Circus Atari",
     "platform": "A2600",
-    "code": "CX2630"
+    "code": "C2630P"
   },
   {
     "title": "Circus Atari",
     "platform": "A2600",
-    "code": "C2630P"
+    "code": "CX2630"
   },
   {
     "title": "Codebreaker",
@@ -626,12 +626,12 @@
   {
     "title": "RealSports Tennis",
     "platform": "A2600",
-    "code": "CX2680P"
+    "code": "CX2680"
   },
   {
     "title": "RealSports Tennis",
     "platform": "A2600",
-    "code": "CX2680"
+    "code": "CX2680P"
   },
   {
     "title": "RealSports Volleyball",
@@ -1019,6 +1019,11 @@
     "code": "DMG-APAU-EUR"
   },
   {
+    "title": "Pokemon Special Pikachu Edition",
+    "platform": "GB",
+    "code": "DMG-APSE-USA-1"
+  },
+  {
     "title": "Power Quest",
     "platform": "GB",
     "code": "DMG-APQE-USA"
@@ -1076,37 +1081,37 @@
   {
     "title": "Tennis",
     "platform": "GB",
+    "code": "DMG-TN-NOE"
+  },
+  {
+    "title": "Tennis",
+    "platform": "GB",
+    "code": "DMG-TN-NOE"
+  },
+  {
+    "title": "Tennis",
+    "platform": "GB",
     "code": "DMG-TN-SCN"
   },
   {
-    "title": "Tennis",
+    "title": "Tetris",
     "platform": "GB",
-    "code": "DMG-TN-NOE"
+    "code": "DMG-TR-SCN"
   },
   {
-    "title": "Tennis",
+    "title": "Tetris",
     "platform": "GB",
-    "code": "DMG-TN-NOE"
+    "code": "DMG-TR-SCN"
+  },
+  {
+    "title": "Tetris",
+    "platform": "GB",
+    "code": "DMG-TR-SCN"
   },
   {
     "title": "Tetris",
     "platform": "GB",
     "code": "DMG-TR-USA"
-  },
-  {
-    "title": "Tetris",
-    "platform": "GB",
-    "code": "DMG-TR-SCN"
-  },
-  {
-    "title": "Tetris",
-    "platform": "GB",
-    "code": "DMG-TR-SCN"
-  },
-  {
-    "title": "Tetris",
-    "platform": "GB",
-    "code": "DMG-TR-SCN"
   },
   {
     "title": "The Blues Brothers",
@@ -1189,6 +1194,11 @@
     "code": "AGB-AZLP-EUR"
   },
   {
+    "title": "Zelda: Minish Cap",
+    "platform": "GBA",
+    "code": "AGB-BZMP-EUR"
+  },
+  {
     "title": "102 Dalmatians",
     "platform": "GBC",
     "code": "CGB-B99P-UKV"
@@ -1212,6 +1222,11 @@
     "title": "Super Mario Bros. Deluxe",
     "platform": "GBC",
     "code": "CGB-AHYE-USA-1"
+  },
+  {
+    "title": "Zelda: Link&apos;s Awakening DX",
+    "platform": "GBC",
+    "code": "DMG-AZLP-EUR"
   },
   {
     "title": "Mario Golf: Toadstool Tour",
@@ -1512,6 +1527,11 @@
     "code": "NTR-AZEP-EUR"
   },
   {
+    "title": "Zelda: Spirit Tracks",
+    "platform": "NDS",
+    "code": "NTR-BKIP-EUR"
+  },
+  {
     "title": "Bionic Commando",
     "platform": "NES",
     "code": "NES-CM-EEC"
@@ -1751,12 +1771,12 @@
   {
     "title": "F-Zero",
     "platform": "SNES",
-    "code": "SNSP-FZ-UKV"
+    "code": "SNSP-FZ-SCN"
   },
   {
     "title": "F-Zero",
     "platform": "SNES",
-    "code": "SNSP-FZ-SCN"
+    "code": "SNSP-FZ-UKV"
   },
   {
     "title": "Flintstones",
@@ -1931,17 +1951,17 @@
   {
     "title": "Super Soccer",
     "platform": "SNES",
-    "code": "SNSP-FS-SCN"
-  },
-  {
-    "title": "Super Soccer",
-    "platform": "SNES",
-    "code": "SNSP-FS-SCN"
-  },
-  {
-    "title": "Super Soccer",
-    "platform": "SNES",
     "code": "SNSP-FS-NOE"
+  },
+  {
+    "title": "Super Soccer",
+    "platform": "SNES",
+    "code": "SNSP-FS-SCN"
+  },
+  {
+    "title": "Super Soccer",
+    "platform": "SNES",
+    "code": "SNSP-FS-SCN"
   },
   {
     "title": "Super WrestleMania",
@@ -2092,6 +2112,11 @@
     "title": "Zelda: Skyward Sword",
     "platform": "WII",
     "code": "RVL-SOUP-EUR"
+  },
+  {
+    "title": "Zelda: Skyward Sword LE",
+    "platform": "WII",
+    "code": "RVL-SOUP-SWF"
   },
   {
     "title": "Zelda: Twilight Princess",
