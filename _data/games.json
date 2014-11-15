@@ -158,6 +158,10 @@
     "code": "EAX-015"
   },
   {
+    "title": "Circus",
+    "platform": "A2600"
+  },
+  {
     "title": "Circus Atari",
     "platform": "A2600",
     "code": "C2630P"
@@ -222,6 +226,16 @@
     "code": "CX26110"
   },
   {
+    "title": "Crystal Castles",
+    "platform": "A2600",
+    "code": "CX26110"
+  },
+  {
+    "title": "Dark Chambers",
+    "platform": "A2600",
+    "code": "CX26151"
+  },
+  {
     "title": "Dark Chambers",
     "platform": "A2600",
     "code": "CX26151"
@@ -271,6 +285,10 @@
   },
   {
     "title": "Eddy Langfinger, der Museumsdieb",
+    "platform": "A2600"
+  },
+  {
+    "title": "Enduro",
     "platform": "A2600"
   },
   {
@@ -343,6 +361,11 @@
     "code": "CX2642"
   },
   {
+    "title": "Hunt&amp;Score",
+    "platform": "A2600",
+    "code": "CX2642"
+  },
+  {
     "title": "Ice Hockey",
     "platform": "A2600",
     "code": "EAX-012"
@@ -351,6 +374,11 @@
     "title": "Indy 500",
     "platform": "A2600",
     "code": "CX2611"
+  },
+  {
+    "title": "Joust",
+    "platform": "A2600",
+    "code": "CX2691"
   },
   {
     "title": "Joust",
@@ -552,6 +580,11 @@
   {
     "title": "Phantom-Panzer",
     "platform": "A2600"
+  },
+  {
+    "title": "Phoenix",
+    "platform": "A2600",
+    "code": "CX2673"
   },
   {
     "title": "Pitfall",
@@ -871,7 +904,15 @@
     "platform": "A2600"
   },
   {
+    "title": "Time Race",
+    "platform": "A2600"
+  },
+  {
     "title": "Top Gun",
+    "platform": "A2600"
+  },
+  {
+    "title": "Trick Shot",
     "platform": "A2600"
   },
   {
@@ -895,6 +936,11 @@
     "code": "CX2636P"
   },
   {
+    "title": "Video Chess",
+    "platform": "A2600",
+    "code": "CX2645"
+  },
+  {
     "title": "Video Pinball",
     "platform": "A2600",
     "code": "CX2648"
@@ -911,6 +957,10 @@
     "title": "Wizard of Wor",
     "platform": "A2600",
     "code": "4L2276 / PA800025"
+  },
+  {
+    "title": "World End",
+    "platform": "A2600"
   },
   {
     "title": "World End",
@@ -1234,6 +1284,16 @@
     "code": "DMG-AZLP-EUR"
   },
   {
+    "title": "Zelda: Oracle of Ages",
+    "platform": "GBC",
+    "code": "CGB-AZ8P-EUR"
+  },
+  {
+    "title": "Zelda: Oracle of Seasons",
+    "platform": "GBC",
+    "code": "CGB-AZ7P-EUR"
+  },
+  {
     "title": "Mario Golf: Toadstool Tour",
     "platform": "GC",
     "code": "DOL-GFTP-UKV"
@@ -1317,6 +1377,11 @@
     "code": "NUS-NCDX-EUU"
   },
   {
+    "title": "Diddy Kong Racing",
+    "platform": "N64",
+    "code": "NUS-NDYP-EUR"
+  },
+  {
     "title": "Excitebike 64",
     "platform": "N64",
     "code": "NUS-NMXP-EUR"
@@ -1350,6 +1415,11 @@
     "title": "Lego Racers",
     "platform": "N64",
     "code": "NUS-NLGP-EUR"
+  },
+  {
+    "title": "Lylat Wars",
+    "platform": "N64",
+    "code": "NUS-NFXP-EUR"
   },
   {
     "title": "Micro Machines 64 Turbo",
@@ -1744,6 +1814,11 @@
     "code": "SNSP-4D-NOE"
   },
   {
+    "title": "Desert Fighter",
+    "platform": "SNES",
+    "code": "SNSP-OS-UKV"
+  },
+  {
     "title": "Dino Dini&apos;s Soccer",
     "platform": "SNES",
     "code": "SNSP-ADSP-EUR"
@@ -1909,6 +1984,11 @@
     "code": "SNSP-8R-FAH"
   },
   {
+    "title": "Sensible Soccer",
+    "platform": "SNES",
+    "code": "SNSP-8S-NOE"
+  },
+  {
     "title": "Stunt Race",
     "platform": "SNES",
     "code": "SNSP-CQ-SCN"
@@ -1999,9 +2079,19 @@
     "code": "SNSP-ATFP-SCN"
   },
   {
+    "title": "Tetris 2",
+    "platform": "SNES",
+    "code": "SNSP-27-NOE"
+  },
+  {
     "title": "Urban Strike",
     "platform": "SNES",
     "code": "SNSP-AUSP-EUR"
+  },
+  {
+    "title": "Vortex",
+    "platform": "SNES",
+    "code": "SNSP-4V-EUR"
   },
   {
     "title": "Zelda: A Link to the Past",
@@ -2087,6 +2177,11 @@
     "title": "Mario Kart Wii",
     "platform": "WII",
     "code": "RVL-RMCP-EUR"
+  },
+  {
+    "title": "New Super Mario Bros. Wii",
+    "platform": "WII",
+    "code": "RVL-SMNP-SWF-2"
   },
   {
     "title": "Super Mario Galaxy",
