@@ -337,6 +337,11 @@
     "code": "USC2001"
   },
   {
+    "title": "Gorf",
+    "platform": "A2600",
+    "code": "4L1752"
+  },
+  {
     "title": "Hangman",
     "platform": "A2600",
     "code": "CX2662"
@@ -607,6 +612,10 @@
     "code": "EAX-027"
   },
   {
+    "title": "Polaris",
+    "platform": "A2600"
+  },
+  {
     "title": "Pole Position",
     "platform": "A2600",
     "code": "CX2694"
@@ -736,6 +745,16 @@
     "code": "VC1002"
   },
   {
+    "title": "Snoopy and the Red Baron",
+    "platform": "A2600",
+    "code": "CX26111"
+  },
+  {
+    "title": "Solar Fox",
+    "platform": "A2600",
+    "code": "4L1853"
+  },
+  {
     "title": "Solaris",
     "platform": "A2600",
     "code": "CX26136"
@@ -781,6 +800,10 @@
     "title": "Space War",
     "platform": "A2600",
     "code": "CX2604P"
+  },
+  {
+    "title": "Spider-Man",
+    "platform": "A2600"
   },
   {
     "title": "Spiderman",
@@ -1297,6 +1320,11 @@
     "title": "Mario Golf: Toadstool Tour",
     "platform": "GC",
     "code": "DOL-GFTP-UKV"
+  },
+  {
+    "title": "Metroid Prime",
+    "platform": "GC",
+    "code": "DOL-GM8P-UKV"
   },
   {
     "title": "Metroid Prime",
