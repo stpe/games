@@ -1355,6 +1355,11 @@
     "platform": "LYNX"
   },
   {
+    "title": "Luigi&apos;s Mansion 2",
+    "platform": "N3DS",
+    "code": "TSA-CTR-AGGP-SWD"
+  },
+  {
     "title": "New Super Mario Bros. 2",
     "platform": "N3DS",
     "code": "TSA-CTR-ABEP-UKV"
@@ -1363,6 +1368,11 @@
     "title": "Paper Mario Sticker Star",
     "platform": "N3DS",
     "code": "TSA-CTR-AG5P-SWD"
+  },
+  {
+    "title": "Ridge Racer 3D",
+    "platform": "N3DS",
+    "code": "TSA-CTR-ARRP-UKV"
   },
   {
     "title": "Super Street Fighter IV 3D Edition",
