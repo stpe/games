@@ -1,0 +1,27 @@
+<img class="list-logo" src="/images/series_{{ page.series | downcase | replace: ' ', '' }}_logo.svg" alt="{{ page.title }}" title="{{ page.title }}">
+
+{% assign platforms = site.data.games | group_by: "platform" %}
+
+<div>
+{% for games in platforms | sort: "weight" %}
+
+    {% assign found = false %}
+    {% capture game_list %}
+        {% for game in games.items | sort: "weight" %}
+            {% assign title = game.title | downcase %}
+            {% if title contains page.series %}
+                <li title="{{ game.code }}">{{ game.title }}</li>
+                {% assign found = true %}
+            {% endif %}
+        {% endfor %}
+    {% endcapture %}
+
+    {% if found %}
+        <h2>{{games.name}}</h2>
+        <ul>
+            {{game_list}}
+        </ul>
+    {% endif %}
+
+{% endfor %}
+</div>
