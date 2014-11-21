@@ -1465,6 +1465,11 @@
     "code": "NUS-NGEP-EUR"
   },
   {
+    "title": "Kirby 64: The Crystal Shards",
+    "platform": "N64",
+    "code": "NUS-NK4P-EUR"
+  },
+  {
     "title": "Lego Racers",
     "platform": "N64",
     "code": "NUS-NLGP-EUR"
@@ -1940,11 +1945,6 @@
     "title": "Hole in One Golf",
     "platform": "SNES",
     "code": "SNSP-JO-SCN"
-  },
-  {
-    "title": "Kirby The Crystal Shards",
-    "platform": "SNES",
-    "code": "NUS-NK4P-EUR"
   },
   {
     "title": "Kirby's Dream Course",
