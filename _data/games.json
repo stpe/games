@@ -41,6 +41,11 @@
     "code": "CX2649"
   },
   {
+    "title": "Asteroids",
+    "platform": "A2600",
+    "code": "CX2649"
+  },
+  {
     "title": "Atlantis",
     "platform": "A2600"
   },
@@ -231,6 +236,10 @@
     "code": "CX26110"
   },
   {
+    "title": "Crystal Castles",
+    "platform": "A2600"
+  },
+  {
     "title": "Dark Chambers",
     "platform": "A2600",
     "code": "CX26151"
@@ -411,6 +420,11 @@
     "code": "CX2688"
   },
   {
+    "title": "Jungle Hunt",
+    "platform": "A2600",
+    "code": "CX2688"
+  },
+  {
     "title": "Kaboom",
     "platform": "A2600",
     "code": "AG-010"
@@ -481,6 +495,11 @@
     "title": "Miniature Golf",
     "platform": "A2600",
     "code": "CX2626"
+  },
+  {
+    "title": "Missile Command",
+    "platform": "A2600",
+    "code": "CX2638"
   },
   {
     "title": "Missile Command",
@@ -573,6 +592,11 @@
     "code": "CX2646"
   },
   {
+    "title": "Pac-Man",
+    "platform": "A2600",
+    "code": "CX2646"
+  },
+  {
     "title": "Pele's Soccer",
     "platform": "A2600",
     "code": "CX2616"
@@ -585,6 +609,11 @@
   {
     "title": "Phantom-Panzer",
     "platform": "A2600"
+  },
+  {
+    "title": "Phoenix",
+    "platform": "A2600",
+    "code": "CX2673"
   },
   {
     "title": "Phoenix",
@@ -681,6 +710,10 @@
     "code": "CX2666"
   },
   {
+    "title": "Return of the Jedi Death Star Battle",
+    "platform": "A2600"
+  },
+  {
     "title": "Riddle of the Sphinx",
     "platform": "A2600"
   },
@@ -728,6 +761,10 @@
     "title": "Sky Diver",
     "platform": "A2600",
     "code": "CX2629"
+  },
+  {
+    "title": "Sky Skipper",
+    "platform": "A2600"
   },
   {
     "title": "Slot Racers",
@@ -782,6 +819,11 @@
     "title": "Space Invaders",
     "platform": "A2600",
     "code": "CX2632P"
+  },
+  {
+    "title": "Space Invaders",
+    "platform": "A2600",
+    "code": "CX2632"
   },
   {
     "title": "Space Robot",
@@ -876,6 +918,11 @@
     "code": "CX2608"
   },
   {
+    "title": "Super Breakout",
+    "platform": "A2600",
+    "code": "CX2608"
+  },
+  {
     "title": "Super Cobra",
     "platform": "A2600"
   },
@@ -954,6 +1001,10 @@
     "code": "4L2278 / PA241725"
   },
   {
+    "title": "Venture",
+    "platform": "A2600"
+  },
+  {
     "title": "Video Checkers",
     "platform": "A2600",
     "code": "CX2636P"
@@ -1002,6 +1053,36 @@
     "title": "Z-Tack",
     "platform": "A2600",
     "code": "CA283"
+  },
+  {
+    "title": "Ballblazer",
+    "platform": "A7800",
+    "code": "CX7815"
+  },
+  {
+    "title": "Donkey Kong Junior",
+    "platform": "A7800",
+    "code": "CX7849"
+  },
+  {
+    "title": "Jinks",
+    "platform": "A7800",
+    "code": "CX7857"
+  },
+  {
+    "title": "Joust",
+    "platform": "A7800",
+    "code": "CX7806"
+  },
+  {
+    "title": "Karateka",
+    "platform": "A7800",
+    "code": "CX7822"
+  },
+  {
+    "title": "Xevious",
+    "platform": "A7800",
+    "code": "CX7810"
   },
   {
     "title": "36-in-1",
@@ -1085,6 +1166,11 @@
     "title": "Pokemon Gold",
     "platform": "GB",
     "code": "DMG-AAUP-EUR"
+  },
+  {
+    "title": "Pokemon Pinball",
+    "platform": "GB",
+    "code": "DMG-VPHP-EUR"
   },
   {
     "title": "Pokemon Red",
@@ -1212,6 +1298,36 @@
     "code": "DMG-ZL-EUR"
   },
   {
+    "title": "Zelda: Link's Awakening DX",
+    "platform": "GB",
+    "code": "DMG-AZLP-EUR"
+  },
+  {
+    "title": "Zelda: Link's Awakening DX",
+    "platform": "GB",
+    "code": "DMG-AZLP-EUR"
+  },
+  {
+    "title": "Zelda: The Minish Cap",
+    "platform": "GB",
+    "code": "AGB-BZMP-EUR"
+  },
+  {
+    "title": "Bit Generations: Boundish",
+    "platform": "GBA",
+    "code": "AGB-BVDJ-JPN"
+  },
+  {
+    "title": "Bit Generations: Dotstream",
+    "platform": "GBA",
+    "code": "AGB-BVCJ-JPN"
+  },
+  {
+    "title": "Breath of Fire",
+    "platform": "GBA",
+    "code": "AGB-ABFP-EUR"
+  },
+  {
     "title": "Crash Bandicoot 2 n-tranced",
     "platform": "GBA",
     "code": "AGB-AC8P-EUR"
@@ -1232,6 +1348,16 @@
     "code": "AGB-AKRP-EUR"
   },
   {
+    "title": "Kuru Kuru Kururin",
+    "platform": "GBA",
+    "code": "AGB-AKRP-EUR"
+  },
+  {
+    "title": "Metroid Fusion",
+    "platform": "GBA",
+    "code": "AGB-AMTP-EUR"
+  },
+  {
     "title": "Noddy A day in Toyland",
     "platform": "GBA",
     "code": "AGB-BNKP-EUR"
@@ -1242,9 +1368,34 @@
     "code": "AGB-APBP-EUR"
   },
   {
+    "title": "Pokemon Blue",
+    "platform": "GBA",
+    "code": "DMG-APEE-USA"
+  },
+  {
+    "title": "Pokemon Emerald",
+    "platform": "GBA",
+    "code": "AGB-BPEP-EUR"
+  },
+  {
+    "title": "Pokemon FireRed",
+    "platform": "GBA",
+    "code": "AGB-BPRP-EUR"
+  },
+  {
     "title": "Pokemon LeafGreen Version",
     "platform": "GBA",
     "code": "AGB-BPGP-EUR"
+  },
+  {
+    "title": "Pokemon Sapphire",
+    "platform": "GBA",
+    "code": "AGB-AXPP-EUR"
+  },
+  {
+    "title": "Prince of Persia",
+    "platform": "GBA",
+    "code": "AGB-BPYP-EUR"
   },
   {
     "title": "Rayman 3",
@@ -1267,9 +1418,19 @@
     "code": "AGB-ASDE-USA"
   },
   {
+    "title": "Super Mario Advance",
+    "platform": "GBA",
+    "code": "AGB-AMAP-EUR-1"
+  },
+  {
     "title": "The Wild",
     "platform": "GBA",
     "code": "AGB-BWLP-EUR"
+  },
+  {
+    "title": "Zelda II: The Adventure of Link: NES Classics",
+    "platform": "GBA",
+    "code": "AGB-FLBP-EUR"
   },
   {
     "title": "Zelda: A Link to the Past & Four Swords",
@@ -1280,6 +1441,11 @@
     "title": "Zelda: Minish Cap",
     "platform": "GBA",
     "code": "AGB-BZMP-EUR"
+  },
+  {
+    "title": "Zelda: The Legend of Zelda: NES Classics",
+    "platform": "GBA",
+    "code": "AGB-FZLP-EUR"
   },
   {
     "title": "102 Dalmatians",
@@ -1495,6 +1661,11 @@
     "code": "NUS-NPOP-EUR"
   },
   {
+    "title": "Pokemon Stadium",
+    "platform": "N64",
+    "code": "NUS-NPOD-NOE"
+  },
+  {
     "title": "Rayman 2",
     "platform": "N64",
     "code": "NUS-NY2P-EUR"
@@ -1628,6 +1799,11 @@
     "title": "Nintendo TouchGolf Birde Challenge",
     "platform": "NDS",
     "code": "NTR-AGFP-EUR"
+  },
+  {
+    "title": "Pokemon Mystery Dungeon: Explorers of Sky",
+    "platform": "NDS",
+    "code": "NTR-C2SP-EUR"
   },
   {
     "title": "Pokemon Platinum",
@@ -2152,9 +2328,49 @@
     "code": "SNSP-ZL-SCN"
   },
   {
-    "title": "Air-Sea War",
+    "title": "01. Race / Spin-out / Cryptogram",
+    "platform": "VIDEOPAC",
+    "code": "1"
+  },
+  {
+    "title": "02. Pairs / Space Rendezvous / Logic",
+    "platform": "VIDEOPAC",
+    "code": "2"
+  },
+  {
+    "title": "03. American Football",
+    "platform": "VIDEOPAC",
+    "code": "3"
+  },
+  {
+    "title": "04. Air-Sea War",
     "platform": "VIDEOPAC",
     "code": "4"
+  },
+  {
+    "title": "10. Golf",
+    "platform": "VIDEOPAC",
+    "code": "10"
+  },
+  {
+    "title": "11. Cosmic Conflict",
+    "platform": "VIDEOPAC",
+    "code": "11"
+  },
+  {
+    "title": "18. Laser War",
+    "platform": "VIDEOPAC",
+    "code": "18"
+  },
+  {
+    "title": "24. Flipper Game",
+    "platform": "VIDEOPAC",
+    "code": "24"
+  },
+  {
+    "title": "39. Freedom Fighters",
+    "platform": "VIDEOPAC",
+    "code": "39"
   },
   {
     "title": "Alien Invaders-Plus!",
@@ -2162,49 +2378,14 @@
     "code": "ODYSSEY2/AA9428"
   },
   {
-    "title": "American Football",
-    "platform": "VIDEOPAC",
-    "code": "3"
-  },
-  {
-    "title": "Cosmic Conflict",
-    "platform": "VIDEOPAC",
-    "code": "11"
-  },
-  {
-    "title": "Flipper Game",
-    "platform": "VIDEOPAC",
-    "code": "24"
-  },
-  {
-    "title": "Golf",
-    "platform": "VIDEOPAC",
-    "code": "10"
-  },
-  {
     "title": "K.C. Munchkin!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AC9435"
   },
   {
-    "title": "Laser War",
-    "platform": "VIDEOPAC",
-    "code": "18"
-  },
-  {
-    "title": "Pairs / Space Rendezvous / Logic",
-    "platform": "VIDEOPAC",
-    "code": "2"
-  },
-  {
     "title": "Pick Axe Pete!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AC9437"
-  },
-  {
-    "title": "Race / Spin-out / Cryptogram",
-    "platform": "VIDEOPAC",
-    "code": "1"
   },
   {
     "title": "Speedway / Spin-out / Crypto-logic!",
