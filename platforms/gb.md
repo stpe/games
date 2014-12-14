@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GB
+title: GameBoy
 permalink: /gb/
 platform: GB
 ---

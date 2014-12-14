@@ -1,6 +1,6 @@
 {% assign games = site.data.games | where: "platform", page.platform %}
 
-<p>Count: {{ games | size }}</p>
+<p>Currently {{ games | size }} {{ page.title }} games catalogued.</p>
 
 <ul>
 {% for game in games | sort: "weight" %}
