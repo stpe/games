@@ -1163,6 +1163,11 @@
     "code": "DMG-AO9P-EUR"
   },
   {
+    "title": "Pokemon Blue",
+    "platform": "GB",
+    "code": "DMG-APEE-USA"
+  },
+  {
     "title": "Pokemon Gold",
     "platform": "GB",
     "code": "DMG-AAUP-EUR"
@@ -1298,29 +1303,42 @@
     "code": "DMG-ZL-EUR"
   },
   {
-    "title": "Zelda: Link's Awakening DX",
-    "platform": "GB",
-    "code": "DMG-AZLP-EUR"
-  },
-  {
-    "title": "Zelda: Link's Awakening DX",
-    "platform": "GB",
-    "code": "DMG-AZLP-EUR"
-  },
-  {
-    "title": "Zelda: The Minish Cap",
-    "platform": "GB",
-    "code": "AGB-BZMP-EUR"
-  },
-  {
     "title": "Bit Generations: Boundish",
     "platform": "GBA",
     "code": "AGB-BVDJ-JPN"
   },
   {
+    "title": "Bit Generations: Boundish",
+    "platform": "GBA"
+  },
+  {
+    "title": "Bit Generations: Coloris",
+    "platform": "GBA"
+  },
+  {
+    "title": "Bit Generations: Dialhex",
+    "platform": "GBA"
+  },
+  {
+    "title": "Bit Generations: Digidrive",
+    "platform": "GBA"
+  },
+  {
     "title": "Bit Generations: Dotstream",
     "platform": "GBA",
     "code": "AGB-BVCJ-JPN"
+  },
+  {
+    "title": "Bit Generations: Dotstream",
+    "platform": "GBA"
+  },
+  {
+    "title": "Bit Generations: Orbital",
+    "platform": "GBA"
+  },
+  {
+    "title": "Bit Generations: Soundvoyager",
+    "platform": "GBA"
   },
   {
     "title": "Breath of Fire",
@@ -1331,6 +1349,11 @@
     "title": "Crash Bandicoot 2 n-tranced",
     "platform": "GBA",
     "code": "AGB-AC8P-EUR"
+  },
+  {
+    "title": "Disney Sports Soccer",
+    "platform": "GBA",
+    "code": "AGB-A6DJ-JPN"
   },
   {
     "title": "Ice Age",
@@ -1358,6 +1381,16 @@
     "code": "AGB-AMTP-EUR"
   },
   {
+    "title": "NES Classics: Zelda II: The Adventure of Link",
+    "platform": "GBA",
+    "code": "AGB-FLBP-EUR"
+  },
+  {
+    "title": "NES Classics: Zelda: The Legend of Zelda",
+    "platform": "GBA",
+    "code": "AGB-FZLP-EUR"
+  },
+  {
     "title": "Noddy A day in Toyland",
     "platform": "GBA",
     "code": "AGB-BNKP-EUR"
@@ -1366,11 +1399,6 @@
     "title": "Pinobee Wings of Adventure",
     "platform": "GBA",
     "code": "AGB-APBP-EUR"
-  },
-  {
-    "title": "Pokemon Blue",
-    "platform": "GBA",
-    "code": "DMG-APEE-USA"
   },
   {
     "title": "Pokemon Emerald",
@@ -1423,14 +1451,19 @@
     "code": "AGB-AMAP-EUR-1"
   },
   {
+    "title": "Super Mario Bros.",
+    "platform": "GBA",
+    "code": "AGB-FSMJ-JPN"
+  },
+  {
     "title": "The Wild",
     "platform": "GBA",
     "code": "AGB-BWLP-EUR"
   },
   {
-    "title": "Zelda II: The Adventure of Link: NES Classics",
+    "title": "Zelda: A Link to the Past",
     "platform": "GBA",
-    "code": "AGB-FLBP-EUR"
+    "code": "AGB-AZLP-EUR"
   },
   {
     "title": "Zelda: A Link to the Past & Four Swords",
@@ -1438,14 +1471,14 @@
     "code": "AGB-AZLP-EUR"
   },
   {
-    "title": "Zelda: Minish Cap",
+    "title": "Zelda: The Minish Cap",
     "platform": "GBA",
     "code": "AGB-BZMP-EUR"
   },
   {
-    "title": "Zelda: The Legend of Zelda: NES Classics",
+    "title": "Zelda: The Minish Cap",
     "platform": "GBA",
-    "code": "AGB-FZLP-EUR"
+    "code": "AGB-BZMP-EUR"
   },
   {
     "title": "102 Dalmatians",
@@ -1471,6 +1504,21 @@
     "title": "Super Mario Bros. Deluxe",
     "platform": "GBC",
     "code": "CGB-AHYE-USA-1"
+  },
+  {
+    "title": "Super Mario Bros. Deluxe",
+    "platform": "GBC",
+    "code": "CGB-AHYP-EUR"
+  },
+  {
+    "title": "Zelda: Link's Awakening DX",
+    "platform": "GBC",
+    "code": "DMG-AZLP-EUR"
+  },
+  {
+    "title": "Zelda: Link's Awakening DX",
+    "platform": "GBC",
+    "code": "DMG-AZLP-EUR"
   },
   {
     "title": "Zelda: Link's Awakening DX",
@@ -2358,9 +2406,29 @@
     "code": "11"
   },
   {
+    "title": "11. Cosmic Conflict",
+    "platform": "VIDEOPAC",
+    "code": "11"
+  },
+  {
+    "title": "14. Gunfighter",
+    "platform": "VIDEOPAC",
+    "code": "14"
+  },
+  {
+    "title": "16. Depth Charge / Marksman",
+    "platform": "VIDEOPAC",
+    "code": "16"
+  },
+  {
     "title": "18. Laser War",
     "platform": "VIDEOPAC",
     "code": "18"
+  },
+  {
+    "title": "19. Catch the ball",
+    "platform": "VIDEOPAC",
+    "code": "19"
   },
   {
     "title": "24. Flipper Game",
@@ -2368,9 +2436,29 @@
     "code": "24"
   },
   {
+    "title": "35. Electronic billiards",
+    "platform": "VIDEOPAC",
+    "code": "35"
+  },
+  {
+    "title": "38. Munchkin",
+    "platform": "VIDEOPAC",
+    "code": "38"
+  },
+  {
     "title": "39. Freedom Fighters",
     "platform": "VIDEOPAC",
     "code": "39"
+  },
+  {
+    "title": "4. Air-Sea War / Battle",
+    "platform": "VIDEOPAC",
+    "code": "4"
+  },
+  {
+    "title": "42. Quest for the Rings",
+    "platform": "VIDEOPAC",
+    "code": "42"
   },
   {
     "title": "Alien Invaders-Plus!",
@@ -2616,5 +2704,15 @@
     "title": "Lips",
     "platform": "XBOX360",
     "code": "X15-88233-01"
+  },
+  {
+    "title": "Halo: The Master Chief Collection",
+    "platform": "XBOXONE",
+    "code": "X19-75912-01"
+  },
+  {
+    "title": "Sunset Overdrive",
+    "platform": "XBOXONE",
+    "code": "X19-76998-01"
   }
 ]
