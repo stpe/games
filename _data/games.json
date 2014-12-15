@@ -1183,7 +1183,7 @@
     "code": "DMG-APAU-EUR"
   },
   {
-    "title": "Pokemon Special Pikachu Edition",
+    "title": "Pokemon Yellow",
     "platform": "GB",
     "code": "DMG-APSE-USA-1"
   },
@@ -1411,7 +1411,7 @@
     "code": "AGB-BPRP-EUR"
   },
   {
-    "title": "Pokemon LeafGreen Version",
+    "title": "Pokemon LeafGreen",
     "platform": "GBA",
     "code": "AGB-BPGP-EUR"
   },
@@ -2396,6 +2396,11 @@
     "code": "4"
   },
   {
+    "title": "04. Air-Sea War / Battle",
+    "platform": "VIDEOPAC",
+    "code": "4"
+  },
+  {
     "title": "10. Golf",
     "platform": "VIDEOPAC",
     "code": "10"
@@ -2449,11 +2454,6 @@
     "title": "39. Freedom Fighters",
     "platform": "VIDEOPAC",
     "code": "39"
-  },
-  {
-    "title": "4. Air-Sea War / Battle",
-    "platform": "VIDEOPAC",
-    "code": "4"
   },
   {
     "title": "42. Quest for the Rings",
