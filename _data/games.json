@@ -1168,6 +1168,11 @@
     "code": "DMG-APEE-USA"
   },
   {
+    "title": "Pokemon Blue",
+    "platform": "GB",
+    "code": "DMG-APEU-EUR"
+  },
+  {
     "title": "Pokemon Gold",
     "platform": "GB",
     "code": "DMG-AAUP-EUR"
@@ -1949,6 +1954,11 @@
     "code": "NES-IC-EEC"
   },
   {
+    "title": "Ice Climber",
+    "platform": "NES",
+    "code": "NES-IC-ECC"
+  },
+  {
     "title": "Ice Hockey",
     "platform": "NES",
     "code": "NES-HY-EEC"
@@ -2030,6 +2040,11 @@
     "title": "Super Mario Bros.",
     "platform": "NES",
     "code": "NES-SM-EEC"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "code": "NES-SM-SCN"
   },
   {
     "title": "Super Mario Bros. / Tetris / Nintendo World Cup",
