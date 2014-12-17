@@ -1421,6 +1421,11 @@
     "code": "AGB-BPGP-EUR"
   },
   {
+    "title": "Pokemon Ruby",
+    "platform": "GBA",
+    "code": "AGB-AXVP-EUR"
+  },
+  {
     "title": "Pokemon Sapphire",
     "platform": "GBA",
     "code": "AGB-AXPP-EUR"
@@ -1499,6 +1504,11 @@
     "title": "Mario Golf",
     "platform": "GBC",
     "code": "CGB-AWXP-EUR-2"
+  },
+  {
+    "title": "Pokemon Trading Card Game",
+    "platform": "GBC",
+    "code": "DMG-AXQP-NOE"
   },
   {
     "title": "Rayman",
@@ -1867,6 +1877,11 @@
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
+  },
+  {
+    "title": "Pokemon White 2",
+    "platform": "NDS",
+    "code": "TWL-IRDO-EUR"
   },
   {
     "title": "Puzzle Quest",
