@@ -1173,6 +1173,11 @@
     "code": "DMG-APEU-EUR"
   },
   {
+    "title": "Pokemon Blue",
+    "platform": "GB",
+    "code": "DMG-APEU-EUR"
+  },
+  {
     "title": "Pokemon Gold",
     "platform": "GB",
     "code": "DMG-AAUP-EUR"
@@ -1261,11 +1266,6 @@
     "title": "Tennis",
     "platform": "GB",
     "code": "DMG-TN-SCN"
-  },
-  {
-    "title": "Tetris",
-    "platform": "GB",
-    "code": "DMG-TR-SCN"
   },
   {
     "title": "Tetris",
@@ -1504,6 +1504,11 @@
     "title": "Mario Golf",
     "platform": "GBC",
     "code": "CGB-AWXP-EUR-2"
+  },
+  {
+    "title": "Pokemon Gold",
+    "platform": "GBC",
+    "code": "DMG-AAUP-EUR"
   },
   {
     "title": "Pokemon Trading Card Game",
