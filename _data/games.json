@@ -54,6 +54,11 @@
     "platform": "A2600"
   },
   {
+    "title": "Atlantis",
+    "platform": "A2600",
+    "code": "720103-2"
+  },
+  {
     "title": "Backgammon",
     "platform": "A2600",
     "code": "CX2617"
@@ -202,6 +207,11 @@
     "code": "CX2601"
   },
   {
+    "title": "Combat",
+    "platform": "A2600",
+    "code": "CX2601"
+  },
+  {
     "title": "Cosmic Ark",
     "platform": "A2600"
   },
@@ -269,9 +279,19 @@
     "platform": "A2600"
   },
   {
+    "title": "Demon Attack",
+    "platform": "A2600",
+    "code": "720101-2"
+  },
+  {
     "title": "Demons to Diamonds",
     "platform": "A2600",
     "code": "CX2615"
+  },
+  {
+    "title": "Desert Falcon",
+    "platform": "A2600",
+    "code": "CX26140"
   },
   {
     "title": "Dig Dug",
@@ -305,6 +325,11 @@
     "platform": "A2600"
   },
   {
+    "title": "Fatal Run",
+    "platform": "A2600",
+    "code": "CX26162"
+  },
+  {
     "title": "Fire Fighter",
     "platform": "A2600"
   },
@@ -312,6 +337,11 @@
     "title": "Football",
     "platform": "A2600",
     "code": "CX2625"
+  },
+  {
+    "title": "Football / RealSports Soccer",
+    "platform": "A2600",
+    "code": "CX2667"
   },
   {
     "title": "Fox & Goat",
@@ -435,6 +465,11 @@
     "code": "CX2689"
   },
   {
+    "title": "Kangaroo",
+    "platform": "A2600",
+    "code": "CX2689"
+  },
+  {
     "title": "Kung-Fu Master",
     "platform": "A2600",
     "code": "EAX-039-04I"
@@ -443,6 +478,10 @@
     "title": "Kung-Fu Master",
     "platform": "A2600",
     "code": "EAX-039-04I"
+  },
+  {
+    "title": "Labyrinth",
+    "platform": "A2600"
   },
   {
     "title": "Labyrinth",
@@ -530,6 +569,16 @@
     "code": "CX2692"
   },
   {
+    "title": "MoonPatrol",
+    "platform": "A2600",
+    "code": "CX2692P"
+  },
+  {
+    "title": "MoonPatrol",
+    "platform": "A2600",
+    "code": "CX2692"
+  },
+  {
     "title": "Motocross",
     "platform": "A2600"
   },
@@ -597,6 +646,11 @@
     "code": "CX2646"
   },
   {
+    "title": "Pac-Man",
+    "platform": "A2600",
+    "code": "CX2646"
+  },
+  {
     "title": "Pele's Soccer",
     "platform": "A2600",
     "code": "CX2616"
@@ -609,6 +663,11 @@
   {
     "title": "Phantom-Panzer",
     "platform": "A2600"
+  },
+  {
+    "title": "Phoenix",
+    "platform": "A2600",
+    "code": "CX2673"
   },
   {
     "title": "Phoenix",
@@ -802,6 +861,11 @@
     "code": "CX26136"
   },
   {
+    "title": "Solaris",
+    "platform": "A2600",
+    "code": "CX26136"
+  },
+  {
     "title": "Sorcerer's Apprentice",
     "platform": "A2600",
     "code": "CX26109"
@@ -860,6 +924,11 @@
     "title": "Stampede",
     "platform": "A2600",
     "code": "AG-011"
+  },
+  {
+    "title": "Star Raiders",
+    "platform": "A2600",
+    "code": "CX2660"
   },
   {
     "title": "Star Raiders",
@@ -984,6 +1053,16 @@
   {
     "title": "Trick Shot",
     "platform": "A2600"
+  },
+  {
+    "title": "Vanguard",
+    "platform": "A2600",
+    "code": "CX2669"
+  },
+  {
+    "title": "Vanguard",
+    "platform": "A2600",
+    "code": "CX2669"
   },
   {
     "title": "Vanguard",
@@ -1700,6 +1779,11 @@
     "code": "NUS-NMXP-EUR"
   },
   {
+    "title": "Extreme-G",
+    "platform": "N64",
+    "code": "NUS-NEGP-EUR"
+  },
+  {
     "title": "F-1 World Grand Prix II",
     "platform": "N64",
     "code": "NUS-NF2P-EUR"
@@ -1728,6 +1812,11 @@
     "title": "Lylat Wars",
     "platform": "N64",
     "code": "NUS-NFXP-EUR"
+  },
+  {
+    "title": "Magical Tetris Challenge",
+    "platform": "N64",
+    "code": "NUS-NMTD-NOE"
   },
   {
     "title": "Micro Machines 64 Turbo",
@@ -1765,14 +1854,34 @@
     "code": "NUS-NSWP-EUR"
   },
   {
+    "title": "Star Wars: Rogue Squadron",
+    "platform": "N64",
+    "code": "NUS-NRSP-EUR"
+  },
+  {
     "title": "Super Mario 64",
     "platform": "N64",
     "code": "NUS-NSMP-EUR"
   },
   {
+    "title": "Tetrisphere",
+    "platform": "N64",
+    "code": "NUS-NTPP-EUR"
+  },
+  {
     "title": "Tonic Trouble",
     "platform": "N64",
     "code": "NUS-NTTP-EUR"
+  },
+  {
+    "title": "Top Gear Rally",
+    "platform": "N64",
+    "code": "NUS-NTRP-EUR"
+  },
+  {
+    "title": "Turok: Seeds of Evil",
+    "platform": "N64",
+    "code": "NUS-NT2D-NOE"
   },
   {
     "title": "Wipeout 64",
@@ -1978,6 +2087,11 @@
     "title": "DuckTales",
     "platform": "NES",
     "code": "NES-UK-NOE"
+  },
+  {
+    "title": "Gradius",
+    "platform": "NES",
+    "code": "NES-GR-EEC"
   },
   {
     "title": "Gum Shoe",
@@ -2282,6 +2396,11 @@
     "code": "SNSP-P9-NOE"
   },
   {
+    "title": "Paperboy 2",
+    "platform": "SNES",
+    "code": "SNSP-P2-NOE"
+  },
+  {
     "title": "Pilotwings",
     "platform": "SNES",
     "code": "SNSP-PW-SCN"
@@ -2300,6 +2419,11 @@
     "title": "Pitfall",
     "platform": "SNES",
     "code": "SNSP-006"
+  },
+  {
+    "title": "Plok",
+    "platform": "SNES",
+    "code": "SNSP-P4-NOE/SFRG"
   },
   {
     "title": "Power Drive",
