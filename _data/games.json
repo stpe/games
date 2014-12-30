@@ -1272,6 +1272,16 @@
     "code": "DMG-APAU-EUR"
   },
   {
+    "title": "Pokemon Red",
+    "platform": "GB",
+    "code": "DMG-APAU-EUR"
+  },
+  {
+    "title": "Pokemon Red",
+    "platform": "GB",
+    "code": "DMG-APAU-EUR"
+  },
+  {
     "title": "Pokemon Yellow",
     "platform": "GB",
     "code": "DMG-APSE-USA-1"
@@ -1510,6 +1520,16 @@
     "code": "AGB-AXPP-EUR"
   },
   {
+    "title": "Pokemon: Red Rescue Team",
+    "platform": "GBA",
+    "code": "AGB-B24P-EUR"
+  },
+  {
+    "title": "Pokemon: Red Rescue Team",
+    "platform": "GBA",
+    "code": "AGB-B24P-EUR"
+  },
+  {
     "title": "Prince of Persia",
     "platform": "GBA",
     "code": "AGB-BPYP-EUR"
@@ -1588,6 +1608,11 @@
     "title": "Pokemon Gold",
     "platform": "GBC",
     "code": "DMG-AAUP-EUR"
+  },
+  {
+    "title": "Pokemon Pinball",
+    "platform": "GBC",
+    "code": "DMG-VPHP-EUR"
   },
   {
     "title": "Pokemon Trading Card Game",
@@ -1994,9 +2019,24 @@
     "code": "NTR-AGFP-EUR"
   },
   {
+    "title": "Pokemon Black 2",
+    "platform": "NDS",
+    "code": "TWL-IREO-EUR"
+  },
+  {
+    "title": "Pokemon Dash",
+    "platform": "NDS",
+    "code": "NTR-APDP-EUR"
+  },
+  {
     "title": "Pokemon Diamond",
     "platform": "NDS",
     "code": "NTR-ADAP-EUR"
+  },
+  {
+    "title": "Pokemon HeartGold",
+    "platform": "NDS",
+    "code": "NTR-IPKP-EUR"
   },
   {
     "title": "Pokemon Mystery Dungeon: Explorers of Sky",
@@ -2007,6 +2047,21 @@
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
+  },
+  {
+    "title": "Pokemon Ranger",
+    "platform": "NDS",
+    "code": "NTR-ARGP-EUR"
+  },
+  {
+    "title": "Pokemon SoulSilver",
+    "platform": "NDS",
+    "code": "NTR-IPGP-EUR"
+  },
+  {
+    "title": "Pokemon White",
+    "platform": "NDS",
+    "code": "TWL-IRAO-EUR"
   },
   {
     "title": "Pokemon White 2",
