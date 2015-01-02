@@ -1257,16 +1257,6 @@
     "code": "DMG-APEU-EUR"
   },
   {
-    "title": "Pokemon Gold",
-    "platform": "GB",
-    "code": "DMG-AAUP-EUR"
-  },
-  {
-    "title": "Pokemon Pinball",
-    "platform": "GB",
-    "code": "DMG-VPHP-EUR"
-  },
-  {
     "title": "Pokemon Red",
     "platform": "GB",
     "code": "DMG-APAU-EUR"
@@ -1608,6 +1598,16 @@
     "title": "Pokemon Gold",
     "platform": "GBC",
     "code": "DMG-AAUP-EUR"
+  },
+  {
+    "title": "Pokemon Gold",
+    "platform": "GBC",
+    "code": "DMG-AAUP-EUR"
+  },
+  {
+    "title": "Pokemon Pinball",
+    "platform": "GBC",
+    "code": "DMG-VPHP-EUR"
   },
   {
     "title": "Pokemon Pinball",
