@@ -3,6 +3,7 @@
 {% assign platforms = site.data.games | group_by: "platform" %}
 
 <div>
+{% assign counter = 0 %}
 {% for games in platforms | sort: "weight" %}
 
     {% assign found = false %}
@@ -24,4 +25,7 @@
     {% endif %}
 
 {% endfor %}
+
+<p>{{ counter }} {{ page.series }} games all in all.</p>
+
 </div>
