@@ -2949,5 +2949,29 @@
     "title": "Sunset Overdrive",
     "platform": "XBOXONE",
     "code": "X19-76998-01"
+  },
+  {
+    "title": "Pokemon Puzzle Challenge",
+    "platform": "z_GBC"
+  },
+  {
+    "title": "Pokemon Silver",
+    "platform": "z_GBC"
+  },
+  {
+    "title": "Road Champs",
+    "platform": "z_GBC"
+  },
+  {
+    "title": "Pokemon Snap",
+    "platform": "z_N64"
+  },
+  {
+    "title": "Pokemon Ranger: Shadows of Almia",
+    "platform": "z_NDS"
+  },
+  {
+    "title": "Pokemon: Explorers of Darkness",
+    "platform": "z_NDS"
   }
 ]
