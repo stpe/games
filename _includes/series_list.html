@@ -11,8 +11,13 @@
         {% for game in games.items | sort: "weight" %}
             {% assign title = game.title | downcase %}
             {% if title contains page.series %}
-                <li title="{{ game.code }}">{{ game.title }}</li>
-                {% assign found = true %}
+                {% unless game.platform contains '_' %}
+                    <li title="{{ game.code }}">{{ game.title }}</li>
+                    {% assign found = true %}
+
+                    {% capture temp %}{{ counter | plus: 1 }}{% endcapture %}
+                    {% assign counter = temp %}
+                {% endunless %}
             {% endif %}
         {% endfor %}
     {% endcapture %}
