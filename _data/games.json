@@ -1277,6 +1277,11 @@
     "code": "DMG-APSE-USA-1"
   },
   {
+    "title": "Pokemon Yellow: Special Pikachu Ediiton",
+    "platform": "GB",
+    "code": "DMG-APSU-EUR"
+  },
+  {
     "title": "Power Quest",
     "platform": "GB",
     "code": "DMG-APQE-USA"
@@ -1595,6 +1600,11 @@
     "code": "CGB-AWXP-EUR-2"
   },
   {
+    "title": "Pokemon Crystal",
+    "platform": "GBC",
+    "code": "CGB-BYTP-EUR-1"
+  },
+  {
     "title": "Pokemon Gold",
     "platform": "GBC",
     "code": "DMG-AAUP-EUR"
@@ -1613,6 +1623,16 @@
     "title": "Pokemon Pinball",
     "platform": "GBC",
     "code": "DMG-VPHP-EUR"
+  },
+  {
+    "title": "Pokemon Puzzle Challenge",
+    "platform": "GBC",
+    "code": "CGB-BPNP-EUR"
+  },
+  {
+    "title": "Pokemon Silver",
+    "platform": "GBC",
+    "code": "DMG-AAXP-EUR-1"
   },
   {
     "title": "Pokemon Trading Card Game",
@@ -1623,6 +1643,11 @@
     "title": "Rayman",
     "platform": "GBC",
     "code": "CGB-AYQP-EUR-1"
+  },
+  {
+    "title": "Road Champs",
+    "platform": "GBC",
+    "code": "CGB-BXSP-EUR"
   },
   {
     "title": "Super Mario Bros. Deluxe",
@@ -1854,6 +1879,11 @@
     "code": "NUS-NMRP-NOE"
   },
   {
+    "title": "Pokemon Snap",
+    "platform": "N64",
+    "code": "NUS-NPFP-EUR"
+  },
+  {
     "title": "Pokemon Stadium",
     "platform": "N64",
     "code": "NUS-NPOP-EUR"
@@ -2054,6 +2084,11 @@
     "code": "NTR-ARGP-EUR"
   },
   {
+    "title": "Pokemon Ranger: Shadows of Almia",
+    "platform": "NDS",
+    "code": "NTR-YP2P-EUR"
+  },
+  {
     "title": "Pokemon SoulSilver",
     "platform": "NDS",
     "code": "NTR-IPGP-EUR"
@@ -2067,6 +2102,11 @@
     "title": "Pokemon White 2",
     "platform": "NDS",
     "code": "TWL-IRDO-EUR"
+  },
+  {
+    "title": "Pokemon: Explorers of Darkness",
+    "platform": "NDS",
+    "code": "NTR-YFYP-EUR"
   },
   {
     "title": "Puzzle Quest",
@@ -2949,29 +2989,5 @@
     "title": "Sunset Overdrive",
     "platform": "XBOXONE",
     "code": "X19-76998-01"
-  },
-  {
-    "title": "Pokemon Puzzle Challenge",
-    "platform": "z_GBC"
-  },
-  {
-    "title": "Pokemon Silver",
-    "platform": "z_GBC"
-  },
-  {
-    "title": "Road Champs",
-    "platform": "z_GBC"
-  },
-  {
-    "title": "Pokemon Snap",
-    "platform": "z_N64"
-  },
-  {
-    "title": "Pokemon Ranger: Shadows of Almia",
-    "platform": "z_NDS"
-  },
-  {
-    "title": "Pokemon: Explorers of Darkness",
-    "platform": "z_NDS"
   }
 ]
