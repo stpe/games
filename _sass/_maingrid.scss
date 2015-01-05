@@ -4,7 +4,6 @@
     padding: 0;
 
     $grid-padding: 10px;
-    $size: 25vh;
 
     > li {
 
@@ -15,9 +14,24 @@
             background-color: rgba(0,0,0,0.05);
             float: left;
 
+            $size: #{(320 / 2)}px;
             line-height: $size;
             height: $size;
             width: $size;
+
+            @include media-query($on-tablet) {
+                $size: (320 / 3)px;
+                line-height: $size;
+                height: $size;
+                width: $size;
+            }
+
+            @include media-query($on-laptop) {
+                $size: (320/4)px;
+                line-height: $size;
+                height: $size;
+                width: $size;
+            }
 
             img {
                 -webkit-filter: grayscale(100%);

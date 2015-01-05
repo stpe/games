@@ -23,8 +23,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $main-grid-square-size: 110px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-tablet:        740px;
+$on-laptop:        980px;
 
 
 
@@ -36,7 +36,7 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
+    @media screen and (min-width: $device) {
         @content;
     }
 }
