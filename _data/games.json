@@ -265,6 +265,11 @@
     "code": "EAZ-030"
   },
   {
+    "title": "Decathlon",
+    "platform": "A2600",
+    "code": "_pending_"
+  },
+  {
     "title": "Defender",
     "platform": "A2600",
     "code": "CX2609"
@@ -313,6 +318,11 @@
     "code": "CX26159"
   },
   {
+    "title": "Double Dunk",
+    "platform": "A2600",
+    "code": "_pending_"
+  },
+  {
     "title": "Eddy Langfinger, der Museumsdieb",
     "platform": "A2600"
   },
@@ -328,6 +338,11 @@
     "title": "Fatal Run",
     "platform": "A2600",
     "code": "CX26162"
+  },
+  {
+    "title": "Fighter Pilot",
+    "platform": "A2600",
+    "code": "_pending_"
   },
   {
     "title": "Fire Fighter",
@@ -354,6 +369,11 @@
   {
     "title": "Frogs and Flies",
     "platform": "A2600"
+  },
+  {
+    "title": "Galactic",
+    "platform": "A2600",
+    "code": "_pending_"
   },
   {
     "title": "Galaxian",
@@ -497,6 +517,11 @@
     "code": "AG-008"
   },
   {
+    "title": "Mario Bros",
+    "platform": "A2600",
+    "code": "_pending_"
+  },
+  {
     "title": "Marspatrouille",
     "platform": "A2600"
   },
@@ -590,6 +615,11 @@
     "title": "Mouse Trap",
     "platform": "A2600",
     "code": "4L1819"
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "platform": "A2600",
+    "code": "CX2675"
   },
   {
     "title": "My Golf",
@@ -1144,6 +1174,11 @@
     "code": "CX7849"
   },
   {
+    "title": "Hat Trick",
+    "platform": "A7800",
+    "code": "_pending_"
+  },
+  {
     "title": "Jinks",
     "platform": "A7800",
     "code": "CX7857"
@@ -1157,6 +1192,21 @@
     "title": "Karateka",
     "platform": "A7800",
     "code": "CX7822"
+  },
+  {
+    "title": "Mario Bros",
+    "platform": "A7800",
+    "code": "_pending_"
+  },
+  {
+    "title": "Pole Position",
+    "platform": "A7800",
+    "code": "_pending_"
+  },
+  {
+    "title": "Super Huey UH-IX",
+    "platform": "A7800",
+    "code": "_pending_"
   },
   {
     "title": "Xevious",
@@ -1590,14 +1640,38 @@
     "code": "CGB-B99P-UKV"
   },
   {
+    "title": "Donkey Kong Country",
+    "platform": "GBC"
+  },
+  {
+    "title": "Harry Potter",
+    "platform": "GBC",
+    "code": "CGB-BH6P-EUR"
+  },
+  {
     "title": "Harry Potter The Philosopher's Stone",
     "platform": "GBC",
     "code": "CGB-BHVP-EUR"
   },
   {
+    "title": "Indiana Jones and the Infernal Machine",
+    "platform": "GBC",
+    "code": "CGB-BIJP-EUR"
+  },
+  {
+    "title": "LEGO Alpha Team",
+    "platform": "GBC",
+    "code": "CGB-BLPP-SCN"
+  },
+  {
     "title": "Mario Golf",
     "platform": "GBC",
     "code": "CGB-AWXP-EUR-2"
+  },
+  {
+    "title": "Pokemon Blue",
+    "platform": "GBC",
+    "code": "DMG-APEU-EUR"
   },
   {
     "title": "Pokemon Crystal",
@@ -1613,6 +1687,10 @@
     "title": "Pokemon Gold",
     "platform": "GBC",
     "code": "DMG-AAUP-EUR"
+  },
+  {
+    "title": "Pokemon Gold",
+    "platform": "GBC"
   },
   {
     "title": "Pokemon Pinball",
@@ -1688,11 +1766,6 @@
     "title": "Mario Golf: Toadstool Tour",
     "platform": "GC",
     "code": "DOL-GFTP-UKV"
-  },
-  {
-    "title": "Metroid Prime",
-    "platform": "GC",
-    "code": "DOL-GM8P-UKV"
   },
   {
     "title": "Metroid Prime",
@@ -2049,6 +2122,10 @@
     "code": "NTR-AGFP-EUR"
   },
   {
+    "title": "Pokemon Black",
+    "platform": "NDS"
+  },
+  {
     "title": "Pokemon Black 2",
     "platform": "NDS",
     "code": "TWL-IREO-EUR"
@@ -2069,9 +2146,19 @@
     "code": "NTR-IPKP-EUR"
   },
   {
+    "title": "Pokemon Mystery Dungeon: Explorers of Darkness",
+    "platform": "NDS",
+    "code": "NTR-YFYP-EUR"
+  },
+  {
     "title": "Pokemon Mystery Dungeon: Explorers of Sky",
     "platform": "NDS",
     "code": "NTR-C2SP-EUR"
+  },
+  {
+    "title": "Pokemon Mystery Dungeon: Explorers of Time",
+    "platform": "NDS",
+    "code": "NTR-YFTP-EUR"
   },
   {
     "title": "Pokemon Platinum",
@@ -2102,11 +2189,6 @@
     "title": "Pokemon White 2",
     "platform": "NDS",
     "code": "TWL-IRDO-EUR"
-  },
-  {
-    "title": "Pokemon: Explorers of Darkness",
-    "platform": "NDS",
-    "code": "NTR-YFYP-EUR"
   },
   {
     "title": "Puzzle Quest",
@@ -2656,6 +2738,16 @@
     "code": "1"
   },
   {
+    "title": "01. Race / Spin-out / Cryptogram",
+    "platform": "VIDEOPAC",
+    "code": "1"
+  },
+  {
+    "title": "02. Pairs / Space Rendezvous / Logic",
+    "platform": "VIDEOPAC",
+    "code": "2"
+  },
+  {
     "title": "02. Pairs / Space Rendezvous / Logic",
     "platform": "VIDEOPAC",
     "code": "2"
@@ -2716,6 +2808,16 @@
     "code": "24"
   },
   {
+    "title": "29. Dam buster",
+    "platform": "VIDEOPAC",
+    "code": "29"
+  },
+  {
+    "title": "32. A Labyrinth Game / Supermind",
+    "platform": "VIDEOPAC",
+    "code": "32"
+  },
+  {
     "title": "35. Electronic billiards",
     "platform": "VIDEOPAC",
     "code": "35"
@@ -2729,6 +2831,11 @@
     "title": "39. Freedom Fighters",
     "platform": "VIDEOPAC",
     "code": "39"
+  },
+  {
+    "title": "40. 4 in 1 row",
+    "platform": "VIDEOPAC",
+    "code": "40"
   },
   {
     "title": "42. Quest for the Rings",
@@ -2754,6 +2861,11 @@
     "title": "Speedway / Spin-out / Crypto-logic!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AJ9400"
+  },
+  {
+    "title": "The Great Wall Street Fortune Hunt",
+    "platform": "VIDEOPAC",
+    "code": "ODYSSEY2/AC9434"
   },
   {
     "title": "UFO!",
