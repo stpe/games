@@ -1307,6 +1307,11 @@
     "code": "DMG-APEU-EUR"
   },
   {
+    "title": "Pokemon Gold",
+    "platform": "GB",
+    "code": "DMG-AAUP-EUR-1"
+  },
+  {
     "title": "Pokemon Red",
     "platform": "GB",
     "code": "DMG-APAU-EUR"
@@ -1325,6 +1330,11 @@
     "title": "Pokemon Yellow",
     "platform": "GB",
     "code": "DMG-APSE-USA-1"
+  },
+  {
+    "title": "Pokemon Yellow",
+    "platform": "GB",
+    "code": "DMG-APSU-EUR"
   },
   {
     "title": "Pokemon Yellow: Special Pikachu Ediiton",
@@ -2161,6 +2171,11 @@
     "code": "NTR-YFTP-EUR"
   },
   {
+    "title": "Pokemon Pearl",
+    "platform": "NDS",
+    "code": "NTR-APAP-EUR"
+  },
+  {
     "title": "Pokemon Platinum",
     "platform": "NDS",
     "code": "NTR-CPUP-EUR"
@@ -2720,7 +2735,7 @@
   {
     "title": "The Lost Vikings",
     "platform": "SNES",
-    "code": "_pending_"
+    "code": "SNSP-LV-SCN"
   },
   {
     "title": "Urban Strike",
