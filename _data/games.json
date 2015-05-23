@@ -1,5 +1,9 @@
 [
   {
+    "title": "Pokémon Rumble Blast",
+    "platform": "3DS"
+  },
+  {
     "title": "2 Pak Special - Planet Patrol/Wall Defender",
     "platform": "A2600"
   },
@@ -25,6 +29,10 @@
     "title": "Air Sea Battle",
     "platform": "A2600",
     "code": "CX2602"
+  },
+  {
+    "title": "Amidar",
+    "platform": "A2600"
   },
   {
     "title": "Armor Ambush",
@@ -267,7 +275,7 @@
   {
     "title": "Decathlon",
     "platform": "A2600",
-    "code": "_pending_"
+    "code": "EAZ-030"
   },
   {
     "title": "Defender",
@@ -320,7 +328,7 @@
   {
     "title": "Double Dunk",
     "platform": "A2600",
-    "code": "_pending_"
+    "code": "CX26159"
   },
   {
     "title": "Eddy Langfinger, der Museumsdieb",
@@ -342,7 +350,7 @@
   {
     "title": "Fighter Pilot",
     "platform": "A2600",
-    "code": "_pending_"
+    "code": "EAK-046-04B"
   },
   {
     "title": "Fire Fighter",
@@ -372,8 +380,7 @@
   },
   {
     "title": "Galactic",
-    "platform": "A2600",
-    "code": "_pending_"
+    "platform": "A2600"
   },
   {
     "title": "Galaxian",
@@ -399,6 +406,10 @@
     "title": "Gorf",
     "platform": "A2600",
     "code": "4L1752"
+  },
+  {
+    "title": "H.E.R.O.",
+    "platform": "A2600"
   },
   {
     "title": "Hangman",
@@ -518,8 +529,7 @@
   },
   {
     "title": "Mario Bros",
-    "platform": "A2600",
-    "code": "_pending_"
+    "platform": "A2600"
   },
   {
     "title": "Marspatrouille",
@@ -1176,7 +1186,7 @@
   {
     "title": "Hat Trick",
     "platform": "A7800",
-    "code": "_pending_"
+    "code": "CX7829"
   },
   {
     "title": "Jinks",
@@ -1196,7 +1206,12 @@
   {
     "title": "Mario Bros",
     "platform": "A7800",
-    "code": "_pending_"
+    "code": "CX7850"
+  },
+  {
+    "title": "Meltdown",
+    "platform": "A7800",
+    "code": "CX7875"
   },
   {
     "title": "Pole Position",
@@ -1206,7 +1221,7 @@
   {
     "title": "Super Huey UH-IX",
     "platform": "A7800",
-    "code": "_pending_"
+    "code": "CX7828"
   },
   {
     "title": "Xevious",
@@ -1457,10 +1472,6 @@
     "code": "AGB-BVDJ-JPN"
   },
   {
-    "title": "Bit Generations: Boundish",
-    "platform": "GBA"
-  },
-  {
     "title": "Bit Generations: Coloris",
     "platform": "GBA"
   },
@@ -1476,10 +1487,6 @@
     "title": "Bit Generations: Dotstream",
     "platform": "GBA",
     "code": "AGB-BVCJ-JPN"
-  },
-  {
-    "title": "Bit Generations: Dotstream",
-    "platform": "GBA"
   },
   {
     "title": "Bit Generations: Orbital",
@@ -1563,6 +1570,10 @@
     "title": "Pokemon LeafGreen",
     "platform": "GBA",
     "code": "AGB-BPGP-EUR"
+  },
+  {
+    "title": "Pokemon Leafgreen",
+    "platform": "GBA"
   },
   {
     "title": "Pokemon Ruby",
@@ -1667,11 +1678,6 @@
     "title": "Indiana Jones and the Infernal Machine",
     "platform": "GBC",
     "code": "CGB-BIJP-EUR"
-  },
-  {
-    "title": "LEGO Alpha Team",
-    "platform": "GBC",
-    "code": "CGB-BLPP-SCN"
   },
   {
     "title": "Mario Golf",
@@ -1804,6 +1810,110 @@
   {
     "title": "Todd's Adventure in Slime World",
     "platform": "LYNX"
+  },
+  {
+    "title": "After Burner II",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Altered Beast",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Atomic Runner",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Caste of Illusions",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Columns",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Desert Strike",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Earthworm Jim 2",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "F-22 Interceptor",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Golden Axe",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Herzog Zwei",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Jurassic Park",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Mega Bomberman",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Mega SWIV",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Micro Machines",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Pac-Mania",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Road Rash 2",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Shadow of the Beast",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Space Harrier II",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Street Fighter II",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Super Hang-On",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "SuperReal Basketball",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "The Revenge of Shinobi",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Truxton",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Turbo Outrun",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Wonder Boy III: Monster Land",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Xenon 2",
+    "platform": "MEGADRIVE"
   },
   {
     "title": "Luigi's Mansion 2",
@@ -2261,6 +2371,10 @@
     "code": "NES-B2-EEC"
   },
   {
+    "title": "Bubble Bobble",
+    "platform": "NES"
+  },
+  {
     "title": "Castlevania",
     "platform": "NES",
     "code": "NES-CV-EEC"
@@ -2284,6 +2398,11 @@
     "title": "DuckTales",
     "platform": "NES",
     "code": "NES-UK-NOE"
+  },
+  {
+    "title": "Elite",
+    "platform": "NES",
+    "code": "NES-EL-FRA"
   },
   {
     "title": "Gradius",
@@ -2324,6 +2443,10 @@
     "title": "Kung Fu",
     "platform": "NES",
     "code": "NES-SX-EEC"
+  },
+  {
+    "title": "Kung Fu",
+    "platform": "NES"
   },
   {
     "title": "Marble Madness",
@@ -2693,6 +2816,11 @@
     "code": "SNSP-YI-SCN"
   },
   {
+    "title": "Super Metroid",
+    "platform": "SNES",
+    "code": "SNSP-RI-UKV"
+  },
+  {
     "title": "Super Off Road",
     "platform": "SNES",
     "code": "SNSP-OR-SCN"
@@ -2701,6 +2829,11 @@
     "title": "Super Pinball - Behind the Mask",
     "platform": "SNES",
     "code": "SNSP-XP-NOE"
+  },
+  {
+    "title": "Super R-Type",
+    "platform": "SNES",
+    "code": "SNSP-SR-NOE"
   },
   {
     "title": "Super Soccer",
@@ -2841,6 +2974,11 @@
     "title": "32. A Labyrinth Game / Supermind",
     "platform": "VIDEOPAC",
     "code": "32"
+  },
+  {
+    "title": "34. Satellite Attack",
+    "platform": "VIDEOPAC",
+    "code": "34"
   },
   {
     "title": "35. Electronic billiards",
