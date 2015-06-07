@@ -1840,11 +1840,31 @@
     "platform": "MEGADRIVE"
   },
   {
+    "title": "Empire of Steel",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "European Club Soccer",
+    "platform": "MEGADRIVE"
+  },
+  {
     "title": "F-22 Interceptor",
     "platform": "MEGADRIVE"
   },
   {
+    "title": "FIFA Soccer 95",
+    "platform": "MEGADRIVE"
+  },
+  {
     "title": "Golden Axe",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Hard Drivin'",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Hellfire",
     "platform": "MEGADRIVE"
   },
   {
@@ -1856,7 +1876,15 @@
     "platform": "MEGADRIVE"
   },
   {
+    "title": "LHX Attack Chopper",
+    "platform": "MEGADRIVE"
+  },
+  {
     "title": "Mega Bomberman",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Mega Games I",
     "platform": "MEGADRIVE"
   },
   {
@@ -1865,6 +1893,10 @@
   },
   {
     "title": "Micro Machines",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Mortal Kombat",
     "platform": "MEGADRIVE"
   },
   {
@@ -1877,6 +1909,10 @@
   },
   {
     "title": "Shadow of the Beast",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Space Harrier II",
     "platform": "MEGADRIVE"
   },
   {
@@ -1909,6 +1945,10 @@
   },
   {
     "title": "Wonder Boy III: Monster Land",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "WWF Royal Rumble",
     "platform": "MEGADRIVE"
   },
   {
@@ -2497,6 +2537,11 @@
     "platform": "NES"
   },
   {
+    "title": "Star Force",
+    "platform": "NES",
+    "code": "NES-FO-EEC"
+  },
+  {
     "title": "Super Mario Bros.",
     "platform": "NES",
     "code": "NES-SM-EEC"
@@ -3011,11 +3056,6 @@
     "code": "ODYSSEY2/AA9428"
   },
   {
-    "title": "K.C. Munchkin!",
-    "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AC9435"
-  },
-  {
     "title": "Pick Axe Pete!",
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AC9437"
@@ -3256,9 +3296,21 @@
     "code": "X15-88233-01"
   },
   {
+    "title": "Alien Isolation",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Assassin's Creed IV Black Flag",
+    "platform": "XBOXONE"
+  },
+  {
     "title": "Halo: The Master Chief Collection",
     "platform": "XBOXONE",
     "code": "X19-75912-01"
+  },
+  {
+    "title": "Saints Row IV Reelected",
+    "platform": "XBOXONE"
   },
   {
     "title": "Sunset Overdrive",
