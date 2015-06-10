@@ -3270,6 +3270,38 @@
     "code": "EAX07404084D"
   },
   {
+    "title": "Burnout Paradise The Ultimate Box",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Burnout Revenge",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Cabela's African Safari",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Cabela's Big Game Hunter",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Cabela's Dangerous Adventures",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Call of Duty 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Call of Duty Black Ops",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Crackdown",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Dirt 2",
     "platform": "XBOX360",
     "code": "PRL08X3UK03"
@@ -3280,9 +3312,41 @@
     "code": "PDIR3X3UK03"
   },
   {
+    "title": "F1 2010",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Fallout 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Final Fantasy XIII",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Forza Motorsport 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Gears of War",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Grand Theft Auto IV",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Grand Theft Auto V",
     "platform": "XBOX360",
     "code": "5258050/IN"
+  },
+  {
+    "title": "GRID",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Halo 3",
+    "platform": "XBOX360"
   },
   {
     "title": "Just Cause",
@@ -3310,6 +3374,58 @@
     "code": "X15-88233-01"
   },
   {
+    "title": "MotoGP'06",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Prince of Persia",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Pro Evolution Soccer 6",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Project Gotham Racing 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Project Gotham Racing 4",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Red Dead Redemption",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Table Tennis",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Test Drive Unlimited 2",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Tiger Woods PGA Tour 08",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Tom Clancy's HAWX",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell Double Agent",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "TopSpin 4",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Turning Point",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Alien Isolation",
     "platform": "XBOXONE"
   },
@@ -3321,6 +3437,10 @@
     "title": "Halo: The Master Chief Collection",
     "platform": "XBOXONE",
     "code": "X19-75912-01"
+  },
+  {
+    "title": "NBA Live 15",
+    "platform": "XBOXONE"
   },
   {
     "title": "Saints Row IV Reelected",
