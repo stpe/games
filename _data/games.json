@@ -1824,6 +1824,10 @@
     "platform": "MEGADRIVE"
   },
   {
+    "title": "Battle Squadron",
+    "platform": "MEGADRIVE"
+  },
+  {
     "title": "Caste of Illusions",
     "platform": "MEGADRIVE"
   },
@@ -1956,9 +1960,19 @@
     "platform": "MEGADRIVE"
   },
   {
+    "title": "Donkey Kong Country Returns",
+    "platform": "N3DS",
+    "code": "LNA-CTR-AYTP-EUR"
+  },
+  {
     "title": "Luigi's Mansion 2",
     "platform": "N3DS",
     "code": "TSA-CTR-AGGP-SWD"
+  },
+  {
+    "title": "Mario Golf World Tour",
+    "platform": "N3DS",
+    "code": "LNA-CTR-AJ3P-EUR"
   },
   {
     "title": "New Super Mario Bros. 2",
@@ -3310,6 +3324,10 @@
   },
   {
     "title": "Saints Row IV Reelected",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Screamride",
     "platform": "XBOXONE"
   },
   {
