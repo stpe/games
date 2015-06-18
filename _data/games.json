@@ -501,6 +501,11 @@
     "code": "CX2689"
   },
   {
+    "title": "Keystone Kapers",
+    "platform": "A2600",
+    "code": "EAX-025"
+  },
+  {
     "title": "Kung-Fu Master",
     "platform": "A2600",
     "code": "EAX-039-04I"
@@ -1179,6 +1184,11 @@
     "code": "CX7815"
   },
   {
+    "title": "Crossbow",
+    "platform": "A7800",
+    "code": "CX7844"
+  },
+  {
     "title": "Donkey Kong Junior",
     "platform": "A7800",
     "code": "CX7849"
@@ -1222,6 +1232,11 @@
     "title": "Super Huey UH-IX",
     "platform": "A7800",
     "code": "CX7828"
+  },
+  {
+    "title": "Xevious",
+    "platform": "A7800",
+    "code": "CX7810"
   },
   {
     "title": "Xevious",
@@ -1998,6 +2013,10 @@
   },
   {
     "title": "Pokemon Y",
+    "platform": "N3DS"
+  },
+  {
+    "title": "Puzze Bobble",
     "platform": "N3DS"
   },
   {
@@ -3270,6 +3289,26 @@
     "code": "EAX07404084D"
   },
   {
+    "title": "Battlefield 2: Modern Combat",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Battlefield 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Battlefield 4",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Battlefield Bad Company",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Bioshock 2",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Burnout Paradise The Ultimate Box",
     "platform": "XBOX360"
   },
@@ -3294,11 +3333,19 @@
     "platform": "XBOX360"
   },
   {
+    "title": "Call of Duty 5",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Call of Duty Black Ops",
     "platform": "XBOX360"
   },
   {
     "title": "Crackdown",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Crackdown 2",
     "platform": "XBOX360"
   },
   {
@@ -3329,6 +3376,14 @@
   },
   {
     "title": "Gears of War",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Gears of War 2",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Gears of War 3",
     "platform": "XBOX360"
   },
   {
@@ -3372,6 +3427,26 @@
     "title": "Lips",
     "platform": "XBOX360",
     "code": "X15-88233-01"
+  },
+  {
+    "title": "Mass Effect",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Mass Effect 2",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Mass Effect 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Medal of Honor",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Mirror's Edge",
+    "platform": "XBOX360"
   },
   {
     "title": "MotoGP'06",
