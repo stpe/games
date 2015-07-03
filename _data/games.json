@@ -2255,6 +2255,11 @@
     "code": "NTR-CXPP-EUR"
   },
   {
+    "title": "Atari Greatest Hits Vol. 1",
+    "platform": "NDS",
+    "code": "NTR-BR6P-EUR"
+  },
+  {
     "title": "Brain Training",
     "platform": "NDS",
     "code": "NTR-ANDP-EUR"
@@ -3204,6 +3209,10 @@
     "code": "WUP-P-AMKP-EUR-0"
   },
   {
+    "title": "NBA 2K13",
+    "platform": "WIIU"
+  },
+  {
     "title": "New Super Luigi U",
     "platform": "WIIU",
     "code": "TSA-WUP-ARSP-SWD"
@@ -3305,6 +3314,10 @@
     "platform": "XBOX360"
   },
   {
+    "title": "Bionic Commando",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Bioshock 2",
     "platform": "XBOX360"
   },
@@ -3359,6 +3372,10 @@
     "code": "PDIR3X3UK03"
   },
   {
+    "title": "Dragon Age: Origins",
+    "platform": "XBOX360"
+  },
+  {
     "title": "F1 2010",
     "platform": "XBOX360"
   },
@@ -3384,6 +3401,10 @@
   },
   {
     "title": "Gears of War 3",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Ghost Recon Advanced Warfighter",
     "platform": "XBOX360"
   },
   {
@@ -3445,11 +3466,23 @@
     "platform": "XBOX360"
   },
   {
+    "title": "Medal of Honor Warfighter Limited Edition",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Mercenaries 2: World in Flames",
+    "platform": "XBOX360"
+  },
+  {
     "title": "Mirror's Edge",
     "platform": "XBOX360"
   },
   {
     "title": "MotoGP'06",
+    "platform": "XBOX360"
+  },
+  {
+    "title": "Perfect Dark Zero",
     "platform": "XBOX360"
   },
   {
@@ -3514,6 +3547,10 @@
     "code": "X19-75912-01"
   },
   {
+    "title": "Just Dance 2015",
+    "platform": "XBOXONE"
+  },
+  {
     "title": "NBA Live 15",
     "platform": "XBOXONE"
   },
@@ -3523,6 +3560,10 @@
   },
   {
     "title": "Screamride",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Sleeping Dogs",
     "platform": "XBOXONE"
   },
   {
