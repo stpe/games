@@ -244,6 +244,10 @@
     "code": "CX26139P"
   },
   {
+    "title": "Crypts of Chaos",
+    "platform": "A2600"
+  },
+  {
     "title": "Crystal Castles",
     "platform": "A2600",
     "code": "CX26110"
@@ -541,6 +545,10 @@
     "platform": "A2600"
   },
   {
+    "title": "MASH",
+    "platform": "A2600"
+  },
+  {
     "title": "Master Builder",
     "platform": "A2600",
     "code": "SA-210"
@@ -649,6 +657,11 @@
     "title": "Night Driver",
     "platform": "A2600",
     "code": "CX2633"
+  },
+  {
+    "title": "Off the Wall",
+    "platform": "A2600",
+    "code": "CX26168"
   },
   {
     "title": "Othello",
@@ -830,6 +843,10 @@
     "title": "River Raid",
     "platform": "A2600",
     "code": "EAX-020"
+  },
+  {
+    "title": "River Raid II",
+    "platform": "A2600"
   },
   {
     "title": "Robin Hood",
@@ -1377,6 +1394,11 @@
     "code": "DMG-APQE-USA"
   },
   {
+    "title": "Qix",
+    "platform": "GB",
+    "code": "DMG-QX-SCN"
+  },
+  {
     "title": "Rampage World Tour",
     "platform": "GB",
     "code": "DMG-ARPP-EUR"
@@ -1891,6 +1913,10 @@
     "platform": "MEGADRIVE"
   },
   {
+    "title": "Jungle Strike",
+    "platform": "MEGADRIVE"
+  },
+  {
     "title": "Jurassic Park",
     "platform": "MEGADRIVE"
   },
@@ -1952,6 +1978,10 @@
   },
   {
     "title": "The Revenge of Shinobi",
+    "platform": "MEGADRIVE"
+  },
+  {
+    "title": "Thunder Force II",
     "platform": "MEGADRIVE"
   },
   {
@@ -2664,6 +2694,11 @@
     "code": "SNSP-A6-EUR"
   },
   {
+    "title": "Axelay",
+    "platform": "SNES",
+    "code": "SNSP-AX-NOE"
+  },
+  {
     "title": "Dennis",
     "platform": "SNES",
     "code": "SNSP-4D-NOE"
@@ -3238,6 +3273,10 @@
     "code": "TSA-WUP-ASPP-SCN"
   },
   {
+    "title": "Super Mario Maker",
+    "platform": "WIIU"
+  },
+  {
     "title": "Wii Fit U",
     "platform": "WIIU",
     "code": "WUP-P-ASTP-EUR-0"
@@ -3542,6 +3581,22 @@
     "platform": "XBOXONE"
   },
   {
+    "title": "Call of Duty Ghosts",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Far Cry 4",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Forza Motorsport 6",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "platform": "XBOXONE"
+  },
+  {
     "title": "Halo: The Master Chief Collection",
     "platform": "XBOXONE",
     "code": "X19-75912-01"
@@ -3552,6 +3607,14 @@
   },
   {
     "title": "NBA Live 15",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Need for Speed Rivals",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Rare Reply Collection",
     "platform": "XBOXONE"
   },
   {
@@ -3570,5 +3633,13 @@
     "title": "Sunset Overdrive",
     "platform": "XBOXONE",
     "code": "X19-76998-01"
+  },
+  {
+    "title": "Tomb Raider: Definitivt Edition",
+    "platform": "XBOXONE"
+  },
+  {
+    "title": "Wolfenstein: The New Order",
+    "platform": "XBOXONE"
   }
 ]
