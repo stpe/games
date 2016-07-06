@@ -1280,6 +1280,11 @@
     "code": "DMG-TS-USA"
   },
   {
+    "title": "Battletoads",
+    "platform": "GB",
+    "code": "DMG-BV-SCN"
+  },
+  {
     "title": "BurgerTime Deluxe",
     "platform": "GB",
     "code": "DMG-GM-USA"
@@ -1702,6 +1707,11 @@
     "platform": "GBC"
   },
   {
+    "title": "Donkey Kong Country",
+    "platform": "GBC",
+    "code": "CGB-BDDP-EUR"
+  },
+  {
     "title": "Harry Potter",
     "platform": "GBC",
     "code": "CGB-BH6P-EUR"
@@ -1766,6 +1776,11 @@
     "code": "DMG-AAXP-EUR-1"
   },
   {
+    "title": "Pokemon Silver",
+    "platform": "GBC",
+    "code": "DMG-AAXP-EUR-1"
+  },
+  {
     "title": "Pokemon Trading Card Game",
     "platform": "GBC",
     "code": "DMG-AXQP-NOE"
@@ -1789,6 +1804,16 @@
     "title": "Super Mario Bros. Deluxe",
     "platform": "GBC",
     "code": "CGB-AHYP-EUR"
+  },
+  {
+    "title": "Tarzan",
+    "platform": "GBC",
+    "code": "CGB-ATHP-UKV"
+  },
+  {
+    "title": "V-Rally",
+    "platform": "GBC",
+    "code": "CGB-AVYP-SCN"
   },
   {
     "title": "Zelda: Link's Awakening DX",
