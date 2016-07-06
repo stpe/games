@@ -7,11 +7,9 @@
     "start": "foreman app/app.js",
     "pretest": "jshint app"
   },
-  "dependencies": {},
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-gss-to-json": "^0.1.3",
-    "grunt-shell": "^1.1.1",
-    "lunr": "^0.5.12"
+    "grunt": "1.0.1",
+    "grunt-gss-to-json": "0.1.4",
+    "grunt-shell": "1.3.0"
   }
 }
