@@ -158,8 +158,8 @@ pre {
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: $spacing-unit / 6;
+    padding-left: $spacing-unit / 6;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
