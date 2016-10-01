@@ -1196,6 +1196,11 @@
     "code": "CA283"
   },
   {
+    "title": "Asteroids",
+    "platform": "A7800",
+    "code": "CX7802"
+  },
+  {
     "title": "Ballblazer",
     "platform": "A7800",
     "code": "CX7815"
@@ -1244,6 +1249,11 @@
     "title": "Pole Position",
     "platform": "A7800",
     "code": "_pending_"
+  },
+  {
+    "title": "Scrapyard Dog",
+    "platform": "A7800",
+    "code": "CX7879"
   },
   {
     "title": "Super Huey UH-IX",
@@ -3069,6 +3079,11 @@
     "code": "4"
   },
   {
+    "title": "1. Race+",
+    "platform": "VIDEOPAC",
+    "code": "1"
+  },
+  {
     "title": "10. Golf",
     "platform": "VIDEOPAC",
     "code": "10"
@@ -3109,6 +3124,11 @@
     "code": "24"
   },
   {
+    "title": "27. Electronic Table Football",
+    "platform": "VIDEOPAC",
+    "code": "27"
+  },
+  {
     "title": "29. Dam buster",
     "platform": "VIDEOPAC",
     "code": "29"
@@ -3147,6 +3167,21 @@
     "title": "42. Quest for the Rings",
     "platform": "VIDEOPAC",
     "code": "42"
+  },
+  {
+    "title": "51. Terrahawks",
+    "platform": "VIDEOPAC",
+    "code": "51"
+  },
+  {
+    "title": "55. Neutron Star",
+    "platform": "VIDEOPAC",
+    "code": "55"
+  },
+  {
+    "title": "59. Helicopter Rescue",
+    "platform": "VIDEOPAC",
+    "code": "59"
   },
   {
     "title": "Alien Invaders-Plus!",
