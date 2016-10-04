@@ -3054,6 +3054,11 @@
     "code": "1"
   },
   {
+    "title": "01. Race+",
+    "platform": "VIDEOPAC",
+    "code": "1"
+  },
+  {
     "title": "02. Pairs / Space Rendezvous / Logic",
     "platform": "VIDEOPAC",
     "code": "2"
@@ -3079,9 +3084,9 @@
     "code": "4"
   },
   {
-    "title": "1. Race+",
+    "title": "10. Golf",
     "platform": "VIDEOPAC",
-    "code": "1"
+    "code": "10"
   },
   {
     "title": "10. Golf",
@@ -3109,7 +3114,17 @@
     "code": "16"
   },
   {
+    "title": "17. Chinese Logic",
+    "platform": "VIDEOPAC",
+    "code": "17"
+  },
+  {
     "title": "18. Laser War",
+    "platform": "VIDEOPAC",
+    "code": "18"
+  },
+  {
+    "title": "18. Laserwar",
     "platform": "VIDEOPAC",
     "code": "18"
   },
@@ -3119,9 +3134,29 @@
     "code": "19"
   },
   {
+    "title": "2. Pairs / Space Rendezvous / Logic",
+    "platform": "VIDEOPAC",
+    "code": "2"
+  },
+  {
+    "title": "24. Flipper",
+    "platform": "VIDEOPAC",
+    "code": "24"
+  },
+  {
     "title": "24. Flipper Game",
     "platform": "VIDEOPAC",
     "code": "24"
+  },
+  {
+    "title": "25. Skiing",
+    "platform": "VIDEOPAC",
+    "code": "25"
+  },
+  {
+    "title": "27. Electronic Table Football",
+    "platform": "VIDEOPAC",
+    "code": "27"
   },
   {
     "title": "27. Electronic Table Football",
@@ -3132,6 +3167,11 @@
     "title": "29. Dam buster",
     "platform": "VIDEOPAC",
     "code": "29"
+  },
+  {
+    "title": "3. American Football",
+    "platform": "VIDEOPAC",
+    "code": "3"
   },
   {
     "title": "32. A Labyrinth Game / Supermind",
@@ -3149,6 +3189,21 @@
     "code": "35"
   },
   {
+    "title": "35. Electronic Billiards",
+    "platform": "VIDEOPAC",
+    "code": "35"
+  },
+  {
+    "title": "38. Munchkin",
+    "platform": "VIDEOPAC",
+    "code": "38"
+  },
+  {
+    "title": "38. Munchkin",
+    "platform": "VIDEOPAC",
+    "code": "38"
+  },
+  {
     "title": "38. Munchkin",
     "platform": "VIDEOPAC",
     "code": "38"
@@ -3157,6 +3212,11 @@
     "title": "39. Freedom Fighters",
     "platform": "VIDEOPAC",
     "code": "39"
+  },
+  {
+    "title": "4. Air-Sea War / Battle",
+    "platform": "VIDEOPAC",
+    "code": "4"
   },
   {
     "title": "40. 4 in 1 row",
@@ -3169,9 +3229,29 @@
     "code": "42"
   },
   {
+    "title": "44. Crazy Chase",
+    "platform": "VIDEOPAC",
+    "code": "44"
+  },
+  {
+    "title": "49. Turtles",
+    "platform": "VIDEOPAC",
+    "code": "49"
+  },
+  {
     "title": "51. Terrahawks",
     "platform": "VIDEOPAC",
     "code": "51"
+  },
+  {
+    "title": "52+. Killer Bees",
+    "platform": "VIDEOPAC",
+    "code": "52"
+  },
+  {
+    "title": "54+. Looney Balloon",
+    "platform": "VIDEOPAC",
+    "code": "54"
   },
   {
     "title": "55. Neutron Star",
@@ -3182,6 +3262,21 @@
     "title": "59. Helicopter Rescue",
     "platform": "VIDEOPAC",
     "code": "59"
+  },
+  {
+    "title": "6. Tenpin Bowling / Basketball",
+    "platform": "VIDEOPAC",
+    "code": "6"
+  },
+  {
+    "title": "7. Mathematician / Echo",
+    "platform": "VIDEOPAC",
+    "code": "7"
+  },
+  {
+    "title": "9. Computer programmer",
+    "platform": "VIDEOPAC",
+    "code": "9"
   },
   {
     "title": "Alien Invaders-Plus!",
