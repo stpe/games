@@ -4,6 +4,6 @@
 
 <ul>
 {% for game in games | sort: "weight" %}
-    <li title="{{ game.code }}">{{ game.title }}</li>
+    <li title="{{ game.code }} - {{ game.cib }}">{{ game.title }}</li>
 {% endfor %}
 </ul>

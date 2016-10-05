@@ -1,7 +1,8 @@
 [
   {
     "title": "Pokémon Rumble Blast",
-    "platform": "3DS"
+    "platform": "3DS",
+    "cib": "CIB"
   },
   {
     "title": "2 Pak Special - Planet Patrol/Wall Defender",
@@ -32,7 +33,8 @@
   },
   {
     "title": "Amidar",
-    "platform": "A2600"
+    "platform": "A2600",
+    "cib": "C"
   },
   {
     "title": "Armor Ambush",
@@ -245,7 +247,8 @@
   },
   {
     "title": "Crypts of Chaos",
-    "platform": "A2600"
+    "platform": "A2600",
+    "cib": "C"
   },
   {
     "title": "Crystal Castles",
@@ -332,7 +335,8 @@
   {
     "title": "Double Dunk",
     "platform": "A2600",
-    "code": "CX26159"
+    "code": "CX26159",
+    "cib": "CIB"
   },
   {
     "title": "Eddy Langfinger, der Museumsdieb",
@@ -413,7 +417,8 @@
   },
   {
     "title": "H.E.R.O.",
-    "platform": "A2600"
+    "platform": "A2600",
+    "cib": "C"
   },
   {
     "title": "Hangman",
@@ -507,7 +512,8 @@
   {
     "title": "Keystone Kapers",
     "platform": "A2600",
-    "code": "EAX-025"
+    "code": "EAX-025",
+    "cib": "C"
   },
   {
     "title": "Kung-Fu Master",
@@ -546,7 +552,8 @@
   },
   {
     "title": "MASH",
-    "platform": "A2600"
+    "platform": "A2600",
+    "cib": "C"
   },
   {
     "title": "Master Builder",
@@ -642,7 +649,8 @@
   {
     "title": "Ms. Pac-Man",
     "platform": "A2600",
-    "code": "CX2675"
+    "code": "CX2675",
+    "cib": "CIB"
   },
   {
     "title": "My Golf",
@@ -661,7 +669,8 @@
   {
     "title": "Off the Wall",
     "platform": "A2600",
-    "code": "CX26168"
+    "code": "CX26168",
+    "cib": "C"
   },
   {
     "title": "Othello",
@@ -846,7 +855,8 @@
   },
   {
     "title": "River Raid II",
-    "platform": "A2600"
+    "platform": "A2600",
+    "cib": "C"
   },
   {
     "title": "Robin Hood",
@@ -1198,7 +1208,8 @@
   {
     "title": "Asteroids",
     "platform": "A7800",
-    "code": "CX7802"
+    "code": "CX7802",
+    "cib": "C"
   },
   {
     "title": "Ballblazer",
@@ -1208,7 +1219,8 @@
   {
     "title": "Crossbow",
     "platform": "A7800",
-    "code": "CX7844"
+    "code": "CX7844",
+    "cib": "C"
   },
   {
     "title": "Donkey Kong Junior",
@@ -1243,7 +1255,8 @@
   {
     "title": "Meltdown",
     "platform": "A7800",
-    "code": "CX7875"
+    "code": "CX7875",
+    "cib": "C"
   },
   {
     "title": "Pole Position",
@@ -1253,7 +1266,8 @@
   {
     "title": "Scrapyard Dog",
     "platform": "A7800",
-    "code": "CX7879"
+    "code": "CX7879",
+    "cib": "C"
   },
   {
     "title": "Super Huey UH-IX",
@@ -1268,7 +1282,8 @@
   {
     "title": "Xevious",
     "platform": "A7800",
-    "code": "CX7810"
+    "code": "CX7810",
+    "cib": "C"
   },
   {
     "title": "36-in-1",
@@ -1292,7 +1307,8 @@
   {
     "title": "Battletoads",
     "platform": "GB",
-    "code": "DMG-BV-SCN"
+    "code": "DMG-BV-SCN",
+    "cib": "C"
   },
   {
     "title": "BurgerTime Deluxe",
@@ -1361,17 +1377,20 @@
   {
     "title": "Pokemon Blue",
     "platform": "GB",
-    "code": "DMG-APEU-EUR"
+    "code": "DMG-APEU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Blue",
     "platform": "GB",
-    "code": "DMG-APEU-EUR"
+    "code": "DMG-APEU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Gold",
     "platform": "GB",
-    "code": "DMG-AAUP-EUR-1"
+    "code": "DMG-AAUP-EUR-1",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Red",
@@ -1381,12 +1400,14 @@
   {
     "title": "Pokemon Red",
     "platform": "GB",
-    "code": "DMG-APAU-EUR"
+    "code": "DMG-APAU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Red",
     "platform": "GB",
-    "code": "DMG-APAU-EUR"
+    "code": "DMG-APAU-EUR",
+    "cib": "C"
   },
   {
     "title": "Pokemon Yellow",
@@ -1396,12 +1417,14 @@
   {
     "title": "Pokemon Yellow",
     "platform": "GB",
-    "code": "DMG-APSU-EUR"
+    "code": "DMG-APSU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Yellow: Special Pikachu Ediiton",
     "platform": "GB",
-    "code": "DMG-APSU-EUR"
+    "code": "DMG-APSU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Power Quest",
@@ -1411,7 +1434,8 @@
   {
     "title": "Qix",
     "platform": "GB",
-    "code": "DMG-QX-SCN"
+    "code": "DMG-QX-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Rampage World Tour",
@@ -1476,7 +1500,8 @@
   {
     "title": "Tennis",
     "platform": "GB",
-    "code": "DMG-TN-SCN"
+    "code": "DMG-TN-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Tetris",
@@ -1521,37 +1546,45 @@
   {
     "title": "Bit Generations: Boundish",
     "platform": "GBA",
-    "code": "AGB-BVDJ-JPN"
+    "code": "AGB-BVDJ-JPN",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Coloris",
-    "platform": "GBA"
+    "platform": "GBA",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Dialhex",
-    "platform": "GBA"
+    "platform": "GBA",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Digidrive",
-    "platform": "GBA"
+    "platform": "GBA",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Dotstream",
     "platform": "GBA",
-    "code": "AGB-BVCJ-JPN"
+    "code": "AGB-BVCJ-JPN",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Orbital",
-    "platform": "GBA"
+    "platform": "GBA",
+    "cib": "CIB"
   },
   {
     "title": "Bit Generations: Soundvoyager",
-    "platform": "GBA"
+    "platform": "GBA",
+    "cib": "CIB"
   },
   {
     "title": "Breath of Fire",
     "platform": "GBA",
-    "code": "AGB-ABFP-EUR"
+    "code": "AGB-ABFP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Crash Bandicoot 2 n-tranced",
@@ -1571,32 +1604,38 @@
   {
     "title": "Kuru Kuru Kururin",
     "platform": "GBA",
-    "code": "AGB-AKRP-EUR"
+    "code": "AGB-AKRP-EUR",
+    "cib": "CB"
   },
   {
     "title": "Kuru Kuru Kururin",
     "platform": "GBA",
-    "code": "AGB-AKRP-EUR"
+    "code": "AGB-AKRP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Kuru Kuru Kururin",
     "platform": "GBA",
-    "code": "AGB-AKRP-EUR"
+    "code": "AGB-AKRP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Metroid Fusion",
     "platform": "GBA",
-    "code": "AGB-AMTP-EUR"
+    "code": "AGB-AMTP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "NES Classics: Zelda II: The Adventure of Link",
     "platform": "GBA",
-    "code": "AGB-FLBP-EUR"
+    "code": "AGB-FLBP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "NES Classics: Zelda: The Legend of Zelda",
     "platform": "GBA",
-    "code": "AGB-FZLP-EUR"
+    "code": "AGB-FZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Noddy A day in Toyland",
@@ -1611,17 +1650,20 @@
   {
     "title": "Pokemon Emerald",
     "platform": "GBA",
-    "code": "AGB-BPEP-EUR"
+    "code": "AGB-BPEP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon FireRed",
     "platform": "GBA",
-    "code": "AGB-BPRP-EUR"
+    "code": "AGB-BPRP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon LeafGreen",
     "platform": "GBA",
-    "code": "AGB-BPGP-EUR"
+    "code": "AGB-BPGP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Leafgreen",
@@ -1630,27 +1672,32 @@
   {
     "title": "Pokemon Ruby",
     "platform": "GBA",
-    "code": "AGB-AXVP-EUR"
+    "code": "AGB-AXVP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Sapphire",
     "platform": "GBA",
-    "code": "AGB-AXPP-EUR"
+    "code": "AGB-AXPP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon: Red Rescue Team",
     "platform": "GBA",
-    "code": "AGB-B24P-EUR"
+    "code": "AGB-B24P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon: Red Rescue Team",
     "platform": "GBA",
-    "code": "AGB-B24P-EUR"
+    "code": "AGB-B24P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Prince of Persia",
     "platform": "GBA",
-    "code": "AGB-BPYP-EUR"
+    "code": "AGB-BPYP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Rayman 3",
@@ -1675,7 +1722,8 @@
   {
     "title": "Super Mario Advance",
     "platform": "GBA",
-    "code": "AGB-AMAP-EUR-1"
+    "code": "AGB-AMAP-EUR-1",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Bros.",
@@ -1690,22 +1738,26 @@
   {
     "title": "Zelda: A Link to the Past",
     "platform": "GBA",
-    "code": "AGB-AZLP-EUR"
+    "code": "AGB-AZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: A Link to the Past & Four Swords",
     "platform": "GBA",
-    "code": "AGB-AZLP-EUR"
+    "code": "AGB-AZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: The Minish Cap",
     "platform": "GBA",
-    "code": "AGB-BZMP-EUR"
+    "code": "AGB-BZMP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: The Minish Cap",
     "platform": "GBA",
-    "code": "AGB-BZMP-EUR"
+    "code": "AGB-BZMP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "102 Dalmatians",
@@ -1714,12 +1766,14 @@
   },
   {
     "title": "Donkey Kong Country",
-    "platform": "GBC"
+    "platform": "GBC",
+    "cib": "IB"
   },
   {
     "title": "Donkey Kong Country",
     "platform": "GBC",
-    "code": "CGB-BDDP-EUR"
+    "code": "CGB-BDDP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Harry Potter",
@@ -1734,7 +1788,8 @@
   {
     "title": "Indiana Jones and the Infernal Machine",
     "platform": "GBC",
-    "code": "CGB-BIJP-EUR"
+    "code": "CGB-BIJP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Mario Golf",
@@ -1744,12 +1799,14 @@
   {
     "title": "Pokemon Blue",
     "platform": "GBC",
-    "code": "DMG-APEU-EUR"
+    "code": "DMG-APEU-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Crystal",
     "platform": "GBC",
-    "code": "CGB-BYTP-EUR-1"
+    "code": "CGB-BYTP-EUR-1",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Gold",
@@ -1759,11 +1816,13 @@
   {
     "title": "Pokemon Gold",
     "platform": "GBC",
-    "code": "DMG-AAUP-EUR"
+    "code": "DMG-AAUP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Gold",
-    "platform": "GBC"
+    "platform": "GBC",
+    "cib": "IB"
   },
   {
     "title": "Pokemon Pinball",
@@ -1773,27 +1832,32 @@
   {
     "title": "Pokemon Pinball",
     "platform": "GBC",
-    "code": "DMG-VPHP-EUR"
+    "code": "DMG-VPHP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Puzzle Challenge",
     "platform": "GBC",
-    "code": "CGB-BPNP-EUR"
+    "code": "CGB-BPNP-EUR",
+    "cib": "CB"
   },
   {
     "title": "Pokemon Silver",
     "platform": "GBC",
-    "code": "DMG-AAXP-EUR-1"
+    "code": "DMG-AAXP-EUR-1",
+    "cib": "CB"
   },
   {
     "title": "Pokemon Silver",
     "platform": "GBC",
-    "code": "DMG-AAXP-EUR-1"
+    "code": "DMG-AAXP-EUR-1",
+    "cib": "C"
   },
   {
     "title": "Pokemon Trading Card Game",
     "platform": "GBC",
-    "code": "DMG-AXQP-NOE"
+    "code": "DMG-AXQP-NOE",
+    "cib": "CB"
   },
   {
     "title": "Rayman",
@@ -1803,7 +1867,8 @@
   {
     "title": "Road Champs",
     "platform": "GBC",
-    "code": "CGB-BXSP-EUR"
+    "code": "CGB-BXSP-EUR",
+    "cib": "CB"
   },
   {
     "title": "Super Mario Bros. Deluxe",
@@ -1813,27 +1878,32 @@
   {
     "title": "Super Mario Bros. Deluxe",
     "platform": "GBC",
-    "code": "CGB-AHYP-EUR"
+    "code": "CGB-AHYP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Tarzan",
     "platform": "GBC",
-    "code": "CGB-ATHP-UKV"
+    "code": "CGB-ATHP-UKV",
+    "cib": "C"
   },
   {
     "title": "V-Rally",
     "platform": "GBC",
-    "code": "CGB-AVYP-SCN"
+    "code": "CGB-AVYP-SCN",
+    "cib": "C"
   },
   {
     "title": "Zelda: Link's Awakening DX",
     "platform": "GBC",
-    "code": "DMG-AZLP-EUR"
+    "code": "DMG-AZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Link's Awakening DX",
     "platform": "GBC",
-    "code": "DMG-AZLP-EUR"
+    "code": "DMG-AZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Link's Awakening DX",
@@ -1843,37 +1913,44 @@
   {
     "title": "Zelda: Oracle of Ages",
     "platform": "GBC",
-    "code": "CGB-AZ8P-EUR"
+    "code": "CGB-AZ8P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Oracle of Seasons",
     "platform": "GBC",
-    "code": "CGB-AZ7P-EUR"
+    "code": "CGB-AZ7P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Mario Golf: Toadstool Tour",
     "platform": "GC",
-    "code": "DOL-GFTP-UKV"
+    "code": "DOL-GFTP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Metroid Prime",
     "platform": "GC",
-    "code": "DOL-GM8P-UKV"
+    "code": "DOL-GM8P-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Sunshine",
     "platform": "GC",
-    "code": "DOL-GMSP-UKV"
+    "code": "DOL-GMSP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Super Monkey Ball 2",
     "platform": "GC",
-    "code": "DOL-GM2P-UKV"
+    "code": "DOL-GM2P-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: The Wind Waker",
     "platform": "GC",
-    "code": "DOL-GZLP-UKV"
+    "code": "DOL-GZLP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Chip's Challenge",
@@ -1897,7 +1974,8 @@
   },
   {
     "title": "Battle Squadron",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Caste of Illusions",
@@ -1917,11 +1995,13 @@
   },
   {
     "title": "Empire of Steel",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "European Club Soccer",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "F-22 Interceptor",
@@ -1929,7 +2009,8 @@
   },
   {
     "title": "FIFA Soccer 95",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "C"
   },
   {
     "title": "Golden Axe",
@@ -1937,11 +2018,13 @@
   },
   {
     "title": "Hard Drivin'",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Hellfire",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Herzog Zwei",
@@ -1949,7 +2032,8 @@
   },
   {
     "title": "Jungle Strike",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CB"
   },
   {
     "title": "Jurassic Park",
@@ -1957,7 +2041,8 @@
   },
   {
     "title": "LHX Attack Chopper",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Mega Bomberman",
@@ -1965,7 +2050,8 @@
   },
   {
     "title": "Mega Games I",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CB"
   },
   {
     "title": "Mega SWIV",
@@ -1977,7 +2063,8 @@
   },
   {
     "title": "Mortal Kombat",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Pac-Mania",
@@ -1997,7 +2084,8 @@
   },
   {
     "title": "Space Harrier II",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CB"
   },
   {
     "title": "Street Fighter II",
@@ -2017,7 +2105,8 @@
   },
   {
     "title": "Thunder Force II",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Truxton",
@@ -2033,91 +2122,110 @@
   },
   {
     "title": "WWF Royal Rumble",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CIB"
   },
   {
     "title": "Xenon 2",
-    "platform": "MEGADRIVE"
+    "platform": "MEGADRIVE",
+    "cib": "CB"
   },
   {
     "title": "Donkey Kong Country Returns",
     "platform": "N3DS",
-    "code": "LNA-CTR-AYTP-EUR"
+    "code": "LNA-CTR-AYTP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Luigi's Mansion 2",
     "platform": "N3DS",
-    "code": "TSA-CTR-AGGP-SWD"
+    "code": "TSA-CTR-AGGP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Mario Golf World Tour",
     "platform": "N3DS",
-    "code": "LNA-CTR-AJ3P-EUR"
+    "code": "LNA-CTR-AJ3P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "New Super Mario Bros. 2",
     "platform": "N3DS",
-    "code": "TSA-CTR-ABEP-UKV"
+    "code": "TSA-CTR-ABEP-UKV",
+    "cib": "CB"
   },
   {
     "title": "Paper Mario Sticker Star",
     "platform": "N3DS",
-    "code": "TSA-CTR-AG5P-SWD"
+    "code": "TSA-CTR-AG5P-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Alpha Sapphire LE",
-    "platform": "N3DS"
+    "platform": "N3DS",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Omega Ruby LE",
-    "platform": "N3DS"
+    "platform": "N3DS",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon X",
-    "platform": "N3DS"
+    "platform": "N3DS",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Y",
-    "platform": "N3DS"
+    "platform": "N3DS",
+    "cib": "CIB"
   },
   {
     "title": "Puzze Bobble",
-    "platform": "N3DS"
+    "platform": "N3DS",
+    "cib": "CIB"
   },
   {
     "title": "Ridge Racer 3D",
     "platform": "N3DS",
-    "code": "TSA-CTR-ARRP-UKV"
+    "code": "TSA-CTR-ARRP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Starfox 64 3D",
     "platform": "N3DS",
-    "code": "TSA-CRT-ANRP-SWD"
+    "code": "TSA-CRT-ANRP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Super Smash Bros.",
     "platform": "N3DS",
-    "code": "TSA-CTR-AXCP-UKV"
+    "code": "TSA-CTR-AXCP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Super Street Fighter IV 3D Edition",
     "platform": "N3DS",
-    "code": "TSA-CTR-ASSP-SWD"
+    "code": "TSA-CTR-ASSP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Tekken 3D Prime Edition",
     "platform": "N3DS",
-    "code": "TSA-CTR-ATKP-ENG"
+    "code": "TSA-CTR-ATKP-ENG",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: A Link Between Worlds",
     "platform": "N3DS",
-    "code": "TSA-CTR-BZLP-UKV"
+    "code": "TSA-CTR-BZLP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Ocarina of Time 3D",
     "platform": "N3DS",
-    "code": "TSA-CTR-AQEP-UKV"
+    "code": "TSA-CTR-AQEP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Banjo-Kazooie",
@@ -2137,7 +2245,8 @@
   {
     "title": "Carmageddon 64",
     "platform": "N64",
-    "code": "NUS-NCDX-EUU"
+    "code": "NUS-NCDX-EUU",
+    "cib": "CIB"
   },
   {
     "title": "Diddy Kong Racing",
@@ -2152,12 +2261,14 @@
   {
     "title": "Excitebike 64",
     "platform": "N64",
-    "code": "NUS-NMXP-EUR"
+    "code": "NUS-NMXP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Excitebike 64",
     "platform": "N64",
-    "code": "NUS-NMXP-EUR"
+    "code": "NUS-NMXP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Extreme-G",
@@ -2167,7 +2278,8 @@
   {
     "title": "F-1 World Grand Prix II",
     "platform": "N64",
-    "code": "NUS-NF2P-EUR"
+    "code": "NUS-NF2P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Glover",
@@ -2177,12 +2289,14 @@
   {
     "title": "Golden Eye 007",
     "platform": "N64",
-    "code": "NUS-NGEP-EUR"
+    "code": "NUS-NGEP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Kirby 64: The Crystal Shards",
     "platform": "N64",
-    "code": "NUS-NK4P-EUR"
+    "code": "NUS-NK4P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Lego Racers",
@@ -2202,7 +2316,8 @@
   {
     "title": "Micro Machines 64 Turbo",
     "platform": "N64",
-    "code": "NUS-NV3P-EUR"
+    "code": "NUS-NV3P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Multi-Racing Championship",
@@ -2212,12 +2327,14 @@
   {
     "title": "Pokemon Puzzle League",
     "platform": "N64",
-    "code": "NUS-NPNP-EUR"
+    "code": "NUS-NPNP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Snap",
     "platform": "N64",
-    "code": "NUS-NPFP-EUR"
+    "code": "NUS-NPFP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Stadium",
@@ -2282,22 +2399,26 @@
   {
     "title": "Zelda: Majora's Mask",
     "platform": "N64",
-    "code": "NUS-NZSP-EUR"
+    "code": "NUS-NZSP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Ocarina of Time",
     "platform": "N64",
-    "code": "NUS-NZLP-EUR"
+    "code": "NUS-NZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Ocarina of Time",
     "platform": "N64",
-    "code": "NUS-NZLP-EUR"
+    "code": "NUS-NZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Ocarina of Time",
     "platform": "N64",
-    "code": "NUS-NZLP-EUR"
+    "code": "NUS-NZLP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Ocarina of Time",
@@ -2312,7 +2433,8 @@
   {
     "title": "Advance Wars: Dual Strike",
     "platform": "NDS",
-    "code": "NTR-AWRP-EUR"
+    "code": "NTR-AWRP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Astrology DS Horoscope",
@@ -2322,17 +2444,20 @@
   {
     "title": "Atari Greatest Hits Vol. 1",
     "platform": "NDS",
-    "code": "NTR-BR6P-EUR"
+    "code": "NTR-BR6P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Brain Training",
     "platform": "NDS",
-    "code": "NTR-ANDP-EUR"
+    "code": "NTR-ANDP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Chrono Trigger",
     "platform": "NDS",
-    "code": "NTR-YQUE-USA"
+    "code": "NTR-YQUE-USA",
+    "cib": "CIB"
   },
   {
     "title": "Fifa 11",
@@ -2362,17 +2487,20 @@
   {
     "title": "Meteos",
     "platform": "NDS",
-    "code": "NTR-AMTP-EUR"
+    "code": "NTR-AMTP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Meteos: Disney Magic",
     "platform": "NDS",
-    "code": "NTR-ADZE-USA"
+    "code": "NTR-ADZE-USA",
+    "cib": "CIB"
   },
   {
     "title": "Nanostray",
     "platform": "NDS",
-    "code": "NTR-ANSE-USA"
+    "code": "NTR-ANSE-USA",
+    "cib": "CIB"
   },
   {
     "title": "Narnia Prince Caspian",
@@ -2382,106 +2510,127 @@
   {
     "title": "New Super Mario Bros.",
     "platform": "NDS",
-    "code": "NTR-A2DP-EUR"
+    "code": "NTR-A2DP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Nintendo TouchGolf Birde Challenge",
     "platform": "NDS",
-    "code": "NTR-AGFP-EUR"
+    "code": "NTR-AGFP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Black",
-    "platform": "NDS"
+    "platform": "NDS",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Black 2",
     "platform": "NDS",
-    "code": "TWL-IREO-EUR"
+    "code": "TWL-IREO-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Dash",
     "platform": "NDS",
-    "code": "NTR-APDP-EUR"
+    "code": "NTR-APDP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Diamond",
     "platform": "NDS",
-    "code": "NTR-ADAP-EUR"
+    "code": "NTR-ADAP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon HeartGold",
     "platform": "NDS",
-    "code": "NTR-IPKP-EUR"
+    "code": "NTR-IPKP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Mystery Dungeon: Explorers of Darkness",
     "platform": "NDS",
-    "code": "NTR-YFYP-EUR"
+    "code": "NTR-YFYP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Mystery Dungeon: Explorers of Sky",
     "platform": "NDS",
-    "code": "NTR-C2SP-EUR"
+    "code": "NTR-C2SP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Mystery Dungeon: Explorers of Time",
     "platform": "NDS",
-    "code": "NTR-YFTP-EUR"
+    "code": "NTR-YFTP-EUR",
+    "cib": "CB"
   },
   {
     "title": "Pokemon Pearl",
     "platform": "NDS",
-    "code": "NTR-APAP-EUR"
+    "code": "NTR-APAP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Platinum",
     "platform": "NDS",
-    "code": "NTR-CPUP-EUR"
+    "code": "NTR-CPUP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Ranger",
     "platform": "NDS",
-    "code": "NTR-ARGP-EUR"
+    "code": "NTR-ARGP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon Ranger: Shadows of Almia",
     "platform": "NDS",
-    "code": "NTR-YP2P-EUR"
+    "code": "NTR-YP2P-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon SoulSilver",
     "platform": "NDS",
-    "code": "NTR-IPGP-EUR"
+    "code": "NTR-IPGP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon White",
     "platform": "NDS",
-    "code": "TWL-IRAO-EUR"
+    "code": "TWL-IRAO-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Pokemon White 2",
     "platform": "NDS",
-    "code": "TWL-IRDO-EUR"
+    "code": "TWL-IRDO-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Puzzle Quest",
     "platform": "NDS",
-    "code": "NTR-AQWE-USA"
+    "code": "NTR-AQWE-USA",
+    "cib": "CIB"
   },
   {
     "title": "StarFox Command",
     "platform": "NDS",
-    "code": "NTR-ASFE-USA"
+    "code": "NTR-ASFE-USA",
+    "cib": "CIB"
   },
   {
     "title": "Tetris DS",
     "platform": "NDS",
-    "code": "NTR-ATRE-USA"
+    "code": "NTR-ATRE-USA",
+    "cib": "CIB"
   },
   {
     "title": "Tiger Woods PGA Tour",
     "platform": "NDS",
-    "code": "NTR-ATWE-EUR"
+    "code": "NTR-ATWE-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Tomodachi Collection",
@@ -2496,12 +2645,14 @@
   {
     "title": "Zelda: Phantom Hourglass",
     "platform": "NDS",
-    "code": "NTR-AZEP-EUR"
+    "code": "NTR-AZEP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Spirit Tracks",
     "platform": "NDS",
-    "code": "NTR-BKIP-EUR"
+    "code": "NTR-BKIP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Bionic Commando",
@@ -2515,7 +2666,8 @@
   },
   {
     "title": "Bubble Bobble",
-    "platform": "NES"
+    "platform": "NES",
+    "cib": "CIB"
   },
   {
     "title": "Castlevania",
@@ -2545,7 +2697,8 @@
   {
     "title": "Elite",
     "platform": "NES",
-    "code": "NES-EL-FRA"
+    "code": "NES-EL-FRA",
+    "cib": "CIB"
   },
   {
     "title": "Gradius",
@@ -2565,7 +2718,8 @@
   {
     "title": "Ice Climber",
     "platform": "NES",
-    "code": "NES-IC-ECC"
+    "code": "NES-IC-ECC",
+    "cib": "CIB"
   },
   {
     "title": "Ice Hockey",
@@ -2642,7 +2796,8 @@
   {
     "title": "Star Force",
     "platform": "NES",
-    "code": "NES-FO-EEC"
+    "code": "NES-FO-EEC",
+    "cib": "C"
   },
   {
     "title": "Super Mario Bros.",
@@ -2662,7 +2817,8 @@
   {
     "title": "Super Mario Bros.",
     "platform": "NES",
-    "code": "NES-SM-SCN"
+    "code": "NES-SM-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Bros. / Tetris / Nintendo World Cup",
@@ -2731,7 +2887,8 @@
   {
     "title": "Axelay",
     "platform": "SNES",
-    "code": "SNSP-AX-NOE"
+    "code": "SNSP-AX-NOE",
+    "cib": "C"
   },
   {
     "title": "Dennis",
@@ -2971,7 +3128,8 @@
   {
     "title": "Super Metroid",
     "platform": "SNES",
-    "code": "SNSP-RI-UKV"
+    "code": "SNSP-RI-UKV",
+    "cib": "C"
   },
   {
     "title": "Super Off Road",
@@ -2986,7 +3144,8 @@
   {
     "title": "Super R-Type",
     "platform": "SNES",
-    "code": "SNSP-SR-NOE"
+    "code": "SNSP-SR-NOE",
+    "cib": "C"
   },
   {
     "title": "Super Soccer",
@@ -3026,7 +3185,8 @@
   {
     "title": "The Lost Vikings",
     "platform": "SNES",
-    "code": "SNSP-LV-SCN"
+    "code": "SNSP-LV-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Urban Strike",
@@ -3041,7 +3201,8 @@
   {
     "title": "Zelda: A Link to the Past",
     "platform": "SNES",
-    "code": "SNSP-ZL-SCN"
+    "code": "SNSP-ZL-SCN",
+    "cib": "CIB"
   },
   {
     "title": "01. Race / Spin-out / Cryptogram",
@@ -3051,12 +3212,14 @@
   {
     "title": "01. Race / Spin-out / Cryptogram",
     "platform": "VIDEOPAC",
-    "code": "1"
+    "code": "1",
+    "cib": "CIB"
   },
   {
     "title": "01. Race+",
     "platform": "VIDEOPAC",
-    "code": "1"
+    "code": "1",
+    "cib": "CIB"
   },
   {
     "title": "02. Pairs / Space Rendezvous / Logic",
@@ -3066,12 +3229,25 @@
   {
     "title": "02. Pairs / Space Rendezvous / Logic",
     "platform": "VIDEOPAC",
-    "code": "2"
+    "code": "2",
+    "cib": "CIB"
+  },
+  {
+    "title": "02. Pairs / Space Rendezvous / Logic",
+    "platform": "VIDEOPAC",
+    "code": "2",
+    "cib": "C"
   },
   {
     "title": "03. American Football",
     "platform": "VIDEOPAC",
     "code": "3"
+  },
+  {
+    "title": "03. American Football",
+    "platform": "VIDEOPAC",
+    "code": "3",
+    "cib": "CIB-"
   },
   {
     "title": "04. Air-Sea War",
@@ -3081,42 +3257,74 @@
   {
     "title": "04. Air-Sea War / Battle",
     "platform": "VIDEOPAC",
-    "code": "4"
+    "code": "4",
+    "cib": "CIB"
+  },
+  {
+    "title": "04. Air-Sea War / Battle",
+    "platform": "VIDEOPAC",
+    "code": "4",
+    "cib": "CIB-"
+  },
+  {
+    "title": "06. Tenpin Bowling / Basketball",
+    "platform": "VIDEOPAC",
+    "code": "6",
+    "cib": "C"
+  },
+  {
+    "title": "07. Mathematician / Echo",
+    "platform": "VIDEOPAC",
+    "code": "7",
+    "cib": "CIB"
+  },
+  {
+    "title": "09. Computer programmer",
+    "platform": "VIDEOPAC",
+    "code": "9",
+    "cib": "CB"
   },
   {
     "title": "10. Golf",
     "platform": "VIDEOPAC",
-    "code": "10"
+    "code": "10",
+    "cib": "CIB"
   },
   {
     "title": "10. Golf",
     "platform": "VIDEOPAC",
-    "code": "10"
+    "code": "10",
+    "cib": "CIB-"
   },
   {
     "title": "11. Cosmic Conflict",
     "platform": "VIDEOPAC",
-    "code": "11"
+    "code": "11",
+    "cib": "CIB"
   },
   {
     "title": "11. Cosmic Conflict",
     "platform": "VIDEOPAC",
-    "code": "11"
+    "code": "11",
+    "cib": "CIB"
   },
   {
     "title": "14. Gunfighter",
     "platform": "VIDEOPAC",
-    "code": "14"
+    "code": "14",
+    "cib": "CIB"
   },
   {
     "title": "16. Depth Charge / Marksman",
     "platform": "VIDEOPAC",
-    "code": "16"
+    "code": "16",
+    "cib": "CIB"
   },
   {
     "title": "17. Chinese Logic",
     "platform": "VIDEOPAC",
-    "code": "17"
+    "code": "17",
+    "cib": "CIB"
   },
   {
     "title": "18. Laser War",
@@ -3126,22 +3334,20 @@
   {
     "title": "18. Laserwar",
     "platform": "VIDEOPAC",
-    "code": "18"
+    "code": "18",
+    "cib": "CIB"
   },
   {
     "title": "19. Catch the ball",
     "platform": "VIDEOPAC",
-    "code": "19"
-  },
-  {
-    "title": "2. Pairs / Space Rendezvous / Logic",
-    "platform": "VIDEOPAC",
-    "code": "2"
+    "code": "19",
+    "cib": "CIB"
   },
   {
     "title": "24. Flipper",
     "platform": "VIDEOPAC",
-    "code": "24"
+    "code": "24",
+    "cib": "CIB"
   },
   {
     "title": "24. Flipper Game",
@@ -3151,157 +3357,158 @@
   {
     "title": "25. Skiing",
     "platform": "VIDEOPAC",
-    "code": "25"
+    "code": "25",
+    "cib": "CIB-"
   },
   {
     "title": "27. Electronic Table Football",
     "platform": "VIDEOPAC",
-    "code": "27"
+    "code": "27",
+    "cib": "CIB"
   },
   {
     "title": "27. Electronic Table Football",
     "platform": "VIDEOPAC",
-    "code": "27"
+    "code": "27",
+    "cib": "C"
   },
   {
     "title": "29. Dam buster",
     "platform": "VIDEOPAC",
-    "code": "29"
-  },
-  {
-    "title": "3. American Football",
-    "platform": "VIDEOPAC",
-    "code": "3"
+    "code": "29",
+    "cib": "CIB"
   },
   {
     "title": "32. A Labyrinth Game / Supermind",
     "platform": "VIDEOPAC",
-    "code": "32"
+    "code": "32",
+    "cib": "CIB"
   },
   {
     "title": "34. Satellite Attack",
     "platform": "VIDEOPAC",
-    "code": "34"
+    "code": "34",
+    "cib": "CIB"
   },
   {
     "title": "35. Electronic billiards",
     "platform": "VIDEOPAC",
-    "code": "35"
+    "code": "35",
+    "cib": "CIB"
   },
   {
     "title": "35. Electronic Billiards",
     "platform": "VIDEOPAC",
-    "code": "35"
+    "code": "35",
+    "cib": "C"
   },
   {
     "title": "38. Munchkin",
     "platform": "VIDEOPAC",
-    "code": "38"
+    "code": "38",
+    "cib": "CIB"
   },
   {
     "title": "38. Munchkin",
     "platform": "VIDEOPAC",
-    "code": "38"
+    "code": "38",
+    "cib": "C"
   },
   {
     "title": "38. Munchkin",
     "platform": "VIDEOPAC",
-    "code": "38"
+    "code": "38",
+    "cib": "CIB"
   },
   {
     "title": "39. Freedom Fighters",
     "platform": "VIDEOPAC",
-    "code": "39"
-  },
-  {
-    "title": "4. Air-Sea War / Battle",
-    "platform": "VIDEOPAC",
-    "code": "4"
+    "code": "39",
+    "cib": "CIB"
   },
   {
     "title": "40. 4 in 1 row",
     "platform": "VIDEOPAC",
-    "code": "40"
+    "code": "40",
+    "cib": "CIB"
   },
   {
     "title": "42. Quest for the Rings",
     "platform": "VIDEOPAC",
-    "code": "42"
+    "code": "42",
+    "cib": "C"
   },
   {
     "title": "44. Crazy Chase",
     "platform": "VIDEOPAC",
-    "code": "44"
+    "code": "44",
+    "cib": "CIB-"
   },
   {
     "title": "49. Turtles",
     "platform": "VIDEOPAC",
-    "code": "49"
+    "code": "49",
+    "cib": "CIB"
   },
   {
     "title": "51. Terrahawks",
     "platform": "VIDEOPAC",
-    "code": "51"
+    "code": "51",
+    "cib": "CIB"
   },
   {
     "title": "52+. Killer Bees",
     "platform": "VIDEOPAC",
-    "code": "52"
+    "code": "52",
+    "cib": "CIB"
   },
   {
     "title": "54+. Looney Balloon",
     "platform": "VIDEOPAC",
-    "code": "54"
+    "code": "54",
+    "cib": "CIB"
   },
   {
     "title": "55. Neutron Star",
     "platform": "VIDEOPAC",
-    "code": "55"
+    "code": "55",
+    "cib": "CIB"
   },
   {
     "title": "59. Helicopter Rescue",
     "platform": "VIDEOPAC",
-    "code": "59"
-  },
-  {
-    "title": "6. Tenpin Bowling / Basketball",
-    "platform": "VIDEOPAC",
-    "code": "6"
-  },
-  {
-    "title": "7. Mathematician / Echo",
-    "platform": "VIDEOPAC",
-    "code": "7"
-  },
-  {
-    "title": "9. Computer programmer",
-    "platform": "VIDEOPAC",
-    "code": "9"
+    "code": "59",
+    "cib": "CIB"
   },
   {
     "title": "Alien Invaders-Plus!",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AA9428"
+    "code": "ODYSSEY2/AA9428",
+    "cib": "CIB"
   },
   {
     "title": "Pick Axe Pete!",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AC9437"
+    "code": "ODYSSEY2/AC9437",
+    "cib": "CIB"
   },
   {
     "title": "Speedway / Spin-out / Crypto-logic!",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AJ9400"
+    "code": "ODYSSEY2/AJ9400",
+    "cib": "CB"
   },
   {
     "title": "The Great Wall Street Fortune Hunt",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AC9434"
+    "code": "ODYSSEY2/AC9434",
+    "cib": "CIB"
   },
   {
     "title": "UFO!",
     "platform": "VIDEOPAC",
-    "code": "ODYSSEY2/AB9430"
+    "code": "ODYSSEY2/AB9430",
+    "cib": "CIB"
   },
   {
     "title": "Dragon Ball Z Budokai 3",
@@ -3311,52 +3518,62 @@
   {
     "title": "Just Dance 3",
     "platform": "WII",
-    "code": "RVL-SJDP-SCN"
+    "code": "RVL-SJDP-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Mario Kart Wii",
     "platform": "WII",
-    "code": "RVL-RMCP-EUR"
+    "code": "RVL-RMCP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "New Super Mario Bros. Wii",
     "platform": "WII",
-    "code": "RVL-SMNP-SWF-2"
+    "code": "RVL-SMNP-SWF-2",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Galaxy",
     "platform": "WII",
-    "code": "RVL-RMGP-SWD"
+    "code": "RVL-RMGP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Galaxy 2",
     "platform": "WII",
-    "code": "RVL-SB4P-SWF"
+    "code": "RVL-SB4P-SWF",
+    "cib": "CIB"
   },
   {
     "title": "Super Monkey Ball: Banana Blitz",
     "platform": "WII",
-    "code": "RVL-RSMP-UKV"
+    "code": "RVL-RSMP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Tiger Woods PGA Tour 11",
     "platform": "WII",
-    "code": "RVL-STWP-SCN"
+    "code": "RVL-STWP-SCN",
+    "cib": "CIB"
   },
   {
     "title": "WarioWare Smooth Moves",
     "platform": "WII",
-    "code": "RVL-RODP-UKV"
+    "code": "RVL-RODP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Wii Fit",
     "platform": "WII",
-    "code": "RVL-RFNP-SWD"
+    "code": "RVL-RFNP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Wii Fit Plus",
     "platform": "WII",
-    "code": "RVL-RFPP-SWD"
+    "code": "RVL-RFPP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "Wii Sports",
@@ -3371,430 +3588,529 @@
   {
     "title": "Zelda: Skyward Sword",
     "platform": "WII",
-    "code": "RVL-SOUP-EUR"
+    "code": "RVL-SOUP-EUR",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Skyward Sword LE",
     "platform": "WII",
-    "code": "RVL-SOUP-SWF"
+    "code": "RVL-SOUP-SWF",
+    "cib": "CIB"
   },
   {
     "title": "Zelda: Twilight Princess",
     "platform": "WII",
-    "code": "RVL-RZDP-AUS"
+    "code": "RVL-RZDP-AUS",
+    "cib": "CIB"
   },
   {
     "title": "Just Dance 4",
     "platform": "WIIU",
-    "code": "WUP-P-AJDP-EUR-0"
+    "code": "WUP-P-AJDP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "Mario & Sonic Olympic Winter Games Sochi 2014",
     "platform": "WIIU",
-    "code": "TSA-WUP-AURP-UKV"
+    "code": "TSA-WUP-AURP-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Mario Kart 8",
     "platform": "WIIU",
-    "code": "WUP-P-AMKP-EUR-0"
+    "code": "WUP-P-AMKP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "NBA 2K13",
-    "platform": "WIIU"
+    "platform": "WIIU",
+    "cib": "CIB"
   },
   {
     "title": "New Super Luigi U",
     "platform": "WIIU",
-    "code": "TSA-WUP-ARSP-SWD"
+    "code": "TSA-WUP-ARSP-SWD",
+    "cib": "CIB"
   },
   {
     "title": "New Super Mario Bros. U",
     "platform": "WIIU",
-    "code": "WUP-P-ARPP-EUR-0"
+    "code": "WUP-P-ARPP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "NintendoLand",
     "platform": "WIIU",
-    "code": "WUP-P-ALCP-EUR-0"
+    "code": "WUP-P-ALCP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "Pikmin 3",
     "platform": "WIIU",
-    "code": "TSA-WUP-AC3P-UKV"
+    "code": "TSA-WUP-AC3P-UKV",
+    "cib": "CIB"
   },
   {
     "title": "Sports Connection",
     "platform": "WIIU",
-    "code": "TSA-WUP-ASPP-SCN"
+    "code": "TSA-WUP-ASPP-SCN",
+    "cib": "CIB"
   },
   {
     "title": "Super Mario Maker",
-    "platform": "WIIU"
+    "platform": "WIIU",
+    "cib": "CIB"
   },
   {
     "title": "Wii Fit U",
     "platform": "WIIU",
-    "code": "WUP-P-ASTP-EUR-0"
+    "code": "WUP-P-ASTP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "ZombiU",
     "platform": "WIIU",
-    "code": "WUP-P-AZUP-EUR-0"
+    "code": "WUP-P-AZUP-EUR-0",
+    "cib": "CIB"
   },
   {
     "title": "Burnout 3: Takedown",
     "platform": "XBOX",
-    "code": "EAX07404422D1"
+    "code": "EAX07404422D1",
+    "cib": "CIB"
   },
   {
     "title": "Dead or Alive 3",
     "platform": "XBOX",
-    "code": "X08-61678 XZ"
+    "code": "X08-61678 XZ",
+    "cib": "CIB"
   },
   {
     "title": "Grand Theft Auto III",
     "platform": "XBOX",
-    "code": "GTADBL/SC/XBOX/E"
+    "code": "GTADBL/SC/XBOX/E",
+    "cib": "CIB"
   },
   {
     "title": "Grand Theft Auto: Vice City",
     "platform": "XBOX",
-    "code": "GTADBL/SC/XBOX/E"
+    "code": "GTADBL/SC/XBOX/E",
+    "cib": "CIB"
   },
   {
     "title": "Halo 2",
     "platform": "XBOX",
-    "code": "X10-71886 XK"
+    "code": "X10-71886 XK",
+    "cib": "CIB"
   },
   {
     "title": "Ninja Gaiden",
     "platform": "XBOX",
-    "code": "X09-46048 XK"
+    "code": "X09-46048 XK",
+    "cib": "CIB"
   },
   {
     "title": "Project Gotham Racing 2",
     "platform": "XBOX",
-    "code": "X09-85435 XK"
+    "code": "X09-85435 XK",
+    "cib": "CIB"
   },
   {
     "title": "RalliSport Challenge 2",
     "platform": "XBOX",
-    "code": "X10-47087 XK"
+    "code": "X10-47087 XK",
+    "cib": "CIB"
   },
   {
     "title": "Splinter Cell: Pandora Tomorrow",
     "platform": "XBOX",
-    "code": "5003101"
+    "code": "5003101",
+    "cib": "CIB"
   },
   {
     "title": "SSX 3",
     "platform": "XBOX",
-    "code": "EAX07404084D"
+    "code": "EAX07404084D",
+    "cib": "CIB"
   },
   {
     "title": "Battlefield 2: Modern Combat",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Battlefield 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Battlefield 4",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Battlefield Bad Company",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Bionic Commando",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Bioshock 2",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Burnout Paradise The Ultimate Box",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Burnout Revenge",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Cabela's African Safari",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Cabela's Big Game Hunter",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Cabela's Dangerous Adventures",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Call of Duty 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Call of Duty 5",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Call of Duty Black Ops",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Crackdown",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Crackdown 2",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Dirt 2",
     "platform": "XBOX360",
-    "code": "PRL08X3UK03"
+    "code": "PRL08X3UK03",
+    "cib": "CIB"
   },
   {
     "title": "Dirt 3",
     "platform": "XBOX360",
-    "code": "PDIR3X3UK03"
+    "code": "PDIR3X3UK03",
+    "cib": "CIB"
   },
   {
     "title": "Dragon Age: Origins",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "F1 2010",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Fallout 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Final Fantasy XIII",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Forza Motorsport 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Gears of War",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Gears of War 2",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Gears of War 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Ghost Recon Advanced Warfighter",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Grand Theft Auto IV",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Grand Theft Auto V",
     "platform": "XBOX360",
-    "code": "5258050/IN"
+    "code": "5258050/IN",
+    "cib": "CIB"
   },
   {
     "title": "GRID",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Halo 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Just Cause",
     "platform": "XBOX360",
-    "code": "PJUSTTEN07"
+    "code": "PJUSTTEN07",
+    "cib": "CIB"
   },
   {
     "title": "Just Cause 2",
     "platform": "XBOX360",
-    "code": "PJUS2TEX08"
+    "code": "PJUS2TEX08",
+    "cib": "CIB"
   },
   {
     "title": "Kinect Adventures",
     "platform": "XBOX360",
-    "code": "X16-96423-01"
+    "code": "X16-96423-01",
+    "cib": "CIB"
   },
   {
     "title": "Kinect Training",
     "platform": "XBOX360",
-    "code": "X18-46212-01"
+    "code": "X18-46212-01",
+    "cib": "CIB"
   },
   {
     "title": "Lips",
     "platform": "XBOX360",
-    "code": "X15-88233-01"
+    "code": "X15-88233-01",
+    "cib": "CIB"
   },
   {
     "title": "Mass Effect",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Mass Effect 2",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Mass Effect 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Medal of Honor",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Medal of Honor Warfighter Limited Edition",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Mercenaries 2: World in Flames",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Mirror's Edge",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "MotoGP'06",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Perfect Dark Zero",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Prince of Persia",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Pro Evolution Soccer 6",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Project Gotham Racing 3",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Project Gotham Racing 4",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Red Dead Redemption",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Table Tennis",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Test Drive Unlimited 2",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Tiger Woods PGA Tour 08",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Tom Clancy's HAWX",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Tom Clancy's Splinter Cell Double Agent",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "TopSpin 4",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Turning Point",
-    "platform": "XBOX360"
+    "platform": "XBOX360",
+    "cib": "CIB"
   },
   {
     "title": "Alien Isolation",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Assassin's Creed IV Black Flag",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Call of Duty Ghosts",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Far Cry 4",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Forza Motorsport 6",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Grand Theft Auto V",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Halo: The Master Chief Collection",
     "platform": "XBOXONE",
-    "code": "X19-75912-01"
+    "code": "X19-75912-01",
+    "cib": "CIB"
   },
   {
     "title": "Just Dance 2015",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "NBA Live 15",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Need for Speed Rivals",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Rare Reply Collection",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Saints Row IV Reelected",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Screamride",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Sleeping Dogs",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Sunset Overdrive",
     "platform": "XBOXONE",
-    "code": "X19-76998-01"
+    "code": "X19-76998-01",
+    "cib": "CIB"
   },
   {
     "title": "Tomb Raider: Definitivt Edition",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   },
   {
     "title": "Wolfenstein: The New Order",
-    "platform": "XBOXONE"
+    "platform": "XBOXONE",
+    "cib": "CIB"
   }
 ]

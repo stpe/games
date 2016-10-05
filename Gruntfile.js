@@ -25,7 +25,7 @@ module.exports = function(grunt) {
             var rowdata = {};
             Object.keys(row).forEach(function(col) {
               var key = header[col] ? header[col].toLowerCase().replace(/[^a-z]/g, "") : col;
-              if (["title", "platform", "code"].indexOf(key) != -1) {
+              if (["title", "platform", "code", "cib"].indexOf(key) != -1) {
                 rowdata[key] = String(row[col]);
               }
             });
@@ -43,4 +43,3 @@ module.exports = function(grunt) {
   grunt.registerTask('update', ['gss_to_json']);
   grunt.registerTask('default', ['shell:jekyllServe']);
 };
-
