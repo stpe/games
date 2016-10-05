@@ -3250,7 +3250,7 @@
     "cib": "CIB-"
   },
   {
-    "title": "04. Air-Sea War",
+    "title": "04. Air-Sea War / Battle",
     "platform": "VIDEOPAC",
     "code": "4"
   },
@@ -3332,7 +3332,7 @@
     "code": "18"
   },
   {
-    "title": "18. Laserwar",
+    "title": "18. Laser War",
     "platform": "VIDEOPAC",
     "code": "18",
     "cib": "CIB"
@@ -3350,7 +3350,7 @@
     "cib": "CIB"
   },
   {
-    "title": "24. Flipper Game",
+    "title": "24. Flipper",
     "platform": "VIDEOPAC",
     "code": "24"
   },
@@ -3373,7 +3373,7 @@
     "cib": "C"
   },
   {
-    "title": "29. Dam buster",
+    "title": "29. Dam Buster",
     "platform": "VIDEOPAC",
     "code": "29",
     "cib": "CIB"
@@ -3391,7 +3391,7 @@
     "cib": "CIB"
   },
   {
-    "title": "35. Electronic billiards",
+    "title": "35. Electronic Billiards",
     "platform": "VIDEOPAC",
     "code": "35",
     "cib": "CIB"
@@ -3469,13 +3469,13 @@
     "cib": "CIB"
   },
   {
-    "title": "55. Neutron Star",
+    "title": "55+. Neutron Star",
     "platform": "VIDEOPAC",
     "code": "55",
     "cib": "CIB"
   },
   {
-    "title": "59. Helicopter Rescue",
+    "title": "59+. Helicopter Rescue",
     "platform": "VIDEOPAC",
     "code": "59",
     "cib": "CIB"
