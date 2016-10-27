@@ -2171,6 +2171,11 @@
     "cib": "CIB"
   },
   {
+    "title": "Pokémon Super Mystery Dungeon",
+    "platform": "N3DS",
+    "cib": "CIB"
+  },
+  {
     "title": "Pokemon X",
     "platform": "N3DS",
     "cib": "CIB"
@@ -2189,6 +2194,11 @@
     "title": "Ridge Racer 3D",
     "platform": "N3DS",
     "code": "TSA-CTR-ARRP-UKV",
+    "cib": "CIB"
+  },
+  {
+    "title": "Shovel Knight",
+    "platform": "N3DS",
     "cib": "CIB"
   },
   {
@@ -3645,6 +3655,11 @@
     "cib": "CIB"
   },
   {
+    "title": "Paper Mario Color Splash",
+    "platform": "WIIU",
+    "cib": "CIB"
+  },
+  {
     "title": "Pikmin 3",
     "platform": "WIIU",
     "code": "TSA-WUP-AC3P-UKV",
@@ -3665,6 +3680,11 @@
     "title": "Wii Fit U",
     "platform": "WIIU",
     "code": "WUP-P-ASTP-EUR-0",
+    "cib": "CIB"
+  },
+  {
+    "title": "Yoshi's Woolly World",
+    "platform": "WIIU",
     "cib": "CIB"
   },
   {
@@ -3962,6 +3982,11 @@
     "cib": "CIB"
   },
   {
+    "title": "Nike+ Kinect Training",
+    "platform": "XBOX360",
+    "cib": "CIB"
+  },
+  {
     "title": "Perfect Dark Zero",
     "platform": "XBOX360",
     "cib": "CIB"
@@ -4017,6 +4042,11 @@
     "cib": "CIB"
   },
   {
+    "title": "Top Spin 4",
+    "platform": "XBOX360",
+    "cib": "CIB"
+  },
+  {
     "title": "TopSpin 4",
     "platform": "XBOX360",
     "cib": "CIB"
@@ -4042,7 +4072,22 @@
     "cib": "CIB"
   },
   {
+    "title": "Dirt Rally",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
+    "title": "Doom 4",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
     "title": "Far Cry 4",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
+    "title": "Forza Horizon 3 Ultimate Edition",
     "platform": "XBOXONE",
     "cib": "CIB"
   },
@@ -4063,7 +4108,17 @@
     "cib": "CIB"
   },
   {
+    "title": "Just Cause 3",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
     "title": "Just Dance 2015",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
+    "title": "Life is Strange - Limited Edition",
     "platform": "XBOXONE",
     "cib": "CIB"
   },
@@ -4079,6 +4134,11 @@
   },
   {
     "title": "Rare Reply Collection",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
+    "title": "Rise of the Tomb Raider",
     "platform": "XBOXONE",
     "cib": "CIB"
   },
@@ -4104,7 +4164,17 @@
     "cib": "CIB"
   },
   {
+    "title": "The Crew - Wild Run Edition",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
     "title": "Tomb Raider: Definitivt Edition",
+    "platform": "XBOXONE",
+    "cib": "CIB"
+  },
+  {
+    "title": "Trackmania Turbo",
     "platform": "XBOXONE",
     "cib": "CIB"
   },
