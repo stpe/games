@@ -1228,6 +1228,11 @@
     "code": "CX7849"
   },
   {
+    "title": "Galaga",
+    "platform": "A7800",
+    "cib": "C"
+  },
+  {
     "title": "Hat Trick",
     "platform": "A7800",
     "code": "CX7829"
@@ -1253,9 +1258,19 @@
     "code": "CX7850"
   },
   {
+    "title": "Mat Mania",
+    "platform": "A7800",
+    "cib": "C"
+  },
+  {
     "title": "Meltdown",
     "platform": "A7800",
     "code": "CX7875",
+    "cib": "C"
+  },
+  {
+    "title": "Ninja Golf",
+    "platform": "A7800",
     "cib": "C"
   },
   {
@@ -1273,6 +1288,11 @@
     "title": "Super Huey UH-IX",
     "platform": "A7800",
     "code": "CX7828"
+  },
+  {
+    "title": "Tower Toppler",
+    "platform": "A7800",
+    "cib": "CIB"
   },
   {
     "title": "Xevious",
@@ -3215,6 +3235,11 @@
     "cib": "CIB"
   },
   {
+    "title": "The Legend of Zelda - Breath of the Wild",
+    "platform": "SWITCH",
+    "cib": "CIB"
+  },
+  {
     "title": "01. Race / Spin-out / Cryptogram",
     "platform": "VIDEOPAC",
     "code": "1"
@@ -3413,6 +3438,18 @@
     "cib": "C"
   },
   {
+    "title": "36. Electronic Soccer & Electronic Ice Hockey",
+    "platform": "VIDEOPAC",
+    "code": "36",
+    "cib": "CIB"
+  },
+  {
+    "title": "37. Monkeyshines",
+    "platform": "VIDEOPAC",
+    "code": "37",
+    "cib": "CIB"
+  },
+  {
     "title": "38. Munchkin",
     "platform": "VIDEOPAC",
     "code": "38",
@@ -3507,6 +3544,12 @@
     "platform": "VIDEOPAC",
     "code": "ODYSSEY2/AJ9400",
     "cib": "CB"
+  },
+  {
+    "title": "Super Bee",
+    "platform": "VIDEOPAC",
+    "code": "50",
+    "cib": "CIB"
   },
   {
     "title": "The Great Wall Street Fortune Hunt",
@@ -4181,11 +4224,6 @@
   {
     "title": "Wolfenstein: The New Order",
     "platform": "XBOXONE",
-    "cib": "CIB"
-  },
-  {
-    "title": "The Legend of Zelda - Breath of the Wild",
-    "platform": "SWITCH",
     "cib": "CIB"
   }
 ]
